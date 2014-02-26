@@ -1,0 +1,625 @@
+J. BLACKWOOD & SON LIMITED           RE-ENTRY KEY/ PAGE ID ORDERS REPORT  - SORTED BY PICKING ORDER NUMBER.     TUESDAY, JUNE 25, 2013 14:06   PAGE   1
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ ORDER       |   ZONE   | CUSTOMER     | CUSTOMER                            |      LABEL     | RE-ENTRY |      STATUS    | PRODUCT    | ALLOCATED  | PICK | ALLOCATED |  ORDERED  |  AVAILBLE 
+ NUMBER      |          | NUMBER       | NAME                                |  DATE    TIME  |   KEY    |                |            | LOCATION   | LINE | STOCK ID  |  QUANTITY |  QUANTITY
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+030324       | 99    | 160030       |                                     | 25/06/13 07:30 | 989540   | Nothing Picked | 00887383   | VEND.RETN  | VRET | A4724317  |         1 |         0
+030338       | 04    | 181524       |                                     | 25/06/13 07:12 | 989523   | Nothing Picked | 00485520   | VEND.RETN  | VRET | A4724311  |         4 |         0
+030349       | 10    | 171186       |                                     | 25/06/13 05:19 | 989454   | Nothing Picked | B0914-8449 | VEND.RETN  | VRET | A4724281  |         1 |         0
+030350       | 04    | 215068       |                                     | 25/06/13 07:16 | 989527   | Nothing Picked | 09068904   | VEND.RETN  | VRET | A4724313  |         2 |         0
+030351       | 16    | 130036       |                                     | 25/06/13 07:05 | 989516   | Nothing Picked | 02211758   | VEND.RETN  | VRET | A4724308  |         3 |         0
+030354       | 99    | 210360       |                                     | 25/06/13 06:50 | 989477   | Nothing Picked | 05034868   | VEND.RETN  | VRET | A4724302  |         2 |         0
+030360       | 01    | 173502       | MR FILTER PTY LTD                   | 25/06/13 12:03 | 990934   | Nothing Picked | 02538226   | VEND.RETN  | VRET | A4724896  |        18 |         0
+030362       | 04    | 181523       |                                     | 25/06/13 06:52 | 989479   | Nothing Picked | 04464406   | VEND.RETN  | VRET | A4724303  |         1 |         0
+030363       | 10    | 136067       |                                     | 25/06/13 07:58 | 989575   | Nothing Picked | 00967036   | VEND.RETN  | VRET | A4724319  |         2 |         0
+030369       | 04    | 100530       | J BLACKWOOD & SON -WHYALLA          | 25/06/13 08:07 | 989606   | Nothing Picked | 05423611   | VEND.RETN  | VRET | A4724322  |         6 |         0
+030371       | 01    | 145048       |                                     | 25/06/13 07:55 | 989574   | Nothing Picked | 01494291   | VEND.RETN  | VRET | A4724318  |        12 |         0
+030381       | 99    | 172921       | ALAN HESS                           | 25/06/13 11:16 | 990754   | Nothing Picked | 05976016   | VEND.RETN  | VRET | A4724834  |         1 |         0
+303156613301 | 10    | 071134       | HP INDUSTRIES                       | 25/06/13 12:54 | 991223   | Nothing Picked | 01893902   | PICKRECV   | RECV | A4724948  |       100 |         0
+303287458902 | 13    | 004919       | ALCOA AUST. -                       | 25/06/13 12:18 | 990989   | Nothing Picked | B0383-2881 | C5         | CONS | A4722512  |       600 |         0
+304057791802 | 09    | 061495       | ROADS & MARITIME SERVICES - SYDNEY  | 25/06/13 13:05 |      0   | Nothing Picked | 00638860   | BOOK.ERROR | NPIC | A4644554  |       265 |         0
+304178542901 | 10    | 880949       | CAMPBELLTOWN COLLEGE OF TAFE        | 25/06/13 10:00 | 990267   | Nothing Picked | 03970506   | PICKRECV   | RECV | A4724694  |         1 |         0
+305060603301 | 02    | 085600       | MEMJET NORTH RYDE PTY LIMITED       | 25/06/13 13:26 | 991378   | Nothing Picked | 02513605   | PICKRECV   | RECV | A4725014  |        19 |         0
+305060639501 | 10    | 880949       | CAMPBELLTOWN COLLEGE OF TAFE        | 25/06/13 10:00 | 990268   | Nothing Picked | 03970506   | PICKRECV   | RECV | A4724694  |         1 |         0
+305100987912 | 13    | 004919       | ALCOA AUST. -                       | 25/06/13 12:18 | 990990   | Nothing Picked | 01781108   | C5         | CONS | A4723135  |        20 |         0
+305131050401 | 03    | 099285       | ELTEK PACIFIC PTY LTD               | 25/06/13 13:05 |      0   | Nothing Picked | 04352505   |            |      |           |         2 |        30
+305141215602 | 06    | 061196       | TUNNEL HOLDINGS PTY LTD             | 25/06/13 13:05 |      0   | Nothing Picked | 04352505   |            |      |           |         1 |        30
+305151318102 | 57    | 082546       | THALES AUSTRALIA                    | 25/06/13 10:45 | 990611   | Nothing Picked | 01665907   | 13626201   | 13   | A4723799  |         1 |        15
+305171460000 | 18    | 117143       | QUICKSTEP TECHNOLOGIES PTY LTD      | 25/06/13 11:24 | 990788   | Nothing Picked | 06189911   | CROSSDOC   | CRSS | A4701082  |         2 |         0
+305201539201 | 30    | 598495       | SUNBEAM CORPORATION LTD             | 25/06/13 13:05 |      0   | Nothing Picked | 04352505   |            |      |           |         1 |        30
+305211678201 | 16    | 880012       | A N S T O (PURCHASE ORDERS)         | 25/06/13 12:59 | 991247   | Nothing Picked | 04055510   | CROSSDOC   | CRSS | A4718754  |        10 |         0
+305211706103 | 30    | 008694       | ORIGIN ENERGY SERVICES              | 25/06/13 13:05 |      0   | Nothing Picked | 04352505   |            |      |           |         2 |        30
+305231876304 | 14    | 085741       | DEPT OF DEFENCE - AAML (EDI ONLY)   | 25/06/13 12:18 | 990991   | Nothing Picked | B0778-7202 | C1         | CONS | A4724234  |        22 |         0
+305241961001 | 09    | 885139       | SYDNEY HARBOUR FORESHORE AUTHORITY  | 25/06/13 13:05 |      0   | Nothing Picked | 04352505   |            |      |           |         6 |        30
+305282135102 | 07    | 099306       | WABTEC AUSTRALIA PTY LTD            | 25/06/13 13:05 |      0   | Nothing Picked | 04352505   |            |      |           |         1 |        30
+305312418901 | 07    | 008699       | RAILCORP ECOMMERCE ARIBA ACC        | 25/06/13 12:38 | 991104   | Nothing Picked | 00952195   | CROSSDOC   | CRSS | A4710966  |        10 |         0
+305312461501 | 19    | 042591       | MULCO TOOL AND ENGINEERING PTY LTD  | 25/06/13 11:50 | 990904   | Nothing Picked | 00853315   | CROSSDOC   | CRSS | A4710981  |        10 |         0
+306032518702 | 07    | 008699       | RAILCORP ECOMMERCE ARIBA ACC        | 25/06/13 13:50 | 991449   | Nothing Picked | 03707911   | CROSSDOC   | CRSS | A4721196  |         3 |         0
+306032533800 | 99    | 099215       | REDOX PTY LTD                       | 25/06/13 12:19 | 990998   | Nothing Picked | 04721868   | 36260401   | 04B  | A4709201  |         5 |         4
+306042680000 | 10    | 011160       | ADVANCE METAL PRODUCTS (AUST) PTY L | 25/06/13 09:27 | 989908   | Nothing Picked | 02311917   | 07603001   | 07   | A4653055  |        94 |         0
+306052751002 | 25    | 088625       | CHASSIS BRAKES INTERNATIONAL CASTIN | 25/06/13 10:34 | 990567   | Nothing Picked | 06496489   | CROSSDOC   | CRSS | A4717610  |        20 |         0
+306052779401 | 07    | 096151       | BASELL AUSTRALIA PTY LTD            | 25/06/13 09:59 | 990255   | Nothing Picked | 00137088   | CROSSDOC   | CRSS | A4713934  |         4 |         0
+306062837100 | 09    | 045054       | OTIS ELEVATOR COMPANY PTY LTD       | 25/06/13 12:58 | 991245   | Nothing Picked | 04600468   | 47070701   | 01A  | A4690227  |         3 |         9
+306062837100 | 09    | 045054       | OTIS ELEVATOR COMPANY PTY LTD       | 25/06/13 12:58 | 991246   | Nothing Picked | 06756776   | 39560401   | 04B  | A4703693  |         1 |         2
+306062848801 | 06    | 042577       | COCHLEAR  LIMITED                   | 25/06/13 09:59 | 990256   | Nothing Picked | 03104445   | CROSSDOC   | CRSS | A4713942  |       100 |         0
+306072910201 | 19    | 048504       | PLASSER AUSTRALIA PTY LTD           | 25/06/13 13:16 |      0   | Nothing Picked | 02240800   |            |      | A4724995  |         1 |         0
+306072910201 | 19    | 048504       | PLASSER AUSTRALIA PTY LTD           | 25/06/13 13:16 | 991337   | Nothing Picked | 02240800   | CROSSDOC   | CRSS | A4717752  |         2 |         0
+306102971101 | 13    | 880018       | NSW AMBULANCE SERVICE               | 25/06/13 13:46 | 991436   | Nothing Picked | 03774415   | CROSSDOC   | CRSS | A4716813  |         4 |         0
+306112977202 | 21    | 008699       | RAILCORP ECOMMERCE ARIBA ACC        | 25/06/13 13:16 | 991328   | Nothing Picked | 00885479   | PICKRECV   | RECV | A4724976  |         1 |         0
+306112977202 | 21    | 008699       | RAILCORP ECOMMERCE ARIBA ACC        | 25/06/13 13:16 | 991329   | Nothing Picked | 01086556   | PICKRECV   | RECV | A4724977  |         2 |         0
+306112977202 | 21    | 008699       | RAILCORP ECOMMERCE ARIBA ACC        | 25/06/13 13:16 | 991333   | Nothing Picked | 01087453   | PICKRECV   | RECV | A4724978  |         2 |         0
+306112990305 | 99    | BT4005       | J BLACKWOOD & SON LTD  - CANBERRA   | 25/06/13 09:31 | 990001   | Nothing Picked | 04038460   | PICKRECV   | RECV | A4724539  |         1 |         0
+306112993002 | 99    | BT4017       | J BLACKWOOD & SON LTD - NEWCASTLE   | 25/06/13 12:54 | 991225   | Nothing Picked | 03670000   | PICKRECV   | RECV | A4724949  |         2 |         0
+306113063601 | 09    | 880359       | ST VINCENTS HOSPITAL (PUBLIC)       | 25/06/13 13:46 | 991439   | Nothing Picked | 05013783   | CROSSDOC   | CRSS | A4716817  |         1 |         0
+306123070603 | 86    | BT5536       | BLACKWOODS - TUGGERAH               | 25/06/13 13:05 |      0   | Nothing Picked | 04352505   |            |      |           |         2 |        30
+306123073300 | 33    | 884725       | STA - GENERAL LEICHHARDT            | 25/06/13 12:47 | 991139   | Nothing Picked | 03585749   | CROSSDOC   | CRSS | A4716818  |        24 |         0
+306123076402 | 11    | 103528       | P R M REFRIGERATION                 | 25/06/13 11:11 | 990738   | Nothing Picked | 03365514   | CROSSDOC   | CRSS | A4717758  |         1 |         0
+306123087803 | 99    | BT4018       | BLACKWOODS - WOLLONGONG             | 25/06/13 09:56 | 990225   | Nothing Picked | 00967045   | PICKRECV   | RECV | A4724660  |         2 |         0
+306123122202 | 14    | 085741       | DEPT OF DEFENCE - AAML (EDI ONLY)   | 25/06/13 11:26 | 990812   | Nothing Picked | 05826700   | 07035901   | 07   | A4671792  |         3 |         0
+306123124902 | 14    | 085708       | DEPT OF DEFENCE - JOPS (EDI ONLY)   | 25/06/13 10:41 | 990593   | Nothing Picked | 07237902   | 19053601   | 19   | A4612007  |         1 |        14
+306123129501 | 03    | 880129       | ENVIRONMENT PROTECTION AUTHORITY OF | 25/06/13 13:46 | 991435   | Nothing Picked | 00608617   | CROSSDOC   | CRSS | A4716820  |         1 |         0
+306123129501 | 03    | 880129       | ENVIRONMENT PROTECTION AUTHORITY OF | 25/06/13 13:46 | 991438   | Nothing Picked | 05002325   | CROSSDOC   | CRSS | A4716821  |         4 |         0
+306123135002 | 99    | BT3076       | ATKINS CARLYLE KARRATHA             | 25/06/13 13:08 | 991313   | Nothing Picked | 00684617   | PICKRECV   | RECV | A4724959  |        20 |         0J. BLACKWOOD & SON LIMITED           RE-ENTRY KEY/ PAGE ID ORDERS REPORT  - SORTED BY PICKING ORDER NUMBER.     TUESDAY, JUNE 25, 2013 14:06   PAGE   2
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ ORDER       |   ZONE   | CUSTOMER     | CUSTOMER                            |      LABEL     | RE-ENTRY |      STATUS    | PRODUCT    | ALLOCATED  | PICK | ALLOCATED |  ORDERED  |  AVAILBLE 
+ NUMBER      |          | NUMBER       | NAME                                |  DATE    TIME  |   KEY    |                |            | LOCATION   | LINE | STOCK ID  |  QUANTITY |  QUANTITY
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+306123149201 | 07    | 033095       | ELI LILLY AUSTRALIA PTY LIMITED     | 25/06/13 13:46 | 991437   | Nothing Picked | 04119974   | CROSSDOC   | CRSS | A4716822  |         3 |         0
+306123151302 | 25    | 060939       | TECHPLAS EXTRUSIONS PTY LTD         | 25/06/13 12:24 | 991025   | Nothing Picked | 00931302   | CROSSDOC   | CRSS | A4717133  |         2 |         0
+306133169101 | 23    | 081222       | MARRICKVILLE COUNCIL                | 25/06/13 11:11 | 990737   | Nothing Picked | 00885547   | CROSSDOC   | CRSS | A4717774  |         2 |         0
+306133169400 | 02    | 002177       | AIR BRAKE CORPORATION OF AUSTRALIA  | 25/06/13 11:12 | 990743   | Nothing Picked | B0706-6292 | CROSSDOC   | CRSS | A4717847  |         2 |         0
+306133169400 | 02    | 002177       | AIR BRAKE CORPORATION OF AUSTRALIA  | 25/06/13 11:12 | 990744   | Nothing Picked | B0706-6293 | CROSSDOC   | CRSS | A4717848  |         2 |         0
+306133172101 | 14    | 269181       | IPLEX PIPELINES AUST PTY LTD        | 25/06/13 11:11 | 990739   | Nothing Picked | 08141817   | CROSSDOC   | CRSS | A4717775  |         1 |         0
+306133175101 | 81    | 008699       | RAILCORP ECOMMERCE ARIBA ACC        | 25/06/13 09:25 | 989901   | Nothing Picked | 09916056   | CROSSDOC   | CRSS | A4718811  |         1 |         0
+306133187102 | 06    | 265261       | SHELL REFINING (AUST) PL-WEB ACC ON | 25/06/13 11:49 | 990896   | Nothing Picked | 00552959   | PICKRECV   | RECV | A4724885  |         1 |         0
+306133187102 | 06    | 265261       | SHELL REFINING (AUST) PL-WEB ACC ON | 25/06/13 11:49 | 990897   | Nothing Picked | 01083157   | PICKRECV   | RECV | A4724886  |         1 |         0
+306133187302 | 86    | 061495       | ROADS & MARITIME SERVICES - SYDNEY  | 25/06/13 12:46 | 991136   | Nothing Picked | 04222501   | CROSSDOC   | CRSS | A4718871  |         1 |         0
+306133187302 | 86    | 061495       | ROADS & MARITIME SERVICES - SYDNEY  | 25/06/13 12:46 | 991137   | Nothing Picked | 05001594   | CROSSDOC   | CRSS | A4718872  |         2 |         0
+306133187302 | 86    | 061495       | ROADS & MARITIME SERVICES - SYDNEY  | 25/06/13 12:46 | 991138   | Nothing Picked | 05306064   | CROSSDOC   | CRSS | A4718870  |         6 |         0
+306133187801 | 06    | 061196       | TUNNEL HOLDINGS PTY LTD             | 25/06/13 13:05 |      0   | Nothing Picked | 04352505   |            |      |           |         1 |        30
+306133193601 | 16    | 277807       | *JBS SMITHFIELD PRE PAID CREDIT CAR | 25/06/13 13:05 |      0   | Nothing Picked | 05439854   |            |      | A4720522  |         1 |         0
+306133213801 | 16    | 880012       | A N S T O (PURCHASE ORDERS)         | 25/06/13 09:25 | 989899   | Nothing Picked | 04999520   | CROSSDOC   | CRSS | A4718815  |         2 |         0
+306133252400 | 33    | 361449       | SYDNEY SHIP REPAIR & ENGINEERING PT | 25/06/13 09:25 | 989900   | Nothing Picked | 06792595   | CROSSDOC   | CRSS | A4718826  |         1 |         0
+306143268502 | 02    | 008699       | RAILCORP ECOMMERCE ARIBA ACC        | 25/06/13 11:25 | 990799   | Nothing Picked | 06414974   | CROSSDOC   | CRSS | A4718765  |         1 |         0
+306143289702 | 23    | 081301       | BANKSTOWN CITY COUNCIL              | 25/06/13 13:36 | 991392   | Nothing Picked | 06480322   | CROSSDOC   | CRSS | A4718774  |         1 |         0
+306143294401 | 16    | 880012       | A N S T O (PURCHASE ORDERS)         | 25/06/13 11:25 | 990800   | Nothing Picked | 07812051   | CROSSDOC   | CRSS | A4718777  |         1 |         0
+306143295501 | 19    | 267552       | O-I AUSTRALIA - NATIONAL ACCOUNT    | 25/06/13 11:25 | 990801   | Nothing Picked | 07851746   | CROSSDOC   | CRSS | A4718778  |         4 |         0
+306143297301 | 11    | 093435       | THORN LIGHTING                      | 25/06/13 12:36 | 991076   | Nothing Picked | 01974708   | PICKRECV   | RECV | A4724928  |       850 |         0
+306143308301 | 06    | 880352       | ZOOLOGICAL PARK BOARD               | 25/06/13 10:57 | 990666   | Nothing Picked | 01649484   | CROSSDOC   | CRSS | A4724822  |         1 |         0
+306173347902 | 57    | 082546       | THALES AUSTRALIA                    | 25/06/13 13:05 |      0   | Nothing Picked | 04352505   |            |      |           |         2 |        30
+306173360701 | 10    | 001951       | AUSTRALIAN ENGINEERING SALES & SERV | 25/06/13 10:33 | 991444   | Nothing Picked | 09817235   | CROSSDOC   | CRSS | A4719585  |         2 |         0
+306173365702 | 07    | 096151       | BASELL AUSTRALIA PTY LTD            | 25/06/13 10:12 | 990415   | Nothing Picked | 04470656   | PICKRECV   | RECV | A4724745  |        50 |         0
+306173366102 | 14    | 272532       | SERCO SODEXO DEFENCE SERVICES PTY L | 25/06/13 13:05 |      0   | Nothing Picked | 07243282   |            |      |           |        15 |       209
+306173380201 | 09    | 061495       | ROADS & MARITIME SERVICES - SYDNEY  | 25/06/13 10:12 | 990420   | Nothing Picked | 01219672   | CROSSDOC   | CRSS | A4719784  |        50 |         0
+306173389501 | 19    | 048504       | PLASSER AUSTRALIA PTY LTD           | 25/06/13 11:24 | 990790   | Nothing Picked | 08521614   | CROSSDOC   | CRSS | A4719645  |         1 |         0
+306173390900 | 05    | 057731       | SIGMA AIR CONDITIONING              | 25/06/13 10:12 |      0   | Nothing Picked | 09851881   |            |      |           |         8 |        52
+306173390900 | 05    | 057731       | SIGMA AIR CONDITIONING              | 25/06/13 10:12 | 990421   | Nothing Picked | 01447303   | CROSSDOC   | CRSS | A4719788  |       100 |         0
+306173392800 | 12    | 080179       | ORICA AUSTRALIA PTY LTD             | 25/06/13 13:52 | 991452   | Nothing Picked | 01972382   | CROSSDOC   | CRSS | A4719900  |         1 |         0
+306173393301 | 99    | 009584       | FAIVELEY TRANSPORT AUSTRALIA LTD    | 25/06/13 13:48 | 991443   | Nothing Picked | 03374150   | CROSSDOC   | CRSS | A4719588  |         2 |         0
+306173396901 | 07    | 057378       | STOWE AUSTRALIA PTY LTD             | 25/06/13 12:43 | 991131   | Nothing Picked | 02053806   | PICKRECV   | RECV | A4724936  |         7 |         0
+306173399503 | 14    | 037705       | MOOREBANK AEROSOL FILLERS           | 25/06/13 10:33 |      0   | Nothing Picked | 00620908   |            |      |           |         2 |         0
+306173399503 | 14    | 037705       | MOOREBANK AEROSOL FILLERS           | 25/06/13 10:33 | 990564   | Nothing Picked | 03544107   | PICKRECV   | RECV | A4724795  |         7 |         0
+306173409801 | 33    | 276209       | JEMENA ASSET MANAGEMENT P/L         | 25/06/13 11:37 | 990845   | Nothing Picked | 07853157   | CROSSDOC   | CRSS | A4719793  |        15 |         0
+306173417500 | 63    | 900074       | JBS COFFS HARBOUR - COD ACCOUNT     | 25/06/13 10:12 | 990418   | Nothing Picked | 00238850   | CROSSDOC   | CRSS | A4719795  |         4 |         0
+306173417500 | 63    | 900074       | JBS COFFS HARBOUR - COD ACCOUNT     | 25/06/13 10:12 | 990419   | Nothing Picked | 01215286   | CROSSDOC   | CRSS | A4719796  |         2 |         0
+306173418002 | 10    | 016623       | TSA METAL PRODUCTS PTY LTD          | 25/06/13 10:07 | 990384   | Nothing Picked | 05999477   | PICKRECV   | RECV | A4724717  |         1 |         0
+306173424201 | 06    | 881046       | ST PIUS X COLLEGE                   | 25/06/13 12:43 | 991132   | Nothing Picked | 05368006   | PICKRECV   | RECV | A4724937  |       750 |         0
+306173427901 | 81    | 082545       | THALES AUSTRALIA                    | 25/06/13 10:00 | 990266   | Nothing Picked | 05494116   | CROSSDOC   | CRSS | A4720425  |         1 |         0
+306183443902 | 04    | 028601       | ONESTEEL MARKET MILLS               | 25/06/13 08:46 | 989728   | Nothing Picked | 01571947   | C2         | CONS | A4724378  |         8 |         0
+306183455603 | 40    | BT4004       | BAKERS CONSTRUCTION - BLACKTOWN     | 25/06/13 10:00 | 990262   | Nothing Picked | 04904607   | PICKRECV   | RECV | A4724690  |        12 |         0
+306183504001 | 07    | 078300       | NSW HEALTH PATHOLOGY                | 25/06/13 12:41 | 991106   | Nothing Picked | 01615841   | CROSSDOC   | CRSS | A4720135  |         1 |         0
+306183531600 | 10    | 632454       | MARTOGG ENGINEERING SERVICES        | 25/06/13 13:28 | 991381   | Nothing Picked | 00521288   | 48620301   | 04A  | A4706761  |         2 |        44
+306183531600 | 10    | 632454       | MARTOGG ENGINEERING SERVICES        | 25/06/13 13:28 | 991382   | Nothing Picked | 00794920   | 41270501   | 35   | A4544519  |         2 |       199
+306193550902 | 99    | BT5535       | J BLACKWOOD & SON LTD - WAGGA       | 25/06/13 13:05 |      0   | Nothing Picked | 06739300   |            |      |           |       288 |         0
+306193570600 | 21    | 052481       | SOUTH EASTERN SYDNEY LOCAL HEALTH D | 25/06/13 12:26 | 991052   | Nothing Picked | 04215419   | 37520401   | 04A  | A4702381  |         6 |       411
+306193602102 | 12    | 066052       | VINIDEX PTY LTD  FITTING DIV        | 25/06/13 07:15 | 989525   | Nothing Picked | 00744357   | PICKRECV   | RECV | A4724316  |         1 |         0
+306193605901 | 05    | 880144       | GRANVILLE COLLEGE OF TAFE           | 25/06/13 09:52 | 990206   | Nothing Picked | 06965204   | PICKRECV   | RECV | A4724646  |         6 |         0
+306193606702 | 12    | 095395       | MARUBENI POWER DEVELOPMENT AUSTRALI | 25/06/13 12:05 | 990956   | Nothing Picked | 02080739   | 19182801   | 19   | A4313835  |         2 |         0
+306193620002 | 11    | 106094       | ROCKET INDUSTRIES PTY LTD           | 25/06/13 10:04 |      0   | Nothing Picked | 05686704   |            |      |           |         5 |         0
+306193620002 | 11    | 106094       | ROCKET INDUSTRIES PTY LTD           | 25/06/13 10:04 | 990299   | Nothing Picked | 05695504   | 15521802   | 15   | A4580580  |         3 |         2
+306193623401 | 10    | 118541       | VISYPET PTY LTD - PRESTONS          | 25/06/13 12:57 | 991243   | Nothing Picked | 01893902   | PICKRECV   | RECV | A4724953  |       100 |         0
+306193625601 | 02    | 257015       | ROYAL WOLF TRADING.                 | 25/06/13 11:05 | 990702   | Nothing Picked | 09837216   | 16610501   | 16   | A4723923  |        32 |        20
+306193629101 | 16    | 880012       | A N S T O (PURCHASE ORDERS)         | 25/06/13 09:41 |      0   | Nothing Picked | 01857445   |            |      | A4722276  |         1 |         0
+306193629101 | 16    | 880012       | A N S T O (PURCHASE ORDERS)         | 25/06/13 09:41 | 990074   | Nothing Picked | 08203561   | CROSSDOC   | CRSS | A4722277  |         1 |         0J. BLACKWOOD & SON LIMITED           RE-ENTRY KEY/ PAGE ID ORDERS REPORT  - SORTED BY PICKING ORDER NUMBER.     TUESDAY, JUNE 25, 2013 14:06   PAGE   3
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ ORDER       |   ZONE   | CUSTOMER     | CUSTOMER                            |      LABEL     | RE-ENTRY |      STATUS    | PRODUCT    | ALLOCATED  | PICK | ALLOCATED |  ORDERED  |  AVAILBLE 
+ NUMBER      |          | NUMBER       | NAME                                |  DATE    TIME  |   KEY    |                |            | LOCATION   | LINE | STOCK ID  |  QUANTITY |  QUANTITY
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+306203660501 | 26    | 028463       | SYDNEY CRICKET & SPORTS GROUND      | 25/06/13 11:04 | 990686   | Nothing Picked | 00879792   | C2         | CONS | A4724826  |         1 |         0
+306203674803 | 04    | 052538       | WESTERN SYDNEY LOCAL HEALTH DISTRIC | 25/06/13 13:53 | 991454   | Nothing Picked | 04252065   | PICKRECV   | RECV | A4725049  |         1 |         0
+306203676404 | 21    | 880242       | NSW DEPARTMENT OF COMMERCE          | 25/06/13 10:09 | 990393   | Nothing Picked | 07717140   | CROSSDOC   | CRSS | A4722295  |        12 |         0
+306203682002 | 23    | 008699       | RAILCORP ECOMMERCE ARIBA ACC        | 25/06/13 12:06 | 990967   | Nothing Picked | 01545260   | PICKRECV   | RECV | A4724905  |         4 |         0
+306203687302 | 13    | 005224       | BEARING ENGINEERING SERVICES PTY LT | 25/06/13 09:31 | 990002   | Nothing Picked | 04039962   | PICKRECV   | RECV | A4724540  |        10 |         0
+306203689400 | 16    | 511098       | BLUEHAZE PTY LTD                    | 25/06/13 11:42 | 990883   | Nothing Picked | 01521252   | 43060401   | 26   | A4685439  |         1 |       263
+306203695102 | 78    | 778075       | TELSTRA C&C MRP MS WA (C6X)         | 25/06/13 09:27 | 989911   | Nothing Picked | 00251396   | 26620101   | 07A  | A4718105  |         1 |        10
+306203697202 | 11    | BT5141       | TOTAL FASTENERS (WETHERILL PARK)    | 25/06/13 10:07 | 990385   | Nothing Picked | 05999477   | PICKRECV   | RECV | A4724717  |         6 |         0
+306203697801 | Q1    | 002595       | QANTAS HANGER 245                   | 25/06/13 09:41 | 990073   | Nothing Picked | 08157780   | CROSSDOC   | CRSS | A4722310  |         1 |         0
+306203711501 | 21    | 008699       | RAILCORP ECOMMERCE ARIBA ACC        | 25/06/13 09:41 |      0   | Nothing Picked | 03856151   |            |      | A4722316  |         1 |         0
+306203711501 | 21    | 008699       | RAILCORP ECOMMERCE ARIBA ACC        | 25/06/13 09:41 | 990072   | Nothing Picked | 03863512   | CROSSDOC   | CRSS | A4722317  |         1 |         0
+306203716202 | 78    | 778075       | TELSTRA C&C MRP MS WA (C6X)         | 25/06/13 09:28 | 989932   | Nothing Picked | 05736104   | 26550101   | 07A  | A4488038  |         1 |        28
+306203725600 | 07    | 033222       | RENTOKIL                            | 25/06/13 13:46 | 991434   | Nothing Picked | 03484293   | PICKRECV   | RECV | A4725044  |         3 |         2
+306213732201 | 05    | 269197       | THE HILLS BARK BLOWER               | 25/06/13 14:01 | 991489   | Nothing Picked | 09920867   | CROSSDOC   | CRSS | A4723869  |         1 |         0
+306213732502 | 99    | BT4013       | J BLACKWOOD & SON LTD - TAMWORTH    | 25/06/13 13:05 |      0   | Nothing Picked | 07243282   |            |      |           |        39 |       209
+306213738302 | 99    | BT4018       | BLACKWOODS - WOLLONGONG             | 25/06/13 13:05 |      0   | Nothing Picked | 07243282   |            |      |           |       221 |       209
+306213753301 | 11    | 259777       | CSR BUILDING PRODUCTS LTD-BLACKWOOD | 25/06/13 13:16 |      0   | Nothing Picked | 00530799   |            |      |           |         2 |         0
+306213753301 | 11    | 259777       | CSR BUILDING PRODUCTS LTD-BLACKWOOD | 25/06/13 13:16 | 991334   | Nothing Picked | 03308457   | PICKRECV   | RECV | A4724982  |         1 |         0
+306213755101 | 33    | 276209       | JEMENA ASSET MANAGEMENT P/L         | 25/06/13 10:06 |      0   | Nothing Picked | 07285611   |            |      |           |        19 |         0
+306213755101 | 33    | 276209       | JEMENA ASSET MANAGEMENT P/L         | 25/06/13 10:06 | 990376   | Nothing Picked | 03967108   | PICKRECV   | RECV | A4724709  |        20 |         0
+306213776601 | 30    | 067231       | KELLOGG (AUST) PTY  LTD             | 25/06/13 14:01 | 991488   | Nothing Picked | 07981779   | PICKRECV   | RECV | A4725069  |         1 |         0
+306213782301 | 21    | 095800       | MONROE SPRINGS (AUSTRALIA) PTY LTD  | 25/06/13 13:00 | 991250   | Nothing Picked | 01893902   | PICKRECV   | RECV | A4724955  |       100 |         0
+306213784002 | 16    | 008699       | RAILCORP ECOMMERCE ARIBA ACC        | 25/06/13 14:01 | 991487   | Nothing Picked | 00715405   | PICKRECV   | RECV | A4725066  |         8 |         0
+306213788001 | 33    | 099404       | SILCAR COMMUNICATIONS               | 25/06/13 13:05 |      0   | Nothing Picked | 08254102   |            |      |           |         2 |        50
+306213791802 | 26    | 263390       | THALES AUSTRALIA                    | 25/06/13 09:34 |      0   | Nothing Picked | 04130303   |            |      |           |         7 |         0
+306213791802 | 26    | 263390       | THALES AUSTRALIA                    | 25/06/13 09:34 | 990401   | Nothing Picked | 04111102   | PICKRECV   | RECV | A4724722  |        11 |         0
+306223809502 | 16    | 008148       | CALTEX REFINERIES (NSW) PTY LTD     | 25/06/13 13:05 | 991273   | Nothing Picked | 00484211   | 36300101   | 04   | A4692918  |      1000 |      3035
+306243812700 | 02    | 022979       | SAUNDERSON, STEVEN JOHN             | 25/06/13 09:59 | 991360   | Nothing Picked | 08363406   | 10095602   | 10   | A4259470  |        12 |       100
+306243813700 | 03    | 880230       | PITTWATER MUNICIPAL COUNCIL         | 25/06/13 09:54 | 990215   | Nothing Picked | 04127947   | 07522202   | 07   | A4681260  |         1 |        63
+306243817103 | 53    | 555555       | WEIR MINERALS AUSTRALIA LTD         | 25/06/13 10:04 | 990305   | Nothing Picked | 00559506   | 07682002   | 07   | A4635223  |        10 |        13
+306243818002 | 23    | 008699       | RAILCORP ECOMMERCE ARIBA ACC        | 25/06/13 09:31 | 990004   | Nothing Picked | 05503740   | PICKRECV   | RECV | A4724543  |        60 |         0
+306243819404 | 99    | BT4015       | J BLACKWOOD & SON LIMITED           | 25/06/13 10:04 | 990307   | Nothing Picked | 00547000   | 07694602   | 07   | A4710350  |         6 |        50
+306243820001 | 12    | 027248       | G JAMES GLASS & ALUMINIUM PTY LTD   | 25/06/13 10:04 |      0   | Nothing Picked | 00666493   |            |      | A4724610  |        10 |         0
+306243820001 | 12    | 027248       | G JAMES GLASS & ALUMINIUM PTY LTD   | 25/06/13 10:04 | 990308   | Nothing Picked | 00987656   | 07655401   | 07   | A4706781  |         2 |        76
+306243821303 | 99    | BT6001       | J BLACKWOOD & SON LIMITED-MT GAMBIE | 25/06/13 10:04 | 990309   | Nothing Picked | 04228961   | 07554602   | 07   | A4679385  |         1 |         3
+306243822202 | 09    | 008699       | RAILCORP ECOMMERCE ARIBA ACC        | 25/06/13 09:31 | 990023   | Nothing Picked | 05503740   | PICKRECV   | RECV | A4724543  |        60 |         0
+306243824000 | 25    | 003145       | BASF AUSTRALIA LTD                  | 25/06/13 10:19 | 991468   | Nothing Picked | 00392909   | 71040201   | 34A  | A4639577  |         6 |       972
+306243824000 | 25    | 003145       | BASF AUSTRALIA LTD                  | 25/06/13 10:19 | 991469   | Nothing Picked | 04069365   | 71650202   | 34A  | A4677581  |         6 |       932
+306243824403 | 40    | BT4004       | BAKERS CONSTRUCTION - BLACKTOWN     | 25/06/13 10:04 | 990310   | Nothing Picked | 00987656   | 07655401   | 07   | A4706781  |         5 |        76
+306243825400 | 03    | 277807       | *JBS SMITHFIELD PRE PAID CREDIT CAR | 25/06/13 13:59 | 991483   | Nothing Picked | B0055-8251 | CROSSDOC   | CRSS | A4723662  |         1 |         0
+306243826502 | 99    | BT4005       | J BLACKWOOD & SON LTD  - CANBERRA   | 25/06/13 10:04 |      0   | Nothing Picked | 01352289   |            |      |           |         6 |         0
+306243828000 | 19    | 008652       | BORAL SBS                           | 25/06/13 09:58 | 990242   | Nothing Picked | 05837317   | 46030103   | 01A  | A4697097  |         6 |       554
+306243829506 | 99    | BT4006       | BLACKWOODS CAROLE PARK              | 25/06/13 10:04 |      0   | Nothing Picked | 00447809   | 07115401   | 07   | A4673280  |         4 |        39
+306243833302 | 12    | 099140       | IH ENGINEERING PTY LTD              | 25/06/13 13:05 |      0   | Nothing Picked | 00844526   | 07050801   | 07   | A4498470  |         3 |        24
+306243835805 | 99    | BT4005       | J BLACKWOOD & SON LTD  - CANBERRA   | 25/06/13 10:04 | 990315   | Nothing Picked | 04858709   | 07702103   | 07   | A4713171  |         1 |        13
+306243837804 | 99    | BT5516       | J BLACKWOOD & SON LTD - LISMORE     | 25/06/13 10:04 |      0   | Nothing Picked | 04317715   | 07122101   | 07   | A4594752  |        25 |         8
+306243840902 | 06    | 083170       | DEPARTMENT DEFENCE-NAVY FIMA SYDNEY | 25/06/13 10:04 |      0   | Nothing Picked | 02869455   |            |      |           |         4 |         5
+306243842901 | 13    | 033443       | COREGAS PTY LTD                     | 25/06/13 10:12 | 990416   | Nothing Picked | 06326911   | PICKRECV   | RECV | A4724746  |       100 |         0
+306243845503 | 23    | 008699       | RAILCORP ECOMMERCE ARIBA ACC        | 25/06/13 10:04 |      0   | Nothing Picked | 01766457   |            |      |           |         2 |         0
+306243845503 | 23    | 008699       | RAILCORP ECOMMERCE ARIBA ACC        | 25/06/13 10:04 | 990321   | Nothing Picked | 07924608   | 07725401   | 07   | A4659261  |         2 |         0
+306243845601 | Q1    | 276403       | QANTAS AIRWAYS H58-WEB              | 25/06/13 10:04 |      0   | Nothing Picked | 07727697   |            |      | A4724287  |         2 |         0
+306243845601 | Q1    | 276403       | QANTAS AIRWAYS H58-WEB              | 25/06/13 10:04 | 990322   | Nothing Picked | 07727629   | 07735201   | 07   | A4686475  |         2 |        39
+306243845702 | 12    | 096235       | ARNOTTS SNACK FOODS                 | 25/06/13 10:04 |      0   | Nothing Picked | 02904899   |            |      |           |        13 |        60
+306243847102 | 17    | 881262       | STA - GENERAL PORT BOTANY           | 25/06/13 10:04 | 990324   | Nothing Picked | 05458962   | 07550101   | 07   | A4709014  |         2 |       148
+306243847302 | 99    | BT4017       | J BLACKWOOD & SON LTD - NEWCASTLE   | 25/06/13 10:04 |      0   | Nothing Picked | 00030659   |            |      |           |         1 |         0
+306243847302 | 99    | BT4017       | J BLACKWOOD & SON LTD - NEWCASTLE   | 25/06/13 10:04 | 990325   | Nothing Picked | 00645902   | 07651901   | 07   | A4653039  |         2 |         3
+306243850702 | 99    | BT4005       | J BLACKWOOD & SON LTD  - CANBERRA   | 25/06/13 10:04 |      0   | Nothing Picked | 09987337   |            |      |           |         5 |         0
+306243850702 | 99    | BT4005       | J BLACKWOOD & SON LTD  - CANBERRA   | 25/06/13 10:04 | 990326   | Nothing Picked | 00659202   | 07512001   | 07   | A4063306  |         5 |        47J. BLACKWOOD & SON LIMITED           RE-ENTRY KEY/ PAGE ID ORDERS REPORT  - SORTED BY PICKING ORDER NUMBER.     TUESDAY, JUNE 25, 2013 14:06   PAGE   4
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ ORDER       |   ZONE   | CUSTOMER     | CUSTOMER                            |      LABEL     | RE-ENTRY |      STATUS    | PRODUCT    | ALLOCATED  | PICK | ALLOCATED |  ORDERED  |  AVAILBLE 
+ NUMBER      |          | NUMBER       | NAME                                |  DATE    TIME  |   KEY    |                |            | LOCATION   | LINE | STOCK ID  |  QUANTITY |  QUANTITY
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+306243851402 | 07    | 065670       | L C R LINDORES GROUP PTY LTD        | 25/06/13 10:04 | 990327   | Nothing Picked | 06769560   | 07592802   | 07   | A4568764  |        18 |       113
+306243851804 | 99    | BT4020       | J BLACKWOOD & SON LTD  - LAUNCESTON | 25/06/13 10:04 |      0   | Nothing Picked | 00640606   | 07664501   | 07   | A4221990  |         1 |         4
+306243852202 | 07    | 036604       | PAXAR CORPORATION PTY LTD           | 25/06/13 10:04 | 990329   | Nothing Picked | 03778601   | 07590901   | 07   | A4290489  |         3 |         3
+306243853603 | 86    | BT5536       | BLACKWOODS - TUGGERAH               | 25/06/13 13:05 |      0   | Nothing Picked | 06840604   | 07042105   | 07   | A4610721  |         1 |         2
+306243857302 | SN    | BT6011       | J BLACKWOOD & SON LTD  - SINGLETON  | 25/06/13 09:16 |      0   | Nothing Picked | 00096951   |            |      |           |        79 |         0
+306243857302 | SN    | BT6011       | J BLACKWOOD & SON LTD  - SINGLETON  | 25/06/13 09:16 | 991456   | Nothing Picked | 04252065   | PICKRECV   | RECV | A4725049  |         2 |         0
+306243859902 | 41    | 080104       | UGL UNIPART RAIL SERVICES PTY LTD   | 25/06/13 10:04 |      0   | Nothing Picked | 06843106   | 07043202   | 07   | A4607475  |         3 |        20
+306243861101 | 09    | 880157       | HISTORIC HOUSES TRUST NSW           | 25/06/13 10:04 |      0   | Nothing Picked | 00470288   |            |      |           |         3 |        10
+306243861303 | 99    | BT4018       | BLACKWOODS - WOLLONGONG             | 25/06/13 13:05 |      0   | Nothing Picked | 00203490   | 07013904   | 07   | A4415833  |         5 |        55
+306243861601 | 23    | 884521       | CAIRNSFOOT SCHOOL                   | 25/06/13 10:04 |      0   | Nothing Picked | 04249919   | 07112802   | 07   | A4486338  |         1 |        16
+306243862102 | 99    | BT4008       | J BLACKWOOD & SON LTD - ADELAIDE    | 25/06/13 13:05 |      0   | Nothing Picked | 01017101   | 07035304   | 07   | A4577593  |         7 |        30
+306243863102 | 25    | 091870       | HEALTH SHARE SERVICE - WESTMEAD SER | 25/06/13 10:04 |      0   | Nothing Picked | 00693863   | 07203101   | 07   | A4631209  |         2 |        95
+306243864402 | 14    | 085741       | DEPT OF DEFENCE - AAML (EDI ONLY)   | 25/06/13 08:57 | 989758   | Nothing Picked | 04188504   | 49850102   | 04   | A4707314  |         1 |       688
+306243864501 | 07    | 080104       | UGL UNIPART RAIL SERVICES PTY LTD   | 25/06/13 12:05 |      0   | Nothing Picked | 06051202   |            |      |           |         4 |         0
+306243864501 | 07    | 080104       | UGL UNIPART RAIL SERVICES PTY LTD   | 25/06/13 12:05 | 990961   | Nothing Picked | 01020355   | 48590101   | 04   | A4723964  |         1 |       111
+306243868202 | 21    | 882054       | STATE TRANSIT AUTHORITY OF NSW      | 25/06/13 10:04 | 990338   | Nothing Picked | 00767107   | 07542801   | 07   | A4534686  |        10 |       274
+306243869902 | 99    | BT5537       | J BLACKWOOD & SON LTD ALBURY        | 25/06/13 10:04 |      0   | Nothing Picked | 01192455   |            |      |           |         3 |         0
+306243869902 | 99    | BT5537       | J BLACKWOOD & SON LTD ALBURY        | 25/06/13 10:04 | 990340   | Nothing Picked | 02035158   | 07682601   | 07   | A4528490  |         1 |         8
+306243872201 | 16    | 880305       | AUSGRID - VHS ORDERS ONLY           | 25/06/13 10:04 |      0   | Nothing Picked | 06250016   | 07145001   | 07   | A4679071  |         4 |         1
+306243873002 | 50    | 052426       | COTS - HMAS CHOULES                 | 25/06/13 13:05 |      0   | Nothing Picked | 00030974   | 07183401   | 07   | A4676505  |        15 |         7
+306243876101 | 33    | 880284       | NEWINGTON COLLEGE                   | 25/06/13 10:04 |      0   | Nothing Picked | 06537000   |            |      | A4724500  |         4 |         0
+306243876101 | 33    | 880284       | NEWINGTON COLLEGE                   | 25/06/13 10:04 | 990343   | Nothing Picked | 00767000   | 07543001   | 07   | A4558849  |        10 |       567
+306243876202 | 50    | 052426       | COTS - HMAS CHOULES                 | 25/06/13 10:04 |      0   | Nothing Picked | 03870907   | 07636001   | 07   | A4627011  |         2 |        10
+306243876400 | 25    | 015495       | FOX ALL SERVICES PTY LTD            | 25/06/13 09:11 | 991470   | Nothing Picked | 03755909   | 15534504   | 15   | A4504513  |       300 |      2900
+306243876402 | 25    | 015495       | FOX ALL SERVICES PTY LTD            | 25/06/13 10:12 |      0   | Nothing Picked | 00680153   |            |      |           |        79 |         0
+306243876402 | 25    | 015495       | FOX ALL SERVICES PTY LTD            | 25/06/13 10:12 | 990414   | Nothing Picked | 02740963   | PICKRECV   | RECV | A4724743  |       100 |         0
+306243876402 | 25    | 015495       | FOX ALL SERVICES PTY LTD            | 25/06/13 10:12 | 990417   | Nothing Picked | 06326911   | PICKRECV   | RECV | A4724746  |       100 |         0
+306243877702 | 19    | 022177       | CORRECTIVE SERVICES NSW (BUY-IN ONL | 25/06/13 13:05 | 991280   | Nothing Picked | 07280302   | 47011601   | 01A  | A4724260  |         1 |         5
+306243878502 | 26    | 263390       | THALES AUSTRALIA                    | 25/06/13 10:04 |      0   | Nothing Picked | 01802052   | 07191602   | 07   | A4686849  |       344 |         0
+306243879601 | 12    | 027248       | G JAMES GLASS & ALUMINIUM PTY LTD   | 25/06/13 13:05 |      0   | Nothing Picked | 00921119   |            |      | A4724502  |         2 |         0
+306243881200 | SN    | BT6011       | J BLACKWOOD & SON LTD  - SINGLETON  | 25/06/13 05:17 | 989273   | Nothing Picked | 03839304   | 23240301   | 02   | A4687392  |         2 |         5
+306243882400 | SN    | BT6011       | J BLACKWOOD & SON LTD  - SINGLETON  | 25/06/13 05:17 | 989310   | Nothing Picked | 07767239   | EX6        | CONS | A4359746  |         4 |       436
+306243885901 | 04    | 066064       | HANSON CONSTRUCTION MATERIALS PTY L | 25/06/13 10:04 |      0   | Nothing Picked | 05043211   | 07161801   | 07   | A4706827  |         3 |         0
+306243888003 | 23    | 882053       | STATE TRANSIT AUTHORITY OF NSW      | 25/06/13 13:05 |      0   | Nothing Picked | 07727595   |            |      |           |         1 |         1
+306243890001 | 19    | 267552       | O-I AUSTRALIA - NATIONAL ACCOUNT    | 25/06/13 10:04 |      0   | Nothing Picked | 00993623   |            |      | A4724625  |         5 |         0
+306243890301 | 01    | 256958       | ATLAS ELECT. TECHNOLOGIES & SERVICE | 25/06/13 10:04 |      0   | Nothing Picked | 03726815   |            |      | A4724597  |         2 |         0
+306243890301 | 01    | 256958       | ATLAS ELECT. TECHNOLOGIES & SERVICE | 25/06/13 10:04 | 990351   | Nothing Picked | 09839097   | 22710301   | 04B  | A4672231  |         3 |       311
+306243890600 | 99    | BT5518       | J BLACKWOOD & SON LTD - TOOWOOMBA   | 25/06/13 05:17 | 989325   | Nothing Picked | 00694790   | 46010101   | 01A  | A4722626  |         2 |        16
+306243891002 | 16    | 057174       | SIPPEL & CO PTY LTD                 | 25/06/13 13:05 |      0   | Nothing Picked | 06834403   |            |      |           |         1 |         1
+306243892700 | 65    | 883075       | NAMBUCCA SHIRE COUNCIL              | 25/06/13 05:17 | 989343   | Nothing Picked | 05359988   | 43190201   | 26   | A4712940  |         4 |        10
+306243892801 | 07    | 087053       | COMPUTERTRANS (AUST) PTY LTD        | 25/06/13 10:04 |      0   | Nothing Picked | 01875941   | 07571702   | 07   | A4645979  |        10 |         0
+306243894700 | 99    | BT5509       | A E BAKER & CO - HAMILTON           | 25/06/13 05:17 | 989361   | Nothing Picked | 07983360   | 43300203   | 27   | A4507672  |        40 |       641
+306243897000 | 80    | IT0006       | CONSUMABLES - OFFICE (FOOD ITEMS)   | 25/06/13 05:17 | 989367   | Nothing Picked | 01238134   | 23150401   | 02   | A4717401  |         1 |        33
+306243898902 | 13    | 007078       | GE ENERGY SERVICES                  | 25/06/13 10:04 |      0   | Nothing Picked | 00496805   | 07171001   | 07   | A4556264  |         3 |         7
+306243900303 | 07    | 008699       | RAILCORP ECOMMERCE ARIBA ACC        | 25/06/13 12:05 | 990962   | Nothing Picked | 01207517   | 03280101   | 03A  | A4724130  |         4 |        46
+306243904302 | 78    | 778075       | TELSTRA C&C MRP MS WA (C6X)         | 25/06/13 09:28 | 990756   | Nothing Picked | 08062503   | 03130501   | 03A  | A4579677  |         2 |        84
+306243904302 | 78    | 778075       | TELSTRA C&C MRP MS WA (C6X)         | 25/06/13 09:28 | 990757   | Nothing Picked | 01233408   | 11730201   | 11   | A4488008  |         2 |         0
+306243904800 | 50    | 038107       | COTS - HMAS BALLARAT                | 25/06/13 10:55 | 990636   | Nothing Picked | 07195109   | 03190201   | 03A  | A4549172  |         6 |        78
+306243906402 | 19    | 018014       | R & A GARDNER P/L                   | 25/06/13 11:05 |      0   | Nothing Picked | 00196282   |            |      |           |         1 |         0
+306243906402 | 19    | 018014       | R & A GARDNER P/L                   | 25/06/13 11:05 | 990706   | Nothing Picked | 06611008   | 15122904   | 15   | A4265184  |         1 |         0
+306253907100 | 63    | BT4012       | BLACKWOODS - SMITHFIELD             | 25/06/13 05:30 |      0   | Part Picked    | 00052564   |            |      |           |        10 |        20
+306253907800 | 99    | BT4009       | J BLACKWOOD & SON LTD - CANNINGVALE | 25/06/13 05:18 | 989386   | Part Picked    | 02929951   | 05670903   | 04   | A4621322  |        15 |        44
+306253907800 | 99    | BT4009       | J BLACKWOOD & SON LTD - CANNINGVALE | 25/06/13 05:18 | 989396   | Part Picked    | 08173609   | 42701301   | 25   | A4675516  |         1 |        13
+306253908000 | 99    | BT4001       | J BLACKWOOD & SON LTD - MELBOURNE   | 25/06/13 05:18 | 989404   | Nothing Picked | 04977809   | 46010116   | 01A  | A4701264  |         1 |         5
+306253910100 | 17    | 029196       | QANTAS AIRWAYS LTD                  | 25/06/13 09:57 | 990239   | Nothing Picked | 01484141   | 07724801   | 07   | A4716969  |        30 |       162
+306253910302 | 17    | 029196       | QANTAS AIRWAYS LTD                  | 25/06/13 13:05 |      0   | Nothing Picked | 04038255   |            |      |           |        52 |         0
+306253910302 | 17    | 029196       | QANTAS AIRWAYS LTD                  | 25/06/13 13:05 | 991284   | Nothing Picked | 04038255   | 11232401   | 11   | A4701885  |        48 |         0J. BLACKWOOD & SON LIMITED           RE-ENTRY KEY/ PAGE ID ORDERS REPORT  - SORTED BY PICKING ORDER NUMBER.     TUESDAY, JUNE 25, 2013 14:06   PAGE   5
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ ORDER       |   ZONE   | CUSTOMER     | CUSTOMER                            |      LABEL     | RE-ENTRY |      STATUS    | PRODUCT    | ALLOCATED  | PICK | ALLOCATED |  ORDERED  |  AVAILBLE 
+ NUMBER      |          | NUMBER       | NAME                                |  DATE    TIME  |   KEY    |                |            | LOCATION   | LINE | STOCK ID  |  QUANTITY |  QUANTITY
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+306253910600 | 04    | 271707       | DEMATIC PTY LTD                     | 25/06/13 10:00 | 990263   | Nothing Picked | 05270861   | 03220201   | 03A  | A4608790  |         2 |       112
+306253910900 | 99    | BT4013       | J BLACKWOOD & SON LTD - TAMWORTH    | 25/06/13 07:36 | 991170   | Nothing Picked | 06488550   | 47040901   | 01A  | A4678035  |         2 |         0
+306253910900 | 99    | BT4013       | J BLACKWOOD & SON LTD - TAMWORTH    | 25/06/13 07:36 | 991171   | Nothing Picked | 02094506   | 07510701   | 07   | A4715521  |      2720 |      1932
+306253910900 | 99    | BT4013       | J BLACKWOOD & SON LTD - TAMWORTH    | 25/06/13 07:36 | 991172   | Nothing Picked | 07062300   | 12606301   | 12   | A4639965  |         1 |        11
+306253910900 | 99    | BT4013       | J BLACKWOOD & SON LTD - TAMWORTH    | 25/06/13 07:36 | 991173   | Nothing Picked | 01482475   | 42290701   | 25   | A4709557  |         2 |       121
+306253910900 | 99    | BT4013       | J BLACKWOOD & SON LTD - TAMWORTH    | 25/06/13 07:36 | 991174   | Nothing Picked | 05027553   | 42640701   | 25   | A4476802  |         1 |        22
+306253910900 | 99    | BT4013       | J BLACKWOOD & SON LTD - TAMWORTH    | 25/06/13 07:36 | 991175   | Nothing Picked | 01315118   | 42691601   | 25   | A4698711  |         2 |         9
+306253910900 | 99    | BT4013       | J BLACKWOOD & SON LTD - TAMWORTH    | 25/06/13 07:36 | 991176   | Nothing Picked | 09956329   | 42721001   | 25   | A4691318  |         1 |         0
+306253910900 | 99    | BT4013       | J BLACKWOOD & SON LTD - TAMWORTH    | 25/06/13 07:36 | 991177   | Nothing Picked | 00432258   | 42721401   | 25   | A4686628  |        18 |        14
+306253910900 | 99    | BT4013       | J BLACKWOOD & SON LTD - TAMWORTH    | 25/06/13 07:36 | 991178   | Nothing Picked | 04973918   | 49650102   | 26   | A4696647  |        36 |       150
+306253914300 | 99    | BT5020       | J BLACKWOOD & SON LTD - ROCKHAMPTON | 25/06/13 08:10 | 991179   | Nothing Picked | 00551902   | 07684105   | 07   | A4563787  |         2 |         7
+306253914600 | 99    | BT5528       | BLACKWOODS - DUBBO                  | 25/06/13 08:10 | 991180   | Nothing Picked | 07243792   | 48600101   | 04   | A4659618  |         5 |       464
+306253914600 | 99    | BT5528       | BLACKWOODS - DUBBO                  | 25/06/13 08:10 | 991181   | Nothing Picked | 02339216   | 07635101   | 07   | A4496280  |        30 |        72
+306253914700 | 99    | BT5501       | J BLACKWOOD & SON LTD - BUNDABERG   | 25/06/13 08:10 | 991182   | Nothing Picked | 00715632   | 07564402   | 07   | A4552050  |        16 |        42
+306253916400 | 33    | 021020       | HALLIDAY ENGINEERING PTY LTD        | 25/06/13 08:28 | 991217   | Nothing Picked | 00659008   | 07692301   | 07   | A4391309  |        50 |        20
+306253917700 | 11    | 011140       | A M M E S A PTY LTD                 | 25/06/13 08:39 | 991471   | Nothing Picked | 06755207   | 15116102   | 15   | A4648054  |         1 |         3
+306253918500 | 06    | 083170       | DEPARTMENT DEFENCE-NAVY FIMA SYDNEY | 25/06/13 08:55 | 991414   | Nothing Picked | 06331266   | 41031101   | 35   | A4455930  |         1 |        32
+306253919502 | 78    | 778075       | TELSTRA C&C MRP MS WA (C6X)         | 25/06/13 09:28 | 989945   | Nothing Picked | 01164762   | 17562802   | 17   | A4401339  |         2 |        41
+306253919600 | 10    | 880017       | NSW DEPT OF INDUSTRY & INVESTMENT   | 25/06/13 08:55 | 989749   | Nothing Picked | 07243231   | 07700302   | 07   | A4659580  |         1 |         0
+306253919602 | 10    | 880017       | NSW DEPT OF INDUSTRY & INVESTMENT   | 25/06/13 13:05 |      0   | Nothing Picked | 07243231   |            |      |           |        47 |         0
+306253919602 | 10    | 880017       | NSW DEPT OF INDUSTRY & INVESTMENT   | 25/06/13 13:05 | 990707   | Nothing Picked | 07243231   | 07700302   | 07   | A4659580  |         1 |         0
+306253921700 | 99    | BT4018       | BLACKWOODS - WOLLONGONG             | 25/06/13 09:09 | 991183   | Nothing Picked | 00510280   | 31530201   | 01   | A4723966  |        18 |        81
+306253921700 | 99    | BT4018       | BLACKWOODS - WOLLONGONG             | 25/06/13 09:09 | 991184   | Nothing Picked | 00161402   | 07611401   | 07   | A4634717  |         4 |        22
+306253921700 | 99    | BT4018       | BLACKWOODS - WOLLONGONG             | 25/06/13 09:09 | 991185   | Nothing Picked | 00448905   | 07614301   | 07   | A4530143  |         5 |        86
+306253921700 | 99    | BT4018       | BLACKWOODS - WOLLONGONG             | 25/06/13 09:09 | 991186   | Nothing Picked | 00454757   | 42311501   | 25   | A4715611  |        42 |       254
+306253921700 | 99    | BT4018       | BLACKWOODS - WOLLONGONG             | 25/06/13 09:09 | 991187   | Nothing Picked | 00364837   | 36680301   | 04B  | A4647779  |         2 |        29
+306253921700 | 99    | BT4018       | BLACKWOODS - WOLLONGONG             | 25/06/13 09:09 | 991188   | Nothing Picked | 01311400   | EX9        | CONS | A4571428  |         4 |      3152
+306253921800 | 99    | BT4018       | BLACKWOODS - WOLLONGONG             | 25/06/13 09:11 | 989820   | Nothing Picked | 03113234   | 61010301   | 02   | A4722997  |         6 |         5
+306253921800 | 99    | BT4018       | BLACKWOODS - WOLLONGONG             | 25/06/13 09:11 | 989823   | Nothing Picked | 02418302   | 07593401   | 07   | A4511173  |        14 |         9
+306253923900 | 99    | BT5528       | BLACKWOODS - DUBBO                  | 25/06/13 09:28 | 989920   | Nothing Picked | 00121206   | 03250101   | 03A  | A4711742  |         2 |         8
+306253923900 | 99    | BT5528       | BLACKWOODS - DUBBO                  | 25/06/13 09:28 | 989922   | Nothing Picked | 00412708   | 07582201   | 07   | A4666290  |         3 |        32
+306253923900 | 99    | BT5528       | BLACKWOODS - DUBBO                  | 25/06/13 09:28 | 989928   | Nothing Picked | 00454757   | 42311501   | 25   | A4715611  |        30 |       254
+306253924200 | 99    | BT4005       | J BLACKWOOD & SON LTD  - CANBERRA   | 25/06/13 09:28 | 989948   | Nothing Picked | 00584358   | 23230102   | 02   | A4723084  |         1 |        14
+306253924300 | 99    | BT5528       | BLACKWOODS - DUBBO                  | 25/06/13 09:29 | 989954   | Nothing Picked | 01904455   | 03300201   | 03A  | A4700474  |         3 |        27
+306253924300 | 99    | BT5528       | BLACKWOODS - DUBBO                  | 25/06/13 09:29 | 989959   | Nothing Picked | 01485453   | 42910301   | 25   | A4697086  |         3 |         1
+306253924400 | 99    | BT5528       | BLACKWOODS - DUBBO                  | 25/06/13 09:29 | 991189   | Nothing Picked | 02410655   | 47040601   | 01A  | A4634102  |         1 |        16
+306253924400 | 99    | BT5528       | BLACKWOODS - DUBBO                  | 25/06/13 09:29 | 991191   | Nothing Picked | 02094506   | 42631301   | 25   | A4608192  |      3087 |      1932
+306253924600 | 99    | BT5528       | BLACKWOODS - DUBBO                  | 25/06/13 09:42 | 990095   | Part Picked    | 04213160   |            |      |           |        22 |        39
+306253924800 | 99    | BT5528       | BLACKWOODS - DUBBO                  | 25/06/13 09:30 | 989985   | Nothing Picked | 05044414   | 07712801   | 07   | A4539616  |        12 |       271
+306253924800 | 99    | BT5528       | BLACKWOODS - DUBBO                  | 25/06/13 09:30 | 989991   | Nothing Picked | 04854799   | 42310601   | 25   | A4672563  |       800 |     33800
+306253924800 | 99    | BT5528       | BLACKWOODS - DUBBO                  | 25/06/13 09:30 | 989992   | Nothing Picked | 04479909   | 71150201   | 34A  | A4705432  |         3 |       418
+306253925400 | 99    | BT5528       | BLACKWOODS - DUBBO                  | 25/06/13 09:42 | 990136   | Nothing Picked | 06750265   | 03280501   | 03A  | A4484828  |        24 |       325
+306253925500 | 99    | BT5528       | BLACKWOODS - DUBBO                  | 25/06/13 09:31 | 990011   | Nothing Picked | 07105102   | 47030701   | 01A  | A4315270  |         8 |         4
+306253925500 | 99    | BT5528       | BLACKWOODS - DUBBO                  | 25/06/13 09:31 | 990012   | Nothing Picked | 07288859   | 23070502   | 02   | A4711748  |         2 |         3
+306253926600 | 26    | 277807       | *JBS SMITHFIELD PRE PAID CREDIT CAR | 25/06/13 09:50 | 990181   | Nothing Picked | 04157904   | 03080101   | 03A  | A4640151  |         2 |       414
+306253926700 | 99    | BT5528       | BLACKWOODS - DUBBO                  | 25/06/13 09:37 | 990044   | Nothing Picked | 07897289   | 03330401   | 03A  | A4629992  |         4 |       294
+306253926700 | 99    | BT5528       | BLACKWOODS - DUBBO                  | 25/06/13 09:37 | 990048   | Nothing Picked | 07805438   | 15715901   | 15   | A4660073  |         1 |         0
+306253926800 | 99    | BT5528       | BLACKWOODS - DUBBO                  | 25/06/13 09:37 | 990056   | Nothing Picked | 09836916   | 15595001   | 15   | A4680951  |         2 |        96
+306253926800 | 99    | BT5528       | BLACKWOODS - DUBBO                  | 25/06/13 09:37 | 990057   | Nothing Picked | 08449812   | 43390402   | 27   | A4707571  |       250 |      1030
+306253926800 | 99    | BT5528       | BLACKWOODS - DUBBO                  | 25/06/13 09:37 | 990060   | Nothing Picked | 09598814   | CLWH2      | CLWH | A4597247  |        48 |       755
+306253926900 | 99    | BT5507       | J BLACKWOOD & SON LTD GLADSTONE     | 25/06/13 09:37 | 990061   | Nothing Picked | 07106208   | 47021201   | 01A  | A4521150  |         2 |         6
+306253928500 | 80    | BT4012       | BLACKWOODS - SMITHFIELD             | 25/06/13 10:13 | 990430   | Nothing Picked | 00548930   | 03010401   | 03A  | A4612890  |        11 |       118
+306253928500 | 80    | BT4012       | BLACKWOODS - SMITHFIELD             | 25/06/13 10:13 | 990442   | Nothing Picked | 00744940   | 43000000   | 26   | A4679180  |         9 |         0
+306253928900 | 07    | 008699       | RAILCORP ECOMMERCE ARIBA ACC        | 25/06/13 09:49 | 990169   | Nothing Picked | 04404766   | 71510201   | 34A  | A4623240  |        36 |       322
+306253929200 | 09    | 008699       | RAILCORP ECOMMERCE ARIBA ACC        | 25/06/13 09:49 | 990171   | Nothing Picked | 04973918   | 49650102   | 26   | A4696647  |        70 |       150
+306253929300 | 09    | 008699       | RAILCORP ECOMMERCE ARIBA ACC        | 25/06/13 10:31 | 990553   | Nothing Picked | 00343570   | 71590201   | 34A  | A4591226  |        12 |       648
+306253929400 | 09    | 061495       | ROADS & MARITIME SERVICES - SYDNEY  | 25/06/13 09:50 | 990176   | Nothing Picked | 01722653   | 47011701   | 01A  | A4522301  |        12 |        12J. BLACKWOOD & SON LIMITED           RE-ENTRY KEY/ PAGE ID ORDERS REPORT  - SORTED BY PICKING ORDER NUMBER.     TUESDAY, JUNE 25, 2013 14:06   PAGE   6
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ ORDER       |   ZONE   | CUSTOMER     | CUSTOMER                            |      LABEL     | RE-ENTRY |      STATUS    | PRODUCT    | ALLOCATED  | PICK | ALLOCATED |  ORDERED  |  AVAILBLE 
+ NUMBER      |          | NUMBER       | NAME                                |  DATE    TIME  |   KEY    |                |            | LOCATION   | LINE | STOCK ID  |  QUANTITY |  QUANTITY
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+306253929402 | 09    | 061495       | ROADS & MARITIME SERVICES - SYDNEY  | 25/06/13 13:53 | 991457   | Nothing Picked | 04252065   | PICKRECV   | RECV | A4725049  |         6 |         0
+306253929500 | Q2    | 411184       | EASTERN AUSTRALIA AIRLINES PTY LTD  | 25/06/13 09:50 |      0   | Nothing Picked | 04263115   |            |      |           |         2 |         3
+306253929700 | 09    | 008699       | RAILCORP ECOMMERCE ARIBA ACC        | 25/06/13 10:31 | 990557   | Nothing Picked | 01455007   | 43170301   | 26   | A4709704  |        15 |       150
+306253929700 | 09    | 008699       | RAILCORP ECOMMERCE ARIBA ACC        | 25/06/13 10:31 | 990558   | Nothing Picked | 04479909   | 71110201   | 34A  | A4720409  |        24 |       418
+306253929800 | 07    | 080104       | UGL UNIPART RAIL SERVICES PTY LTD   | 25/06/13 09:52 | 990200   | Nothing Picked | 01800562   | 15642702   | 15   | A4667026  |       100 |       200
+306253930000 | 19    | 267552       | O-I AUSTRALIA - NATIONAL ACCOUNT    | 25/06/13 10:34 | 991361   | Nothing Picked | 00976028   | 51550401   | 04B  | A4692131  |        20 |       250
+306253930000 | 19    | 267552       | O-I AUSTRALIA - NATIONAL ACCOUNT    | 25/06/13 10:34 | 991362   | Nothing Picked | 01523852   | 15672601   | 15   | A4685535  |         1 |         0
+306253930000 | 19    | 267552       | O-I AUSTRALIA - NATIONAL ACCOUNT    | 25/06/13 10:34 | 991363   | Nothing Picked | 07738475   | 43190401   | 26   | A4704985  |         7 |        10
+306253930502 | 04    | 028601       | ONESTEEL MARKET MILLS               | 25/06/13 11:26 | 990818   | Nothing Picked | 05133309   | 18084601   | 18   | A4709311  |         1 |         4
+306253930701 | 14    | 037710       | PRYSMIAN POWER CAB & SYS AUSTRALIA  | 25/06/13 10:48 | 990615   | Nothing Picked | 04858709   | 07702103   | 07   | A4713171  |         1 |        13
+306253930800 | 25    | BT4004       | BAKERS CONSTRUCTION - BLACKTOWN     | 25/06/13 09:51 | 990191   | Nothing Picked | 04772367   | 03150301   | 03A  | A4563772  |         1 |        14
+306253932700 | 07    | 000875       | MITSUBISHI ELECTRIC AUSTRALIA PTY L | 25/06/13 10:09 | 990397   | Nothing Picked | 06739334   | 42130701   | 25   | A4711194  |        48 |      1713
+306253932900 | 99    | BT5535       | J BLACKWOOD & SON LTD - WAGGA       | 25/06/13 10:07 | 990380   | Nothing Picked | 00711409   | 07672801   | 07   | A4653910  |         1 |         0
+306253933800 | 07    | 080104       | UGL UNIPART RAIL SERVICES PTY LTD   | 25/06/13 10:18 | 991364   | Nothing Picked | 04040105   | 16602601   | 16   | A4565505  |        20 |        71
+306253933801 | 07    | 080104       | UGL UNIPART RAIL SERVICES PTY LTD   | 25/06/13 13:05 |      0   | Nothing Picked | 00387455   |            |      |           |        58 |         0
+306253934300 | 33    | 008699       | RAILCORP ECOMMERCE ARIBA ACC        | 25/06/13 10:21 | 990500   | Nothing Picked | 07845218   | 15636201   | 15   | A4668142  |         2 |       178
+306253934300 | 33    | 008699       | RAILCORP ECOMMERCE ARIBA ACC        | 25/06/13 10:21 | 990502   | Nothing Picked | 07085760   | 41831401   | 35   | A4708503  |         5 |       115
+306253934600 | 99    | BT3529       | PROTECTOR ALSAFE (NSW)              | 25/06/13 10:13 | 990427   | Nothing Picked | 07281719   | 15733001   | 15   | A4440920  |         5 |       104
+306253934700 | 99    | BT4017       | J BLACKWOOD & SON LTD - NEWCASTLE   | 25/06/13 10:15 |      0   | Part Picked    | 00100946   |            |      |           |        27 |        40
+306253934703 | 99    | BT4017       | J BLACKWOOD & SON LTD - NEWCASTLE   | 25/06/13 11:05 |      0   | Nothing Picked | 00583856   |            |      |           |         1 |         0
+306253934703 | 99    | BT4017       | J BLACKWOOD & SON LTD - NEWCASTLE   | 25/06/13 11:05 | 990710   | Nothing Picked | 04247908   | 16633801   | 16   | A4705337  |        69 |        62
+306253935100 | 02    | 257095       | NATIONAL MEASUREMENT INSTITUTE      | 25/06/13 11:05 | 990711   | Nothing Picked | 05045316   | 15134301   | 15   | A4692082  |         1 |         4
+306253935400 | 07    | 080104       | UGL UNIPART RAIL SERVICES PTY LTD   | 25/06/13 11:38 | 990862   | Nothing Picked | 07875018   | 03050301   | 03A  | A4649023  |        67 |        19
+306253935400 | 07    | 080104       | UGL UNIPART RAIL SERVICES PTY LTD   | 25/06/13 11:38 | 990869   | Nothing Picked | 01294285   | 14235801   | 14   | A4670570  |         3 |        55
+306253935400 | 07    | 080104       | UGL UNIPART RAIL SERVICES PTY LTD   | 25/06/13 11:38 | 990870   | Nothing Picked | 00354808   | 15093002   | 15   | A4706803  |       100 |      1189
+306253937500 | 16    | 008148       | CALTEX REFINERIES (NSW) PTY LTD     | 25/06/13 10:26 |      0   | Nothing Picked | 03773402   |            |      |           |         2 |         9
+306253938902 | 04    | 028601       | ONESTEEL MARKET MILLS               | 25/06/13 11:26 | 990820   | Nothing Picked | 07072701   | 19520802   | 19   | A4389585  |         3 |         4
+306253939600 | 04    | 263118       | BLUESCOPE STEEL LTD                 | 25/06/13 10:38 | 990579   | Nothing Picked | 04129204   | 03030201   | 03A  | A4515301  |         6 |      1621
+306253939702 | 78    | 778075       | TELSTRA C&C MRP MS WA (C6X)         | 25/06/13 11:04 | 990687   | Nothing Picked | 05446110   | 43520102   | 04   | A4710616  |         1 |         0
+306253940300 | 30    | 007484       | DP WORLD SYDNEY - PORT BOTANY TERMI | 25/06/13 11:01 | 990676   | Part Picked    | 04159902   | 03070201   | 03A  | A4702942  |        27 |       350
+306253940300 | 30    | 007484       | DP WORLD SYDNEY - PORT BOTANY TERMI | 25/06/13 11:01 | 990677   | Nothing Picked | 01132100   | 14076301   | 14   | A4692910  |         6 |        21
+306253940300 | 30    | 007484       | DP WORLD SYDNEY - PORT BOTANY TERMI | 25/06/13 11:01 | 990678   | Nothing Picked | 02404158   | 15172301   | 15   | A4700933  |         6 |         6
+306253940300 | 30    | 007484       | DP WORLD SYDNEY - PORT BOTANY TERMI | 25/06/13 11:01 | 990680   | Nothing Picked | 04159805   | 42691001   | 25   | A4696922  |        40 |       471
+306253940600 | 25    | BT4004       | BAKERS CONSTRUCTION - BLACKTOWN     | 25/06/13 10:44 |      0   | Nothing Picked | 06845201   |            |      |           |         2 |         2
+306253940700 | 99    | BT5535       | J BLACKWOOD & SON LTD - WAGGA       | 25/06/13 10:44 | 990597   | Nothing Picked | 03464947   | 23210101   | 02   | A4711886  |         1 |         4
+306253940900 | 04    | 054363       | RONDO BUILDING SERVICES PTY LTD     | 25/06/13 10:48 | 990617   | Nothing Picked | 06330960   | 03180401   | 03A  | A4718918  |        20 |        40
+306253942800 | 03    | 262269       | ROTEQ AUSTRALIA P/L                 | 25/06/13 10:56 | 990657   | Nothing Picked | 00700978   | 15602902   | 15   | A4675119  |         1 |         1
+306253942900 | 03    | 259777       | CSR BUILDING PRODUCTS LTD-BLACKWOOD | 25/06/13 10:56 | 990665   | Nothing Picked | 04035408   | 16062501   | 16   | A4642350  |         1 |        12
+306253944900 | 99    | BT4019       | J BLACKWOOD & SON LTD - ORANGE      | 25/06/13 11:07 | 990720   | Nothing Picked | 06704450   | 16165001   | 16   | A4626777  |         2 |         2
+306253944900 | 99    | BT4019       | J BLACKWOOD & SON LTD - ORANGE      | 25/06/13 11:07 | 990721   | Nothing Picked | 01314517   | 71020201   | 34A  | A4545974  |         6 |       131
+306253945200 | 06    | 098189       | NORTH SHORE PRIVATE HOSPITAL        | 25/06/13 11:08 | 990730   | Nothing Picked | 06017208   | 14674901   | 14   | A4717931  |         2 |        89
+306253945300 | 07    | 042589       | A NOBLE & SON (NSW) P/L             | 25/06/13 11:12 | 990741   | Nothing Picked | 00245429   | 23100301   | 02   | A4690930  |        10 |         0
+306253945700 | 99    | BT4018       | BLACKWOODS - WOLLONGONG             | 25/06/13 11:13 | 990747   | Nothing Picked | 00195058   | 16555203   | 16   | A4722800  |         1 |         2
+306253946600 | 99    | BT5548       | J BLACKWOOD & SON LTD WHYALLA       | 25/06/13 11:19 | 990765   | Nothing Picked | 03296109   | 14012201   | 14   | A4643723  |         6 |       100
+306253946600 | 99    | BT5548       | J BLACKWOOD & SON LTD WHYALLA       | 25/06/13 11:19 | 990766   | Nothing Picked | 01032451   | 15662104   | 15   | A4515773  |        30 |       130
+306253946700 | 07    | 008699       | RAILCORP ECOMMERCE ARIBA ACC        | 25/06/13 11:19 | 990768   | Nothing Picked | 04772367   | 03150301   | 03A  | A4563772  |         1 |        14
+306253947300 | 30    | 098738       | QENOS PTY LTD                       | 25/06/13 11:19 | 990775   | Nothing Picked | 04788754   | 43440701   | 27   | A4344364  |       100 |        85
+306253947400 | 23    | 008699       | RAILCORP ECOMMERCE ARIBA ACC        | 25/06/13 12:18 | 990992   | Nothing Picked | 00955391   | 49700101   | 04   | A4666656  |         8 |       666
+306253947400 | 23    | 008699       | RAILCORP ECOMMERCE ARIBA ACC        | 25/06/13 12:18 | 990993   | Nothing Picked | 04334755   | 41831001   | 35   | A4707667  |         3 |        99
+306253947600 | 23    | 008699       | RAILCORP ECOMMERCE ARIBA ACC        | 25/06/13 12:18 | 990994   | Nothing Picked | 08430290   | 47310201   | 01A  | A4700708  |         2 |        17
+306253947600 | 23    | 008699       | RAILCORP ECOMMERCE ARIBA ACC        | 25/06/13 12:18 | 990995   | Nothing Picked | 01465934   | 43210401   | 26   | A4696678  |         6 |       292
+306253948200 | 12    | 259511       | LIQUIP INTERNATIONAL P/L            | 25/06/13 11:26 | 990815   | Nothing Picked | 00910469   | 14621101   | 14   | A4446752  |         6 |        11
+306253948500 | 99    | BT4001       | J BLACKWOOD & SON LTD - MELBOURNE   | 25/06/13 11:25 | 990803   | Nothing Picked | 06669889   | 36250101   | 04   | A4686690  |         4 |         3
+306253948500 | 99    | BT4001       | J BLACKWOOD & SON LTD - MELBOURNE   | 25/06/13 11:25 | 990804   | Nothing Picked | 00423807   | 07581201   | 07   | A4525122  |        50 |      2217
+306253948500 | 99    | BT4001       | J BLACKWOOD & SON LTD - MELBOURNE   | 25/06/13 11:25 | 990807   | Nothing Picked | 06615217   | 19175201   | 19   | A4684326  |         4 |        58
+306253948500 | 99    | BT4001       | J BLACKWOOD & SON LTD - MELBOURNE   | 25/06/13 11:25 | 990809   | Nothing Picked | 07762419   | CLWH2      | CLWH | A4363279  |       127 |      2051
+306253948800 | 23    | 074615       | MAGNETITE SYDNEY & GREATER AREA PTY | 25/06/13 11:32 | 990833   | Nothing Picked | 03261613   | 03260201   | 03A  | A4586974  |         1 |        57J. BLACKWOOD & SON LIMITED           RE-ENTRY KEY/ PAGE ID ORDERS REPORT  - SORTED BY PICKING ORDER NUMBER.     TUESDAY, JUNE 25, 2013 14:06   PAGE   7
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ ORDER       |   ZONE   | CUSTOMER     | CUSTOMER                            |      LABEL     | RE-ENTRY |      STATUS    | PRODUCT    | ALLOCATED  | PICK | ALLOCATED |  ORDERED  |  AVAILBLE 
+ NUMBER      |          | NUMBER       | NAME                                |  DATE    TIME  |   KEY    |                |            | LOCATION   | LINE | STOCK ID  |  QUANTITY |  QUANTITY
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+306253949000 | 99    | BT4009       | J BLACKWOOD & SON LTD - CANNINGVALE | 25/06/13 11:31 |      0   | Nothing Picked | 03770148   |            |      |           |         1 |         2
+306253949100 | 86    | BT5536       | BLACKWOODS - TUGGERAH               | 25/06/13 11:31 | 990830   | Nothing Picked | 07116706   | 14024103   | 14   | A4721856  |         2 |         4
+306253949100 | 86    | BT5536       | BLACKWOODS - TUGGERAH               | 25/06/13 11:31 | 990831   | Nothing Picked | 07115901   | 16630801   | 16   | A4561811  |         2 |         1
+306253949600 | 01    | 270727       | RURAL PRESS PRINTING                | 25/06/13 11:37 | 990841   | Nothing Picked | 02093206   | 07581701   | 07   | A4718884  |        50 |      3180
+306253949900 | 14    | 030047       | ABB AUSTRALIA PTY LTD               | 25/06/13 11:38 | 990878   | Nothing Picked | 02221652   | 15035801   | 15   | A4688543  |         1 |        12
+306253950202 | 04    | 028601       | ONESTEEL MARKET MILLS               | 25/06/13 13:01 | 991252   | Nothing Picked | 04117849   | 08013802   | 08   | A4690490  |         1 |        32
+306253950300 | 16    | 278138       | AUSGRID - FASTENERS CONTRACT        | 25/06/13 11:44 | 990892   | Nothing Picked | 00030203   | 10225202   | 10   | A4615246  |       200 |         7
+306253950300 | 16    | 278138       | AUSGRID - FASTENERS CONTRACT        | 25/06/13 11:44 | 990894   | Nothing Picked | 02559902   | 16584001   | 16   | A4699004  |       500 |      2344
+306253950300 | 16    | 278138       | AUSGRID - FASTENERS CONTRACT        | 25/06/13 11:44 | 990895   | Nothing Picked | 02750158   | 41630201   | 35   | A4591848  |       200 |      2729
+306253950600 | 18    | 421111       | TURBOMECA AUSTRALASIA PTY LTD       | 25/06/13 11:43 |      0   | Nothing Picked | 03870606   |            |      |           |         1 |        26
+306253950700 | 63    | 880481       | KEMPSEY SHIRE COUNCIL               | 25/06/13 11:44 | 990887   | Nothing Picked | 01158809   | 12152801   | 12   | A4584159  |        20 |        26
+306253950700 | 63    | 880481       | KEMPSEY SHIRE COUNCIL               | 25/06/13 11:44 | 990888   | Nothing Picked | 00310981   | 16216201   | 16   | A4700229  |        10 |        13
+306253950700 | 63    | 880481       | KEMPSEY SHIRE COUNCIL               | 25/06/13 11:44 | 990889   | Nothing Picked | 04487904   | 42581201   | 25   | A4723629  |       288 |      1132
+306253951200 | 16    | 278138       | AUSGRID - FASTENERS CONTRACT        | 25/06/13 11:50 | 990906   | Nothing Picked | 00026903   | 10221402   | 10   | A4629794  |       200 |       564
+306253951200 | 16    | 278138       | AUSGRID - FASTENERS CONTRACT        | 25/06/13 11:50 | 990907   | Nothing Picked | 02560001   | 16135801   | 16   | A4279037  |       500 |      2960
+306253951200 | 16    | 278138       | AUSGRID - FASTENERS CONTRACT        | 25/06/13 11:50 | 990908   | Nothing Picked | 02750255   | 17151802   | 17   | A4714741  |       200 |      1521
+306253951200 | 16    | 278138       | AUSGRID - FASTENERS CONTRACT        | 25/06/13 11:50 | 990909   | Nothing Picked | 01068300   | 41911201   | 35   | A4559632  |       200 |      1927
+306253951600 | 03    | 881170       | STA - GENERAL MONA VALE             | 25/06/13 11:52 | 991365   | Nothing Picked | 03381732   | 03190501   | 03A  | A4636899  |         2 |      1427
+306253951600 | 03    | 881170       | STA - GENERAL MONA VALE             | 25/06/13 11:52 | 991366   | Nothing Picked | 06845873   | 08641201   | 08   | A4685255  |         2 |       145
+306253951600 | 03    | 881170       | STA - GENERAL MONA VALE             | 25/06/13 11:52 | 991367   | Nothing Picked | 03584015   | 18711002   | 18   | A4701007  |        28 |       757
+306253951600 | 03    | 881170       | STA - GENERAL MONA VALE             | 25/06/13 11:52 | 991368   | Nothing Picked | 04454704   | 42380201   | 25   | A4621274  |         2 |       413
+306253951700 | 99    | BT5548       | J BLACKWOOD & SON LTD WHYALLA       | 25/06/13 11:50 | 990900   | Nothing Picked | 04035602   | 16062301   | 16   | A4632967  |         2 |         3
+306253951800 | 99    | BT3077       | ATKINS CARLYLE KUNUNURRA            | 25/06/13 11:50 | 990901   | Nothing Picked | 05507906   | 17543901   | 17   | A4012439  |         2 |         0
+306253951900 | 10    | 008694       | ORIGIN ENERGY SERVICES              | 25/06/13 11:50 | 990903   | Nothing Picked | 02736664   | 12052501   | 12   | A4306082  |        30 |       401
+306253952000 | 99    | BT4019       | J BLACKWOOD & SON LTD - ORANGE      | 25/06/13 11:50 |      0   | Nothing Picked | 00449108   |            |      |           |         1 |        45
+306253952100 | 16    | 278138       | AUSGRID - FASTENERS CONTRACT        | 25/06/13 11:52 | 990915   | Nothing Picked | 02894308   | 12681401   | 12   | A4635124  |       100 |       490
+306253952500 | 63    | 900074       | JBS COFFS HARBOUR - COD ACCOUNT     | 25/06/13 11:58 | 990928   | Nothing Picked | 04545853   | 12202002   | 12   | A4567013  |         1 |         7
+306253952800 | 99    | BT5535       | J BLACKWOOD & SON LTD - WAGGA       | 25/06/13 11:56 | 990919   | Nothing Picked | 06488567   | 46020103   | 01A  | A4697446  |         4 |        11
+306253952800 | 99    | BT5535       | J BLACKWOOD & SON LTD - WAGGA       | 25/06/13 11:56 | 990920   | Nothing Picked | 06530115   | 36760401   | 04B  | A4711953  |        12 |      1296
+306253952800 | 99    | BT5535       | J BLACKWOOD & SON LTD - WAGGA       | 25/06/13 11:56 | 990922   | Nothing Picked | 06768574   | 14024202   | 14   | A4615793  |         2 |         2
+306253952800 | 99    | BT5535       | J BLACKWOOD & SON LTD - WAGGA       | 25/06/13 11:56 | 990923   | Nothing Picked | 06768166   | 20522506   | 20   | A4717972  |         2 |        10
+306253952800 | 99    | BT5535       | J BLACKWOOD & SON LTD - WAGGA       | 25/06/13 11:56 | 990924   | Nothing Picked | 06495792   | 41331001   | 35   | A4696535  |        36 |       579
+306253953000 | 99    | BT4018       | BLACKWOODS - WOLLONGONG             | 25/06/13 11:56 | 990926   | Nothing Picked | 08323912   | 10022801   | 10   | A4677004  |        10 |        84
+306253953100 | 99    | BT5528       | BLACKWOODS - DUBBO                  | 25/06/13 11:56 | 990927   | Nothing Picked | 02913518   | 11671002   | 11   | A4698675  |        30 |        22
+306253953200 | 00    | 060667       | TIEMAN ENGINEERING PTY LTD          | 25/06/13 12:26 | 991199   | Nothing Picked | 02094506   | 07510701   | 07   | A4715521  |        50 |      1932
+306253953200 | 00    | 060667       | TIEMAN ENGINEERING PTY LTD          | 25/06/13 12:26 | 991200   | Nothing Picked | 02938219   | 70130101   | 34   | A4641144  |         2 |       162
+306253953200 | 00    | 060667       | TIEMAN ENGINEERING PTY LTD          | 25/06/13 12:26 | 991201   | Nothing Picked | 06274384   | 70170502   | 34   | A4692892  |         1 |        24
+306253953701 | 63    | 883089       | NSW DEPARTMENT OF EDUCATION & TRAIN | 25/06/13 12:01 | 990932   | Nothing Picked | 06183094   | 15635102   | 15   | A4721600  |         1 |         5
+306253954300 | 99    | BT3531       | PROTECTOR ALSAFE - ALTONA           | 25/06/13 12:06 | 990968   | Nothing Picked | 02904916   | 49060301   | 04B  | A4543655  |         4 |        64
+306253954300 | 99    | BT3531       | PROTECTOR ALSAFE - ALTONA           | 25/06/13 12:06 | 990969   | Nothing Picked | 02904916   | 19586101   | 19   | A4712192  |        20 |        64
+306253954400 | LS    | BT5516       | J BLACKWOOD & SON LTD - LISMORE     | 25/06/13 12:06 | 990970   | Nothing Picked | 01714658   | 17216001   | 17   | A4639194  |         1 |         0
+306253954500 | SN    | BT6011       | J BLACKWOOD & SON LTD  - SINGLETON  | 25/06/13 12:06 | 990971   | Nothing Picked | 04099999   | 10736101   | 10   | A4629558  |        10 |        27
+306253954600 | 99    | BT4018       | BLACKWOODS - WOLLONGONG             | 25/06/13 12:07 | 990972   | Nothing Picked | 04763465   | 36780301   | 04A  | A4710435  |         1 |         7
+306253954700 | 99    | BT4019       | J BLACKWOOD & SON LTD - ORANGE      | 25/06/13 12:07 | 990973   | Nothing Picked | 04872014   | 12045605   | 12   | A4717437  |         2 |        15
+306253954700 | 99    | BT4019       | J BLACKWOOD & SON LTD - ORANGE      | 25/06/13 12:07 | 990974   | Nothing Picked | 00777580   | 17035201   | 17   | A4643901  |         2 |         2
+306253954900 | 16    | 278483       | ACE GUTTERS COIL COATERS PTY LTD    | 25/06/13 12:20 | 991005   | Nothing Picked | 00675631   | 48120301   | 04A  | A4721966  |         4 |         0
+306253955200 | 25    | 098506       | THE L.S. STARRETT CO OF AUST. PTY L | 25/06/13 12:13 | 990982   | Nothing Picked | 04724865   | 10645401   | 10   | A4656124  |        85 |        18
+306253955400 | 07    | 000232       | ARC                                 | 25/06/13 12:13 | 990983   | Nothing Picked | 06750316   | 38110301   | 04A  | A4593946  |        10 |       805
+306253955400 | 07    | 000232       | ARC                                 | 25/06/13 12:13 | 990984   | Nothing Picked | 07346965   | 17580101   | 17   | A4647301  |        10 |       503
+306253955600 | 86    | BT5536       | BLACKWOODS - TUGGERAH               | 25/06/13 12:12 | 990979   | Nothing Picked | 06790164   | 03250501   | 03A  | A4621751  |         2 |       168
+306253955800 | 19    | 099011       | CRANE ENFIELD METALS PTY LTD        | 25/06/13 12:23 | 991008   | Nothing Picked | 06575726   | 03170301   | 03A  | A4709871  |         5 |       141
+306253955800 | 19    | 099011       | CRANE ENFIELD METALS PTY LTD        | 25/06/13 12:23 | 991010   | Nothing Picked | 08349404   | 14132802   | 14   | A4615784  |         1 |        23
+306253955800 | 19    | 099011       | CRANE ENFIELD METALS PTY LTD        | 25/06/13 12:23 | 991011   | Nothing Picked | 00665915   | 15736201   | 15   | A4680453  |         2 |        49
+306253956100 | 07    | 099287       | JACON TECHNOLOGIES PTY LTD          | 25/06/13 12:17 | 990987   | Nothing Picked | 04336911   | 16036202   | 16   | A4676894  |         4 |        10
+306253956100 | 07    | 099287       | JACON TECHNOLOGIES PTY LTD          | 25/06/13 12:17 | 990988   | Nothing Picked | 04336928   | 41590801   | 35   | A4685261  |         3 |         8
+306253956300 | 02    | 069322       | THE WRIGLEY COMPANY PTY LIMITED     | 25/06/13 12:27 | 991054   | Nothing Picked | 00561578   | 49570101   | 04   | A4715623  |        10 |       824
+306253956300 | 02    | 069322       | THE WRIGLEY COMPANY PTY LIMITED     | 25/06/13 12:27 | 991055   | Nothing Picked | 01166190   | 22510601   | 04A  | A4674854  |         1 |         2
+306253956300 | 02    | 069322       | THE WRIGLEY COMPANY PTY LIMITED     | 25/06/13 12:27 | 991058   | Nothing Picked | 00331585   | 11554001   | 11   | A4367935  |       100 |       433
+306253956300 | 02    | 069322       | THE WRIGLEY COMPANY PTY LIMITED     | 25/06/13 12:27 | 991059   | Nothing Picked | 03755501   | 12695602   | 12   | A4585673  |       400 |      1176
+306253956300 | 02    | 069322       | THE WRIGLEY COMPANY PTY LIMITED     | 25/06/13 12:27 | 991061   | Nothing Picked | 01808900   | 14521101   | 14   | A4562983  |        71 |         0
+306253956300 | 02    | 069322       | THE WRIGLEY COMPANY PTY LIMITED     | 25/06/13 12:27 | 991062   | Nothing Picked | 02482202   | 16526003   | 16   | A4340964  |       400 |       601J. BLACKWOOD & SON LIMITED           RE-ENTRY KEY/ PAGE ID ORDERS REPORT  - SORTED BY PICKING ORDER NUMBER.     TUESDAY, JUNE 25, 2013 14:06   PAGE   8
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ ORDER       |   ZONE   | CUSTOMER     | CUSTOMER                            |      LABEL     | RE-ENTRY |      STATUS    | PRODUCT    | ALLOCATED  | PICK | ALLOCATED |  ORDERED  |  AVAILBLE 
+ NUMBER      |          | NUMBER       | NAME                                |  DATE    TIME  |   KEY    |                |            | LOCATION   | LINE | STOCK ID  |  QUANTITY |  QUANTITY
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+306253956400 | 99    | BT4011       | BLACKWOODS - DARWIN                 | 25/06/13 12:19 |      0   | Nothing Picked | 00966348   |            |      |           |         4 |        11
+306253956500 | 19    | BT4004       | BAKERS CONSTRUCTION - BLACKTOWN     | 25/06/13 12:19 | 991004   | Nothing Picked | 02294513   | 15573501   | 15   | A4706116  |         1 |        24
+306253956600 | 99    | BT4020       | J BLACKWOOD & SON LTD  - LAUNCESTON | 25/06/13 12:19 | 991002   | Nothing Picked | 01291905   | 13183602   | 13   | A4587919  |         8 |         0
+306253956600 | 99    | BT4020       | J BLACKWOOD & SON LTD  - LAUNCESTON | 25/06/13 12:19 | 991003   | Nothing Picked | 00109854   | 19024103   | 19   | A4710492  |         2 |         8
+306253957000 | 09    | 008699       | RAILCORP ECOMMERCE ARIBA ACC        | 25/06/13 12:24 | 991014   | Nothing Picked | 07890013   | 23150102   | 02   | A4675567  |         1 |         2
+306253957000 | 09    | 008699       | RAILCORP ECOMMERCE ARIBA ACC        | 25/06/13 12:24 | 991015   | Nothing Picked | 06507112   | 33590501   | 04B  | A4672225  |        12 |       188
+306253957000 | 09    | 008699       | RAILCORP ECOMMERCE ARIBA ACC        | 25/06/13 12:24 | 991017   | Nothing Picked | 00971159   | 19231203   | 19   | A4510440  |         1 |         0
+306253957000 | 09    | 008699       | RAILCORP ECOMMERCE ARIBA ACC        | 25/06/13 12:24 | 991018   | Nothing Picked | 00971193   | 20536501   | 20   | A4510441  |         1 |         9
+306253957000 | 09    | 008699       | RAILCORP ECOMMERCE ARIBA ACC        | 25/06/13 12:24 | 991020   | Nothing Picked | 06506919   | 71090101   | 34A  | A4672224  |        12 |       199
+306253957200 | 09    | 008699       | RAILCORP ECOMMERCE ARIBA ACC        | 25/06/13 12:24 |      0   | Nothing Picked | 06251961   |            |      |           |         2 |         7
+306253957400 | SN    | BT6011       | J BLACKWOOD & SON LTD  - SINGLETON  | 25/06/13 12:25 | 991026   | Nothing Picked | 06488652   | 47011801   | 01A  | A4711618  |         3 |         9
+306253957400 | SN    | BT6011       | J BLACKWOOD & SON LTD  - SINGLETON  | 25/06/13 12:25 | 991027   | Nothing Picked | 03880953   | 36040307   | 04   | A4202478  |         2 |        10
+306253957400 | SN    | BT6011       | J BLACKWOOD & SON LTD  - SINGLETON  | 25/06/13 12:25 | 991028   | Nothing Picked | 05064009   | 22640701   | 04A  | A4683566  |        17 |      2427
+306253957400 | SN    | BT6011       | J BLACKWOOD & SON LTD  - SINGLETON  | 25/06/13 12:25 | 991029   | Nothing Picked | 04934354   | 49860201   | 04B  | A4713240  |        34 |       268
+306253957400 | SN    | BT6011       | J BLACKWOOD & SON LTD  - SINGLETON  | 25/06/13 12:25 | 991031   | Nothing Picked | 00743954   | 08071501   | 08   | A4645633  |        15 |        63
+306253957400 | SN    | BT6011       | J BLACKWOOD & SON LTD  - SINGLETON  | 25/06/13 12:25 | 991033   | Nothing Picked | 02095301   | 11511702   | 11   | A4694479  |        86 |        26
+306253957400 | SN    | BT6011       | J BLACKWOOD & SON LTD  - SINGLETON  | 25/06/13 12:25 | 991034   | Nothing Picked | 00338002   | 15101601   | 15   | A4681769  |         1 |         8
+306253957400 | SN    | BT6011       | J BLACKWOOD & SON LTD  - SINGLETON  | 25/06/13 12:25 | 991035   | Nothing Picked | 00575688   | 16631903   | 16   | A4683476  |         2 |         0
+306253957400 | SN    | BT6011       | J BLACKWOOD & SON LTD  - SINGLETON  | 25/06/13 12:25 | 991036   | Nothing Picked | 00082484   | 42031001   | 25   | A4666279  |        88 |       680
+306253957400 | SN    | BT6011       | J BLACKWOOD & SON LTD  - SINGLETON  | 25/06/13 12:25 | 991037   | Nothing Picked | 03411023   | 70600101   | 34   | A4627008  |         2 |        13
+306253957400 | SN    | BT6011       | J BLACKWOOD & SON LTD  - SINGLETON  | 25/06/13 12:25 | 991038   | Nothing Picked | 01020452   | 41131401   | 35   | A4717465  |         1 |        32
+306253957500 | 16    | 001326       | AUSTRALIAN PLASTIC PROFILES P/L     | 25/06/13 12:25 | 991042   | Nothing Picked | 03402761   | 07695602   | 07   | A4552742  |         4 |        20
+306253957500 | 16    | 001326       | AUSTRALIAN PLASTIC PROFILES P/L     | 25/06/13 12:25 | 991044   | Nothing Picked | 01467154   | 12040101   | 12   | A4662774  |         1 |       105
+306253957500 | 16    | 001326       | AUSTRALIAN PLASTIC PROFILES P/L     | 25/06/13 12:25 | 991045   | Nothing Picked | 04929815   | 71550101   | 34A  | A4714656  |         2 |        10
+306253957600 | SN    | BT6011       | J BLACKWOOD & SON LTD  - SINGLETON  | 25/06/13 12:25 | 991039   | Nothing Picked | 04325202   | 16524003   | 16   | A4674522  |       100 |       223
+306253957700 | LS    | BT5516       | J BLACKWOOD & SON LTD - LISMORE     | 25/06/13 12:25 | 991040   | Nothing Picked | 03151011   | 47310812   | 01A  | A4704343  |         1 |         2
+306253957700 | LS    | BT5516       | J BLACKWOOD & SON LTD - LISMORE     | 25/06/13 12:25 | 991041   | Nothing Picked | 01067726   | 18031006   | 18   | A4669516  |         1 |        44
+306253958100 | 17    | 049535       | PEL-AIR AVIATION PTY LIMITED        | 25/06/13 12:30 | 991065   | Nothing Picked | 08028615   | 37530401   | 04A  | A4719339  |         1 |        27
+306253958400 | 99    | BT4018       | BLACKWOODS - WOLLONGONG             | 25/06/13 12:31 | 991068   | Nothing Picked | 00031202   | 10224202   | 10   | A4654072  |        25 |        11
+306253958600 | 19    | 001705       | BLUESCOPE LYSAGHT                   | 25/06/13 12:34 | 991070   | Nothing Picked | 01315118   | 42691601   | 25   | A4698711  |         2 |         9
+306253958700 | 10    | 030556       | KIMBERLY-CLARK AUSTRALIA PTY LTD    | 25/06/13 12:37 | 991077   | Nothing Picked | 06286501   | 10051701   | 10   | A4364479  |         4 |         0
+306253958800 | 09    | 008699       | RAILCORP ECOMMERCE ARIBA ACC        | 25/06/13 12:37 | 991078   | Nothing Picked | 00972935   | 36081001   | 04A  | A4702460  |        12 |       249
+306253958800 | 09    | 008699       | RAILCORP ECOMMERCE ARIBA ACC        | 25/06/13 12:37 | 991079   | Nothing Picked | 01465934   | 43050401   | 26   | A4713494  |        40 |       292
+306253958900 | 05    | 008699       | RAILCORP ECOMMERCE ARIBA ACC        | 25/06/13 12:37 | 991080   | Nothing Picked | 06699826   | 48510501   | 04A  | A4701729  |         4 |        42
+306253959000 | 09    | 008699       | RAILCORP ECOMMERCE ARIBA ACC        | 25/06/13 12:37 | 991093   | Nothing Picked | 00955391   | 49700101   | 04   | A4666656  |        16 |       666
+306253959000 | 09    | 008699       | RAILCORP ECOMMERCE ARIBA ACC        | 25/06/13 12:37 | 991094   | Nothing Picked | 01590494   | 37130501   | 04A  | A4724174  |        60 |       384
+306253959000 | 09    | 008699       | RAILCORP ECOMMERCE ARIBA ACC        | 25/06/13 12:37 | 991095   | Nothing Picked | 09879370   | 49250301   | 04B  | A4712944  |         8 |       365
+306253959000 | 09    | 008699       | RAILCORP ECOMMERCE ARIBA ACC        | 25/06/13 12:37 | 991096   | Nothing Picked | 04424310   | 12556001   | 12   | A4712582  |         3 |        29
+306253959000 | 09    | 008699       | RAILCORP ECOMMERCE ARIBA ACC        | 25/06/13 12:37 | 991098   | Nothing Picked | 04973918   | 49650102   | 26   | A4696647  |         3 |       150
+306253959100 | 13    | 264758       | AUSTRALIA POST - NSW                | 25/06/13 12:37 | 991099   | Nothing Picked | 02319555   | 22560301   | 04B  | A4723664  |         1 |         4
+306253959200 | 99    | BT4018       | BLACKWOODS - WOLLONGONG             | 25/06/13 12:37 | 991083   | Nothing Picked | 04613565   | 43560101   | 04   | A4688316  |         3 |         1
+306253959300 | 99    | BT4005       | J BLACKWOOD & SON LTD  - CANBERRA   | 25/06/13 12:37 | 991085   | Nothing Picked | 00830753   | 08142801   | 08   | A4609336  |         2 |         3
+306253959300 | 99    | BT4005       | J BLACKWOOD & SON LTD  - CANBERRA   | 25/06/13 12:37 | 991086   | Nothing Picked | 01466019   | 42091101   | 25   | A4673835  |         2 |        16
+306253959300 | 99    | BT4005       | J BLACKWOOD & SON LTD  - CANBERRA   | 25/06/13 12:37 | 991087   | Nothing Picked | 03411193   | 70700201   | 34   | A4576108  |         6 |        21
+306253959500 | 00    | 082643       | UTILITY LOCATING                    | 25/06/13 12:38 | 991202   | Nothing Picked | 04125258   | 07052701   | 07   | A4596956  |         1 |        19
+306253959800 | 99    | BT4009       | J BLACKWOOD & SON LTD - CANNINGVALE | 25/06/13 12:43 | 991108   | Nothing Picked | 02902638   | 22510201   | 03   | A4719078  |         1 |         8
+306253959800 | 99    | BT4009       | J BLACKWOOD & SON LTD - CANNINGVALE | 25/06/13 12:43 | 991110   | Nothing Picked | 02542304   | 11536201   | 11   | A4661452  |       300 |       114
+306253959800 | 99    | BT4009       | J BLACKWOOD & SON LTD - CANNINGVALE | 25/06/13 12:43 | 991111   | Nothing Picked | 04549155   | 12531601   | 12   | A4723343  |         2 |        21
+306253959800 | 99    | BT4009       | J BLACKWOOD & SON LTD - CANNINGVALE | 25/06/13 12:43 | 991112   | Nothing Picked | 05201804   | 18050701   | 18   | A4713691  |         2 |         0
+306253959800 | 99    | BT4009       | J BLACKWOOD & SON LTD - CANNINGVALE | 25/06/13 12:43 | 991113   | Nothing Picked | 03843268   | 70040101   | 34   | A4697625  |        10 |        24
+306253959800 | 99    | BT4009       | J BLACKWOOD & SON LTD - CANNINGVALE | 25/06/13 12:43 | 991114   | Nothing Picked | 01143274   | 41320501   | 35   | A4655296  |         4 |        10
+306253959900 | 99    | BT4008       | J BLACKWOOD & SON LTD - ADELAIDE    | 25/06/13 12:43 | 991115   | Nothing Picked | 07106402   | 47031201   | 01A  | A4591588  |         2 |         3
+306253959900 | 99    | BT4008       | J BLACKWOOD & SON LTD - ADELAIDE    | 25/06/13 12:43 | 991116   | Nothing Picked | 08463355   | 37571501   | 04B  | A4722624  |         1 |         9
+306253959900 | 99    | BT4008       | J BLACKWOOD & SON LTD - ADELAIDE    | 25/06/13 12:43 | 991117   | Nothing Picked | 00544809   | 07716001   | 07   | A4583453  |         2 |        11
+306253959900 | 99    | BT4008       | J BLACKWOOD & SON LTD - ADELAIDE    | 25/06/13 12:43 | 991118   | Nothing Picked | 05306149   | 08632201   | 08   | A4642716  |         1 |        14
+306253959900 | 99    | BT4008       | J BLACKWOOD & SON LTD - ADELAIDE    | 25/06/13 12:43 | 991120   | Nothing Picked | 02450700   | 10664702   | 10   | A4443832  |        50 |        53
+306253959900 | 99    | BT4008       | J BLACKWOOD & SON LTD - ADELAIDE    | 25/06/13 12:43 | 991121   | Nothing Picked | 03064700   | 13610801   | 13   | A4648077  |         3 |         4
+306253959900 | 99    | BT4008       | J BLACKWOOD & SON LTD - ADELAIDE    | 25/06/13 12:43 | 991122   | Nothing Picked | 00283662   | 15155201   | 15   | A4718959  |         3 |         1
+306253959900 | 99    | BT4008       | J BLACKWOOD & SON LTD - ADELAIDE    | 25/06/13 12:43 | 991123   | Nothing Picked | 04477901   | 16150201   | 16   | A4688749  |         1 |         9
+306253959900 | 99    | BT4008       | J BLACKWOOD & SON LTD - ADELAIDE    | 25/06/13 12:43 | 991124   | Nothing Picked | 01320618   | 18582702   | 18   | A4688574  |         2 |        32
+306253959900 | 99    | BT4008       | J BLACKWOOD & SON LTD - ADELAIDE    | 25/06/13 12:43 | 991125   | Nothing Picked | 06766607   | 19035505   | 19   | A4701275  |         2 |        16
+306253959900 | 99    | BT4008       | J BLACKWOOD & SON LTD - ADELAIDE    | 25/06/13 12:43 | 991126   | Nothing Picked | 04083339   | 20175701   | 20   | A4671046  |         1 |        43
+306253959900 | 99    | BT4008       | J BLACKWOOD & SON LTD - ADELAIDE    | 25/06/13 12:43 | 991127   | Nothing Picked | 08216685   | 42251301   | 25   | A4675900  |         3 |        10
+306253959900 | 99    | BT4008       | J BLACKWOOD & SON LTD - ADELAIDE    | 25/06/13 12:43 | 991128   | Nothing Picked | 04611861   | 70090401   | 34   | A4718520  |         2 |         5J. BLACKWOOD & SON LIMITED           RE-ENTRY KEY/ PAGE ID ORDERS REPORT  - SORTED BY PICKING ORDER NUMBER.     TUESDAY, JUNE 25, 2013 14:06   PAGE   9
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ ORDER       |   ZONE   | CUSTOMER     | CUSTOMER                            |      LABEL     | RE-ENTRY |      STATUS    | PRODUCT    | ALLOCATED  | PICK | ALLOCATED |  ORDERED  |  AVAILBLE 
+ NUMBER      |          | NUMBER       | NAME                                |  DATE    TIME  |   KEY    |                |            | LOCATION   | LINE | STOCK ID  |  QUANTITY |  QUANTITY
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+306253960000 | WF    | BT5545       | BAKERS CONSTRUCTION + INDUSTRIAL    | 25/06/13 12:43 | 991129   | Nothing Picked | 03169207   | 13015501   | 13   | A4173064  |         5 |         7
+306253960000 | WF    | BT5545       | BAKERS CONSTRUCTION + INDUSTRIAL    | 25/06/13 12:43 | 991130   | Nothing Picked | 01182238   | 19150601   | 19   | A4709643  |        12 |        23
+306253960100 | 33    | 880284       | NEWINGTON COLLEGE                   | 25/06/13 12:44 | 991134   | Nothing Picked | 01046119   | 16664202   | 16   | A4590326  |        10 |        54
+306253960300 | 10    | 049333       | VIRIDIAN-BUILDING PRODUCTS DIVN     | 25/06/13 12:48 | 991141   | Nothing Picked | 00968337   | 12236102   | 12   | A4577987  |         2 |         0
+306253960300 | 10    | 049333       | VIRIDIAN-BUILDING PRODUCTS DIVN     | 25/06/13 12:48 | 991142   | Nothing Picked | 09462319   | 15610101   | 15   | A4687181  |         3 |       105
+306253960400 | 18    | 035078       | AIMS INDUSTRIAL PTY LTD             | 25/06/13 12:49 | 991163   | Nothing Picked | 02921019   | 49790201   | 04A  | A4616315  |        10 |       372
+306253960500 | 16    | 095208       | JENTECH DESIGNS PTY.LTD.            | 25/06/13 13:08 | 991306   | Nothing Picked | 00947129   | 49100101   | 04   | A4634381  |         2 |       102
+306253960500 | 16    | 095208       | JENTECH DESIGNS PTY.LTD.            | 25/06/13 13:08 | 991308   | Nothing Picked | 04512905   | 11173301   | 11   | A4489115  |         6 |        23
+306253960500 | 16    | 095208       | JENTECH DESIGNS PTY.LTD.            | 25/06/13 13:08 | 991309   | Nothing Picked | 01382702   | 13053803   | 13   | A4586521  |         3 |         1
+306253960600 | 99    | BT4017       | J BLACKWOOD & SON LTD - NEWCASTLE   | 25/06/13 12:49 | 991143   | Nothing Picked | 00510229   | 49760301   | 04A  | A4691606  |         1 |       194
+306253960600 | 99    | BT4017       | J BLACKWOOD & SON LTD - NEWCASTLE   | 25/06/13 12:49 | 991144   | Nothing Picked | 01808654   | 19633401   | 19   | A4546708  |         4 |         8
+306253960600 | 99    | BT4017       | J BLACKWOOD & SON LTD - NEWCASTLE   | 25/06/13 12:49 | 991145   | Nothing Picked | 03855702   | 20575105   | 20   | A4640789  |         1 |         0
+306253960600 | 99    | BT4017       | J BLACKWOOD & SON LTD - NEWCASTLE   | 25/06/13 12:49 | 991146   | Nothing Picked | 00435047   | 41560501   | 35   | A4708195  |         1 |         1
+306253960700 | 99    | BT5535       | J BLACKWOOD & SON LTD - WAGGA       | 25/06/13 12:49 | 991148   | Nothing Picked | 07813292   | 08066201   | 08   | A4565022  |        20 |       189
+306253960700 | 99    | BT5535       | J BLACKWOOD & SON LTD - WAGGA       | 25/06/13 12:49 | 991150   | Nothing Picked | 03560301   | 12131801   | 12   | A4615405  |         3 |         0
+306253960700 | 99    | BT5535       | J BLACKWOOD & SON LTD - WAGGA       | 25/06/13 12:49 | 991151   | Nothing Picked | 07345302   | 13544501   | 13   | A4694007  |         1 |         0
+306253960700 | 99    | BT5535       | J BLACKWOOD & SON LTD - WAGGA       | 25/06/13 12:49 | 991152   | Nothing Picked | 03075100   | 14181201   | 14   | A4677347  |         1 |         3
+306253960700 | 99    | BT5535       | J BLACKWOOD & SON LTD - WAGGA       | 25/06/13 12:49 | 991153   | Nothing Picked | 07630800   | 15680601   | 15   | A4569686  |         1 |        53
+306253960700 | 99    | BT5535       | J BLACKWOOD & SON LTD - WAGGA       | 25/06/13 12:49 | 991154   | Nothing Picked | 06193379   | 17135001   | 17   | A4708108  |         6 |        57
+306253960700 | 99    | BT5535       | J BLACKWOOD & SON LTD - WAGGA       | 25/06/13 12:49 | 991155   | Nothing Picked | 03559309   | 18013805   | 18   | A4709497  |        10 |        28
+306253960700 | 99    | BT5535       | J BLACKWOOD & SON LTD - WAGGA       | 25/06/13 12:49 | 991156   | Nothing Picked | 06288120   | 19575401   | 19   | A4717438  |         1 |         9
+306253960700 | 99    | BT5535       | J BLACKWOOD & SON LTD - WAGGA       | 25/06/13 12:49 | 991157   | Nothing Picked | 07739376   | 41361201   | 35   | A4528630  |        36 |        80
+306253960800 | 99    | BT4013       | J BLACKWOOD & SON LTD - TAMWORTH    | 25/06/13 12:49 | 991158   | Nothing Picked | 01256701   | 13704402   | 13   | A4717890  |       100 |       300
+306253960900 | 99    | BT5528       | BLACKWOODS - DUBBO                  | 25/06/13 12:49 | 991159   | Nothing Picked | 03131905   | 41081501   | 35   | A4700856  |         4 |        42
+306253961000 | 25    | BT4004       | BAKERS CONSTRUCTION - BLACKTOWN     | 25/06/13 12:49 | 991166   | Nothing Picked | 03505271   | 22610201   | 04B  | A4522529  |         3 |        22
+306253961100 | 99    | BT5537       | J BLACKWOOD & SON LTD ALBURY        | 25/06/13 12:49 | 991160   | Nothing Picked | 07393600   | 12045902   | 12   | A4699032  |         1 |         4
+306253961200 | 99    | BT5537       | J BLACKWOOD & SON LTD ALBURY        | 25/06/13 12:49 | 991161   | Nothing Picked | 04244600   | 49640101   | 04   | A4722515  |         4 |        41
+306253961200 | 99    | BT5537       | J BLACKWOOD & SON LTD ALBURY        | 25/06/13 12:49 | 991162   | Nothing Picked | 06121611   | 10102701   | 10   | A4667199  |         1 |         0
+306253961700 | 63    | 900074       | JBS COFFS HARBOUR - COD ACCOUNT     | 25/06/13 12:55 | 991229   | Nothing Picked | 04706805   | 11111701   | 11   | A4683905  |         2 |         2
+306253961900 | 01    | 028828       | TORRESAN ENGINEERING P/L            | 25/06/13 12:55 | 991231   | Nothing Picked | 06353214   | 49070501   | 04A  | A4690721  |         6 |        74
+306253961900 | 01    | 028828       | TORRESAN ENGINEERING P/L            | 25/06/13 12:55 | 991232   | Nothing Picked | 05850310   | 43000000   | 26   | A4632273  |         6 |       116
+306253962000 | 07    | 008699       | RAILCORP ECOMMERCE ARIBA ACC        | 25/06/13 12:55 | 991233   | Nothing Picked | 07136605   | 20192402   | 20   | A4718594  |         1 |        18
+306253962100 | 07    | 008699       | RAILCORP ECOMMERCE ARIBA ACC        | 25/06/13 12:56 | 991239   | Nothing Picked | 05850310   | 43000000   | 26   | A4632273  |         3 |       116
+306253962200 | 07    | 008699       | RAILCORP ECOMMERCE ARIBA ACC        | 25/06/13 12:56 | 991240   | Nothing Picked | 03475504   | 18653601   | 18   | A4703141  |         4 |        49
+306253962300 | 07    | 008699       | RAILCORP ECOMMERCE ARIBA ACC        | 25/06/13 12:56 | 991241   | Nothing Picked | 00983848   | 42470601   | 25   | A4682810  |        24 |      6545
+306253962300 | 07    | 008699       | RAILCORP ECOMMERCE ARIBA ACC        | 25/06/13 12:56 | 991242   | Nothing Picked | 00819298   | 70180201   | 34   | A4711335  |         1 |        31
+306253962500 | 99    | BT5517       | J BLACKWOOD & SON LTD - SOUTHPORT   | 25/06/13 12:56 | 991234   | Nothing Picked | 09513912   | 13732505   | 13   | A4442014  |         3 |        21
+306253962600 | 99    | BT4013       | J BLACKWOOD & SON LTD - TAMWORTH    | 25/06/13 12:56 | 991235   | Nothing Picked | 00452302   | 37280601   | 04A  | A4663915  |         4 |        37
+306253962700 | 99    | BT4013       | J BLACKWOOD & SON LTD - TAMWORTH    | 25/06/13 12:56 | 991236   | Nothing Picked | 03968204   | 37040101   | 01   | A4709505  |        36 |       518
+306253962700 | 99    | BT4013       | J BLACKWOOD & SON LTD - TAMWORTH    | 25/06/13 12:56 | 991238   | Nothing Picked | 00392909   | 71040201   | 34A  | A4639577  |        72 |       972
+306253963100 | 53    | 555555       | WEIR MINERALS AUSTRALIA LTD         | 25/06/13 13:07 | 991288   | Nothing Picked | 00580737   | 23070501   | 02   | A4712344  |         1 |        36
+306253963100 | 53    | 555555       | WEIR MINERALS AUSTRALIA LTD         | 25/06/13 13:07 | 991289   | Nothing Picked | 03251716   | 49120101   | 04   | A4704057  |         1 |        82
+306253963100 | 53    | 555555       | WEIR MINERALS AUSTRALIA LTD         | 25/06/13 13:07 | 991290   | Nothing Picked | 05460519   | 37170601   | 04A  | A4712942  |         2 |        18
+306253963200 | 86    | BT5536       | BLACKWOODS - TUGGERAH               | 25/06/13 13:07 | 991293   | Nothing Picked | 00019329   | 08135302   | 08   | A4615544  |         1 |        13
+306253963300 | 07    | 008699       | RAILCORP ECOMMERCE ARIBA ACC        | 25/06/13 13:07 | 991294   | Nothing Picked | 02319555   | 41630501   | 35   | A4692290  |         2 |         4
+306253963400 | 07    | 009584       | FAIVELEY TRANSPORT AUSTRALIA LTD    | 25/06/13 13:07 | 991295   | Nothing Picked | 00636233   | 11720101   | 11   | A4684547  |        14 |       115
+306253963400 | 07    | 009584       | FAIVELEY TRANSPORT AUSTRALIA LTD    | 25/06/13 13:07 | 991296   | Nothing Picked | 00636250   | 13646102   | 13   | A4702373  |         2 |       143
+306253963400 | 07    | 009584       | FAIVELEY TRANSPORT AUSTRALIA LTD    | 25/06/13 13:07 | 991297   | Nothing Picked | 00636267   | 41931401   | 35   | A4717331  |         1 |         9
+306253963500 | 53    | 555555       | WEIR MINERALS AUSTRALIA LTD         | 25/06/13 13:08 | 991311   | Nothing Picked | 07225008   | 19050902   | 19   | A4498138  |         1 |       153
+306253963500 | 53    | 555555       | WEIR MINERALS AUSTRALIA LTD         | 25/06/13 13:08 | 991312   | Nothing Picked | 00624019   | 20141002   | 20   | A4667052  |         1 |        24
+306253963900 | 99    | BT4020       | J BLACKWOOD & SON LTD  - LAUNCESTON | 25/06/13 13:07 | 991287   | Nothing Picked | 08274281   | CLWH2      | CLWH | A4687264  |         2 |        97
+306253964000 | 09    | 008699       | RAILCORP ECOMMERCE ARIBA ACC        | 25/06/13 13:07 | 991299   | Nothing Picked | 00955391   | 49700101   | 04   | A4666656  |         8 |       666
+306253964000 | 09    | 008699       | RAILCORP ECOMMERCE ARIBA ACC        | 25/06/13 13:07 | 991300   | Nothing Picked | 01521252   | 63160201   | 04A  | A4722222  |         4 |       263
+306253964000 | 09    | 008699       | RAILCORP ECOMMERCE ARIBA ACC        | 25/06/13 13:07 | 991301   | Nothing Picked | 09879370   | 49250301   | 04B  | A4712944  |         2 |       365
+306253964000 | 09    | 008699       | RAILCORP ECOMMERCE ARIBA ACC        | 25/06/13 13:07 | 991302   | Nothing Picked | 04973918   | 49650102   | 26   | A4696647  |         2 |       150
+306253964100 | 09    | 008699       | RAILCORP ECOMMERCE ARIBA ACC        | 25/06/13 13:07 | 991303   | Nothing Picked | 01465934   | 43220401   | 26   | A4696678  |        20 |       292
+306253964300 | 09    | 008699       | RAILCORP ECOMMERCE ARIBA ACC        | 25/06/13 13:07 | 991304   | Nothing Picked | 01590494   | 37130501   | 04A  | A4724174  |        60 |       384
+306253964300 | 09    | 008699       | RAILCORP ECOMMERCE ARIBA ACC        | 25/06/13 13:07 | 991305   | Nothing Picked | 09879370   | 49250301   | 04B  | A4712944  |         3 |       365J. BLACKWOOD & SON LIMITED           RE-ENTRY KEY/ PAGE ID ORDERS REPORT  - SORTED BY PICKING ORDER NUMBER.     TUESDAY, JUNE 25, 2013 14:06   PAGE  10
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ ORDER       |   ZONE   | CUSTOMER     | CUSTOMER                            |      LABEL     | RE-ENTRY |      STATUS    | PRODUCT    | ALLOCATED  | PICK | ALLOCATED |  ORDERED  |  AVAILBLE 
+ NUMBER      |          | NUMBER       | NAME                                |  DATE    TIME  |   KEY    |                |            | LOCATION   | LINE | STOCK ID  |  QUANTITY |  QUANTITY
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+306253964600 | 11    | 638290       | FLOWSERVE -PUMP DIVISION CASTLEMAIN | 25/06/13 13:12 | 991325   | Nothing Picked | 04389303   | 38540201   | 04A  | A4708866  |         1 |        13
+306253964600 | 11    | 638290       | FLOWSERVE -PUMP DIVISION CASTLEMAIN | 25/06/13 13:12 | 991326   | Nothing Picked | 09185201   | 15121601   | 15   | A4133524  |         1 |         0
+306253964700 | 07    | 080104       | UGL UNIPART RAIL SERVICES PTY LTD   | 25/06/13 13:13 | 991327   | Nothing Picked | 04413305   | 36850601   | 04B  | A4691616  |       500 |       593
+306253965300 | 07    | 080104       | UGL UNIPART RAIL SERVICES PTY LTD   | 25/06/13 13:44 | 991417   | Nothing Picked | 03476626   | 36160601   | 04A  | A4669038  |         5 |       681
+306253965300 | 07    | 080104       | UGL UNIPART RAIL SERVICES PTY LTD   | 25/06/13 13:44 | 991418   | Nothing Picked | 00226402   | 37140201   | 04B  | A4428909  |        28 |      1578
+306253965300 | 07    | 080104       | UGL UNIPART RAIL SERVICES PTY LTD   | 25/06/13 13:44 | 991420   | Nothing Picked | 01550300   | 08161104   | 08   | A4664848  |       228 |         0
+306253965300 | 07    | 080104       | UGL UNIPART RAIL SERVICES PTY LTD   | 25/06/13 13:44 | 991421   | Nothing Picked | 02063401   | 11685602   | 11   | A4604289  |       150 |      2308
+306253965300 | 07    | 080104       | UGL UNIPART RAIL SERVICES PTY LTD   | 25/06/13 13:44 | 991422   | Nothing Picked | 01222188   | 13226301   | 13   | A4712060  |        10 |        28
+306253965300 | 07    | 080104       | UGL UNIPART RAIL SERVICES PTY LTD   | 25/06/13 13:44 | 991423   | Nothing Picked | 01686655   | 16650601   | 16   | A4473279  |         4 |        18
+306253965300 | 07    | 080104       | UGL UNIPART RAIL SERVICES PTY LTD   | 25/06/13 13:44 | 991424   | Nothing Picked | 01247603   | 19584001   | 19   | A4494874  |         3 |        75
+306253965900 | 07    | 054818       | RHEEM AUSTRALIA PTY LTD             | 25/06/13 13:19 | 991344   | Nothing Picked | 04457701   | 16162601   | 16   | A4607131  |         1 |         0
+306253965900 | 07    | 054818       | RHEEM AUSTRALIA PTY LTD             | 25/06/13 13:19 | 991345   | Nothing Picked | 04457701   | 41170501   | 35   | A4692511  |         4 |         0
+306253966000 | 13    | 061495       | ROADS & MARITIME SERVICES - SYDNEY  | 25/06/13 13:19 | 991346   | Nothing Picked | 06172826   | 42430401   | 25   | A4673415  |         4 |       469
+306253966700 | 80    | BT4012       | BLACKWOODS - SMITHFIELD             | 25/06/13 13:21 | 991351   | Nothing Picked | 00991516   | 13226403   | 13   | A4625973  |        10 |        14
+306253967100 | 63    | 008652       | BORAL SBS                           | 25/06/13 13:25 | 991373   | Nothing Picked | 08158259   | 15566202   | 15   | A4710672  |         1 |         7
+306253967100 | 63    | 008652       | BORAL SBS                           | 25/06/13 13:25 | 991374   | Nothing Picked | 01152097   | 17652501   | 17   | A4625207  |         1 |        74
+306253967100 | 63    | 008652       | BORAL SBS                           | 25/06/13 13:25 | 991375   | Nothing Picked | 00082501   | 19520101   | 19   | A4712447  |         2 |       679
+306253967200 | 09    | BT4004       | BAKERS CONSTRUCTION - BLACKTOWN     | 25/06/13 13:25 | 991376   | Nothing Picked | 00031637   | 14592202   | 14   | A4179447  |        50 |        88
+306253967900 | 11    | 008247       | FIP BRAKES INTERNATIONAL            | 25/06/13 13:33 | 991387   | Nothing Picked | 00741200   | 18531201   | 18   | A4485580  |         3 |       165
+306253968200 | 07    | 054818       | RHEEM AUSTRALIA PTY LTD             | 25/06/13 13:33 | 991386   | Nothing Picked | 01794001   | 14525801   | 14   | A4593255  |        10 |       190
+306253968300 | 07    | 054818       | RHEEM AUSTRALIA PTY LTD             | 25/06/13 13:34 | 991388   | Nothing Picked | 02409201   | 36070306   | 04   | A4685190  |         1 |        16
+306253968700 | Q2    | 029196       | QANTAS AIRWAYS LTD                  | 25/06/13 13:37 | 991394   | Nothing Picked | 03357235   | 33620401   | 04B  | A4568779  |         2 |       597
+306253968800 | 16    | 264758       | AUSTRALIA POST - NSW                | 25/06/13 13:37 | 991395   | Nothing Picked | 06666268   | 18205602   | 18   | A4701401  |         2 |        36
+306253968900 | 11    | 170855       | H & K RESTAURANT SYSTEMS LTD        | 25/06/13 13:37 | 991397   | Nothing Picked | 06680769   | 10032002   | 10   | A4517661  |         1 |        71
+306253968900 | 11    | 170855       | H & K RESTAURANT SYSTEMS LTD        | 25/06/13 13:37 | 991398   | Nothing Picked | 00978493   | 13236002   | 13   | A4701131  |         1 |        36
+306253968900 | 11    | 170855       | H & K RESTAURANT SYSTEMS LTD        | 25/06/13 13:37 | 991399   | Nothing Picked | 01252957   | 18035501   | 18   | A4378173  |         1 |       200
+306253968900 | 11    | 170855       | H & K RESTAURANT SYSTEMS LTD        | 25/06/13 13:37 | 991400   | Nothing Picked | 02889952   | 20061801   | 20   | A4720296  |         1 |        68
+306253968900 | 11    | 170855       | H & K RESTAURANT SYSTEMS LTD        | 25/06/13 13:37 | 991401   | Nothing Picked | 00335206   | 70170101   | 34   | A4576472  |         1 |        80
+306253969000 | 53    | 555555       | WEIR MINERALS AUSTRALIA LTD         | 25/06/13 13:37 | 991403   | Nothing Picked | 04175203   | 10033501   | 10   | A4462548  |         3 |        54
+306253969000 | 53    | 555555       | WEIR MINERALS AUSTRALIA LTD         | 25/06/13 13:37 | 991404   | Nothing Picked | 03101906   | 41120701   | 35   | A4651112  |         3 |        13
+306253969100 | 16    | 008699       | RAILCORP ECOMMERCE ARIBA ACC        | 25/06/13 13:38 | 991405   | Nothing Picked | 05850310   | 43000000   | 26   | A4632273  |        40 |       116
+306253969600 | 05    | 008699       | RAILCORP ECOMMERCE ARIBA ACC        | 25/06/13 13:38 | 991406   | Nothing Picked | 00955374   | 48540501   | 04A  | A4676647  |         3 |        97
+306253969600 | 05    | 008699       | RAILCORP ECOMMERCE ARIBA ACC        | 25/06/13 13:38 | 991407   | Nothing Picked | 01455007   | 43170301   | 26   | A4709704  |         3 |       150
+306253969600 | 05    | 008699       | RAILCORP ECOMMERCE ARIBA ACC        | 25/06/13 13:38 | 991408   | Nothing Picked | 04334755   | 41831001   | 35   | A4707667  |         3 |        99
+306253969700 | 19    | 277807       | *JBS SMITHFIELD PRE PAID CREDIT CAR | 25/06/13 13:39 | 991409   | Nothing Picked | 01184380   | 33650601   | 04B  | A4436391  |        50 |      3392
+306253970300 | 30    | 881262       | STA - GENERAL PORT BOTANY           | 25/06/13 13:44 | 991416   | Nothing Picked | 02751491   | 11172901   | 11   | A4636303  |         1 |         6
+306253970900 | 02    | 052504       | NORTHERN SYDNEY LOCAL HEALTH DISTRI | 25/06/13 13:46 | 991425   | Nothing Picked | 03277420   | 49120101   | 04   | A4513429  |         2 |       196
+306253970900 | 02    | 052504       | NORTHERN SYDNEY LOCAL HEALTH DISTRI | 25/06/13 13:46 | 991426   | Nothing Picked | 04215419   | 37520401   | 04A  | A4702381  |        20 |       411
+306253970900 | 02    | 052504       | NORTHERN SYDNEY LOCAL HEALTH DISTRI | 25/06/13 13:46 | 991427   | Nothing Picked | 04516660   | 51560201   | 04B  | A4621410  |        10 |       992
+306253970900 | 02    | 052504       | NORTHERN SYDNEY LOCAL HEALTH DISTRI | 25/06/13 13:46 | 991428   | Nothing Picked | 03718864   | 10596202   | 10   | A4723617  |         2 |         7
+306253970900 | 02    | 052504       | NORTHERN SYDNEY LOCAL HEALTH DISTRI | 25/06/13 13:46 | 991429   | Nothing Picked | 00910469   | 14621101   | 14   | A4446752  |        20 |        11
+306253970900 | 02    | 052504       | NORTHERN SYDNEY LOCAL HEALTH DISTRI | 25/06/13 13:46 | 991430   | Nothing Picked | 01320019   | 15050101   | 15   | A4708962  |        20 |       355
+306253970900 | 02    | 052504       | NORTHERN SYDNEY LOCAL HEALTH DISTRI | 25/06/13 13:46 | 991431   | Nothing Picked | 05143254   | 20586201   | 20   | A4718314  |        10 |       311
+306253970900 | 02    | 052504       | NORTHERN SYDNEY LOCAL HEALTH DISTRI | 25/06/13 13:46 | 991432   | Nothing Picked | 01069103   | 41950601   | 35   | A4674962  |         2 |        45
+306253970900 | 02    | 052504       | NORTHERN SYDNEY LOCAL HEALTH DISTRI | 25/06/13 13:46 | 991433   | Nothing Picked | 04889734   | 67120101   | CONS | A4549163  |         2 |       157
+306253971100 | 04    | 018669       | GREENS GENERAL FOODS PTY LTD        | 25/06/13 13:47 | 991441   | Nothing Picked | 01916203   | 10722801   | 10   | A4721162  |        65 |         0
+306253971700 | 10    | 252707       | SUPAGAS                             | 25/06/13 13:48 | 991442   | Nothing Picked | 01071854   | 41240901   | 35   | A4596077  |         2 |         7
+306253971800 | 14    | 094021       | LEGRAND AUSTRALIA PTY LTD           | 25/06/13 13:48 | 991446   | Nothing Picked | 02962121   | 33570501   | 04B  | A4714060  |        12 |        85
+306253971800 | 14    | 094021       | LEGRAND AUSTRALIA PTY LTD           | 25/06/13 13:48 | 991447   | Nothing Picked | 07959808   | 10123001   | 10   | A4021109  |        10 |        30
+306253972200 | 25    | 052538       | WESTERN SYDNEY LOCAL HEALTH DISTRIC | 25/06/13 13:50 | 991448   | Nothing Picked | 01574356   | 15223501   | 15   | A4671266  |         4 |        32
+306253972700 | 30    | 067434       | ORICA CHEMICALS (O/N 71)            | 25/06/13 13:56 | 991473   | Nothing Picked | 01004673   | 38020401   | 04B  | A4722220  |        48 |      7885
+306253972700 | 30    | 067434       | ORICA CHEMICALS (O/N 71)            | 25/06/13 13:56 | 991475   | Nothing Picked | 04232429   | 10121201   | 10   | A4694201  |         2 |        11
+306253972700 | 30    | 067434       | ORICA CHEMICALS (O/N 71)            | 25/06/13 13:56 | 991476   | Nothing Picked | 04336554   | 18612801   | 18   | A4723842  |         1 |        39
+306253972700 | 30    | 067434       | ORICA CHEMICALS (O/N 71)            | 25/06/13 13:56 | 991477   | Nothing Picked | 01004690   | 41590301   | 35   | A4687464  |        48 |      4892
+306253973000 | 09    | 050220       | UGL SERVICES PTY LTD                | 25/06/13 13:55 | 991461   | Nothing Picked | 01236754   | 42230401   | 25   | A4711399  |         8 |       126
+
+TOTAL LINES :  374
+

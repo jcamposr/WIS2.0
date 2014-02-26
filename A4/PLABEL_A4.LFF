@@ -1,0 +1,148 @@
+<?xml version="1.0"?>
+<!--2/13/2014 3:28:03 PM-->
+<FormSet>
+	<FormSetInfo hidden="0" checksum="false">
+		<Name><![CDATA[PLABEL_A4]]></Name>
+		<OriginalName><![CDATA[PLABEL_A4]]></OriginalName>
+		<Comment><![CDATA[ ]]></Comment>
+		<Description><![CDATA[ ]]></Description>
+		<DataType><![CDATA[_TEXT]]></DataType>
+		<Author><![CDATA[ ]]></Author>
+		<CreationDate><![CDATA[1392183664]]></CreationDate>
+		<LastModifiedDate><![CDATA[1392265682]]></LastModifiedDate>
+		<Language><![CDATA[en-US]]></Language>
+	</FormSetInfo>
+	<versioninformation>
+		<createdby name="LFComposer" version="3.4.4.0"></createdby>
+		<forms version="1.1.0.0"></forms>
+	</versioninformation>
+	<CanMerge><![CDATA[true]]></CanMerge>
+	<PdfProjectFile><![CDATA[PLABEL_A4.PDF]]></PdfProjectFile>
+	<Mode><![CDATA[0]]></Mode>
+	<ACP><![CDATA[1252]]></ACP>
+	<TotalPages><![CDATA[5]]></TotalPages>
+	<ProjectImages>
+		<Image Page="1" File="PLABEL_A41.jpg"></Image>
+		<Image Page="2" File="PLABEL_A42.jpg"></Image>
+		<Image Page="3" File="PLABEL_A43.jpg"></Image>
+		<Image Page="4" File="PLABEL_A44.jpg"></Image>
+		<Image Page="5" File="PLABEL_A45.jpg"></Image>
+	</ProjectImages>
+	<PDFPAGES>
+		<Page num="1">
+			<File><![CDATA[PLABEL_A4.PDF]]></File>
+			<FilePage><![CDATA[1]]></FilePage>
+		</Page>
+		<Page num="2">
+			<File><![CDATA[PLABEL_A4.PDF]]></File>
+			<FilePage><![CDATA[2]]></FilePage>
+		</Page>
+		<Page num="3">
+			<File><![CDATA[PLABEL_A4.PDF]]></File>
+			<FilePage><![CDATA[3]]></FilePage>
+		</Page>
+		<Page num="4">
+			<File><![CDATA[PLABEL_A4.PDF]]></File>
+			<FilePage><![CDATA[4]]></FilePage>
+		</Page>
+		<Page num="5">
+			<File><![CDATA[PLABEL_A4.PDF]]></File>
+			<FilePage><![CDATA[5]]></FilePage>
+		</Page>
+	</PDFPAGES>
+	<PROPERTIES>
+		<PDFKeywords><![CDATA[ ]]></PDFKeywords>
+		<PDFSubject><![CDATA[ ]]></PDFSubject>
+		<PDFTitle><![CDATA[ ]]></PDFTitle>
+		<PDFVersion><![CDATA[1.7]]></PDFVersion>
+		<PDFFontMode><![CDATA[False]]></PDFFontMode>
+		<PDFFonts>
+		</PDFFonts>
+		<Permissions Perm1="False" Perm2="False" Perm3="False" Perm4="False"></Permissions>
+		<UNITS><![CDATA[CM]]></UNITS>
+		<Page>
+			<PageNum><![CDATA[1]]></PageNum>
+			<PageSetting><![CDATA[A4]]></PageSetting>
+			<LMargin><![CDATA[0.200694441795349]]></LMargin>
+			<RMargin><![CDATA[0.200694441795349]]></RMargin>
+			<TMargin><![CDATA[0.200694441795349]]></TMargin>
+			<BMargin><![CDATA[0.200694441795349]]></BMargin>
+			<Landscape><![CDATA[0]]></Landscape>
+			<RFIDMedia RFIDMedia="False"></RFIDMedia>
+		</Page>
+		<Page>
+			<PageNum><![CDATA[2]]></PageNum>
+			<PageSetting><![CDATA[A4]]></PageSetting>
+			<LMargin><![CDATA[0.200694441795349]]></LMargin>
+			<RMargin><![CDATA[0.200694441795349]]></RMargin>
+			<TMargin><![CDATA[0.200694441795349]]></TMargin>
+			<BMargin><![CDATA[0.200694441795349]]></BMargin>
+			<Landscape><![CDATA[0]]></Landscape>
+			<RFIDMedia RFIDMedia="False"></RFIDMedia>
+		</Page>
+		<Page>
+			<PageNum><![CDATA[3]]></PageNum>
+			<PageSetting><![CDATA[A4]]></PageSetting>
+			<LMargin><![CDATA[0.200694441795349]]></LMargin>
+			<RMargin><![CDATA[0.200694441795349]]></RMargin>
+			<TMargin><![CDATA[0.200694441795349]]></TMargin>
+			<BMargin><![CDATA[0.200694441795349]]></BMargin>
+			<Landscape><![CDATA[0]]></Landscape>
+			<RFIDMedia RFIDMedia="False"></RFIDMedia>
+		</Page>
+		<Page>
+			<PageNum><![CDATA[4]]></PageNum>
+			<PageSetting><![CDATA[A4]]></PageSetting>
+			<LMargin><![CDATA[0.200694441795349]]></LMargin>
+			<RMargin><![CDATA[0.200694441795349]]></RMargin>
+			<TMargin><![CDATA[0.200694441795349]]></TMargin>
+			<BMargin><![CDATA[0.200694441795349]]></BMargin>
+			<Landscape><![CDATA[0]]></Landscape>
+			<RFIDMedia RFIDMedia="False"></RFIDMedia>
+		</Page>
+		<Page>
+			<PageNum><![CDATA[5]]></PageNum>
+			<PageSetting><![CDATA[A4]]></PageSetting>
+			<LMargin><![CDATA[0.200694441795349]]></LMargin>
+			<RMargin><![CDATA[0.200694441795349]]></RMargin>
+			<TMargin><![CDATA[0.200694441795349]]></TMargin>
+			<BMargin><![CDATA[0.200694441795349]]></BMargin>
+			<Landscape><![CDATA[0]]></Landscape>
+			<RFIDMedia RFIDMedia="False"></RFIDMedia>
+		</Page>
+	</PROPERTIES>
+	<ADDITIONAL_FILES>
+	</ADDITIONAL_FILES>
+	<CodePage><![CDATA[1252]]></CodePage>
+	<DataProperties>
+		<LinesPerPage><![CDATA[8]]></LinesPerPage>
+	</DataProperties>
+	<currentMapFile><![CDATA[plabel.fmp]]></currentMapFile>
+	<DataMapFiles>
+		<File><![CDATA[label.fmp]]></File>
+		<File><![CDATA[plabel.fmp]]></File>
+		<File><![CDATA[label3.fmp]]></File>
+		<File><![CDATA[label6.fmp]]></File>
+	</DataMapFiles>
+	<WorkFlowVars>
+		<PrintForm><![CDATA[true]]></PrintForm>
+	</WorkFlowVars>
+	<DataFile><![CDATA[shl_plabel_despatchlabel_xtradesc_mac1.txt]]></DataFile>
+	<Files encryptchildren="true">
+		<File name="PLABEL_A4.WPF"/>
+		<File name="PLABEL_A4.LFM"/>
+		<File name="PLABEL_A4.pjc"/>
+		<File name="PLABEL_A4.pgc"/>
+		<File name="PLABEL_A41.jpg"/>
+		<File name="PLABEL_A42.jpg"/>
+		<File name="PLABEL_A43.jpg"/>
+		<File name="PLABEL_A44.jpg"/>
+		<File name="PLABEL_A45.jpg"/>
+		<File name="PLABEL_A4.PDF"/>
+		<File name="label.fmp"/>
+		<File name="plabel.fmp"/>
+		<File name="label3.fmp"/>
+		<File name="label6.fmp"/>
+		<File name="shl_plabel_despatchlabel_xtradesc_mac1.txt"/>
+	</Files>
+</FormSet>

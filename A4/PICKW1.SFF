@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<!--21/08/2013 5:44:16 p.m.-->
+<FormSet>
+	<FormSetInfo hidden="0" checksum="false">
+		<Name><![CDATA[PICKW1]]></Name>
+		<OriginalName><![CDATA[PICKW1]]></OriginalName>
+		<Comment><![CDATA[ ]]></Comment>
+		<Description><![CDATA[ ]]></Description>
+		<DataType><![CDATA[_TEXT]]></DataType>
+		<Author><![CDATA[ ]]></Author>
+		<CreationDate><![CDATA[1361614621]]></CreationDate>
+		<LastModifiedDate><![CDATA[1377071033]]></LastModifiedDate>
+		<Language><![CDATA[en-US]]></Language>
+	</FormSetInfo>
+	<versioninformation>
+		<createdby name="LFComposer" version="3.4.4.0"></createdby>
+		<forms version="1.1.0.0"></forms>
+	</versioninformation>
+	<SubformLevels><![CDATA[1]]></SubformLevels>
+	<CanMerge><![CDATA[true]]></CanMerge>
+	<PdfProjectFile><![CDATA[PICKW1.PDF]]></PdfProjectFile>
+	<Mode><![CDATA[3]]></Mode>
+	<ACP><![CDATA[1252]]></ACP>
+	<SubformPosition LeftMost="3" TopMost="23" RightMost="1153" BottomMost="810"></SubformPosition>
+	<TotalPages><![CDATA[1]]></TotalPages>
+	<ProjectImages>
+	</ProjectImages>
+	<PDFPAGES>
+		<Page num="1">
+			<File><![CDATA[PICKW1.PDF]]></File>
+			<FilePage><![CDATA[1]]></FilePage>
+		</Page>
+	</PDFPAGES>
+	<PROPERTIES>
+		<PDFKeywords><![CDATA[ ]]></PDFKeywords>
+		<PDFSubject><![CDATA[ ]]></PDFSubject>
+		<PDFTitle><![CDATA[ ]]></PDFTitle>
+		<PDFVersion><![CDATA[1.6]]></PDFVersion>
+		<PDFFontMode><![CDATA[False]]></PDFFontMode>
+		<PDFFonts>
+		</PDFFonts>
+		<Permissions Perm1="False" Perm2="False" Perm3="False" Perm4="False"></Permissions>
+		<UNITS><![CDATA[CM]]></UNITS>
+		<Page>
+			<PageNum><![CDATA[1]]></PageNum>
+			<PageSetting><![CDATA[A4]]></PageSetting>
+			<LMargin><![CDATA[0.196527779102325]]></LMargin>
+			<RMargin><![CDATA[0.196527779102325]]></RMargin>
+			<TMargin><![CDATA[0.196527779102325]]></TMargin>
+			<BMargin><![CDATA[0.196527779102325]]></BMargin>
+			<Landscape><![CDATA[1]]></Landscape>
+			<RFIDMedia RFIDMedia="False"></RFIDMedia>
+		</Page>
+	</PROPERTIES>
+	<ADDITIONAL_FILES>
+	</ADDITIONAL_FILES>
+	<CodePage><![CDATA[1252]]></CodePage>
+	<DataProperties>
+		<LinesPerPage><![CDATA[0]]></LinesPerPage>
+		<PageDelimiter><![CDATA[FF]]></PageDelimiter>
+	</DataProperties>
+	<currentMapFile><![CDATA[pickw.fmp]]></currentMapFile>
+	<DataMapFiles>
+		<File><![CDATA[pickw1.fmp]]></File>
+		<File><![CDATA[pickw.fmp]]></File>
+	</DataMapFiles>
+	<WorkFlowVars>
+		<PrintForm><![CDATA[true]]></PrintForm>
+	</WorkFlowVars>
+	<DataFile><![CDATA[tf_pickwa_rv120_reprint.rep]]></DataFile>
+	<Files encryptchildren="true">
+		<File name="PICKW1.WPF"/>
+		<File name="PICKW1.LFM"/>
+		<File name="PICKW1.PDF"/>
+	</Files>
+</FormSet>

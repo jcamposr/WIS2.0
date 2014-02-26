@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--3/8/2013 10:04:19 AM--><ProjectConditions DataType="_TEXT" FormSet="LABEL33">&#xD;
+  <ConditionSet>&#xD;
+    <FieldMap>label33.fmp</FieldMap>&#xD;
+    <Condition>&#xD;
+      <FieldName>TRIGGER1</FieldName>&#xD;
+      <Position>&#xD;
+        <Row>1</Row>&#xD;
+        <Column>1</Column>&#xD;
+        <Length>17</Length>&#xD;
+        <Depth>1</Depth>&#xD;
+      </Position>&#xD;
+      <Operation><![CDATA[=]]></Operation>&#xD;
+      <CompareValue><![CDATA[#!LABEL33!#]]></CompareValue>&#xD;
+      <CompareType>String</CompareType>&#xD;
+    </Condition>&#xD;
+  </ConditionSet>&#xD;
+  <PagePrintProfiles>&#xD;
+  </PagePrintProfiles>&#xD;
+</ProjectConditions>

@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+<!--18/09/2013 4:58:10 p.m.-->
+<FormSet>
+	<FormSetInfo hidden="0" checksum="false">
+		<Name><![CDATA[ASIMPLEX]]></Name>
+		<OriginalName><![CDATA[ASIMPLEX]]></OriginalName>
+		<Comment><![CDATA[ ]]></Comment>
+		<Description><![CDATA[ ]]></Description>
+		<DataType><![CDATA[_TEXT]]></DataType>
+		<Author><![CDATA[ ]]></Author>
+		<CreationDate><![CDATA[1369897400]]></CreationDate>
+		<LastModifiedDate><![CDATA[1379487489]]></LastModifiedDate>
+		<Language><![CDATA[en-US]]></Language>
+	</FormSetInfo>
+	<versioninformation>
+		<createdby name="LFComposer" version="3.4.4.0"></createdby>
+		<forms version="1.1.0.0"></forms>
+	</versioninformation>
+	<CanMerge><![CDATA[true]]></CanMerge>
+	<PdfProjectFile><![CDATA[ASIMPLEX.PDF]]></PdfProjectFile>
+	<Mode><![CDATA[0]]></Mode>
+	<ACP><![CDATA[1252]]></ACP>
+	<TotalPages><![CDATA[4]]></TotalPages>
+	<ProjectImages>
+		<Image Page="1" File="ASIMPLEX11.jpg"></Image>
+		<Image Page="2" File="ASIMPLEX21.jpg"></Image>
+		<Image Page="3" File="ASIMPLEX31.jpg"></Image>
+		<Image Page="4" File="ASIMPLEX4.jpg"></Image>
+	</ProjectImages>
+	<PDFPAGES>
+		<Page num="1">
+			<File><![CDATA[ASIMPLEX.PDF]]></File>
+			<FilePage><![CDATA[1]]></FilePage>
+		</Page>
+		<Page num="2">
+			<File><![CDATA[ASIMPLEX.PDF]]></File>
+			<FilePage><![CDATA[2]]></FilePage>
+		</Page>
+		<Page num="3">
+			<File><![CDATA[ASIMPLEX.PDF]]></File>
+			<FilePage><![CDATA[3]]></FilePage>
+		</Page>
+		<Page num="4">
+			<File><![CDATA[ASIMPLEX.PDF]]></File>
+			<FilePage><![CDATA[4]]></FilePage>
+		</Page>
+	</PDFPAGES>
+	<PROPERTIES>
+		<PDFKeywords><![CDATA[ ]]></PDFKeywords>
+		<PDFSubject><![CDATA[ ]]></PDFSubject>
+		<PDFTitle><![CDATA[ ]]></PDFTitle>
+		<PDFVersion><![CDATA[1.4]]></PDFVersion>
+		<PDFFontMode><![CDATA[False]]></PDFFontMode>
+		<PDFFonts>
+		</PDFFonts>
+		<Permissions Perm1="False" Perm2="False" Perm3="False" Perm4="False"></Permissions>
+		<Page>
+			<PageNum><![CDATA[1]]></PageNum>
+			<PageSetting><![CDATA[A4]]></PageSetting>
+			<LMargin><![CDATA[0.200000002980232]]></LMargin>
+			<RMargin><![CDATA[0.200000002980232]]></RMargin>
+			<TMargin><![CDATA[0.200000002980232]]></TMargin>
+			<BMargin><![CDATA[0.200000002980232]]></BMargin>
+			<Landscape><![CDATA[1]]></Landscape>
+			<RFIDMedia RFIDMedia="False"></RFIDMedia>
+		</Page>
+		<Page>
+			<PageNum><![CDATA[2]]></PageNum>
+			<PageSetting><![CDATA[A4]]></PageSetting>
+			<LMargin><![CDATA[0.200694441795349]]></LMargin>
+			<RMargin><![CDATA[0.200694441795349]]></RMargin>
+			<TMargin><![CDATA[0.200694441795349]]></TMargin>
+			<BMargin><![CDATA[0.200694441795349]]></BMargin>
+			<Landscape><![CDATA[0]]></Landscape>
+			<RFIDMedia RFIDMedia="False"></RFIDMedia>
+		</Page>
+		<Page>
+			<PageNum><![CDATA[3]]></PageNum>
+			<PageSetting><![CDATA[A4]]></PageSetting>
+			<LMargin><![CDATA[0.200694441795349]]></LMargin>
+			<RMargin><![CDATA[0.200694441795349]]></RMargin>
+			<TMargin><![CDATA[0.200694441795349]]></TMargin>
+			<BMargin><![CDATA[0.200694441795349]]></BMargin>
+			<Landscape><![CDATA[0]]></Landscape>
+			<RFIDMedia RFIDMedia="False"></RFIDMedia>
+		</Page>
+		<Page>
+			<PageNum><![CDATA[4]]></PageNum>
+			<PageSetting><![CDATA[A4]]></PageSetting>
+			<LMargin><![CDATA[0.200000002980232]]></LMargin>
+			<RMargin><![CDATA[0.200000002980232]]></RMargin>
+			<TMargin><![CDATA[0.200000002980232]]></TMargin>
+			<BMargin><![CDATA[0.200000002980232]]></BMargin>
+			<Landscape><![CDATA[1]]></Landscape>
+			<RFIDMedia RFIDMedia="False"></RFIDMedia>
+		</Page>
+	</PROPERTIES>
+	<ADDITIONAL_FILES>
+	</ADDITIONAL_FILES>
+	<CodePage><![CDATA[1252]]></CodePage>
+	<DataProperties>
+		<LinesPerPage><![CDATA[0]]></LinesPerPage>
+		<PageDelimiter><![CDATA[FF]]></PageDelimiter>
+	</DataProperties>
+	<currentMapFile><![CDATA[simplex.fmp]]></currentMapFile>
+	<DataMapFiles>
+		<File><![CDATA[simplex.fmp]]></File>
+		<File><![CDATA[simplex2.fmp]]></File>
+	</DataMapFiles>
+	<WorkFlowVars>
+		<PrintForm><![CDATA[true]]></PrintForm>
+	</WorkFlowVars>
+	<DataFile><![CDATA[bw_simplex_pst530.rep]]></DataFile>
+	<Files encryptchildren="true">
+		<File name="ASIMPLEX.WPF"/>
+		<File name="ASIMPLEX.LFM"/>
+		<File name="ASIMPLEX.pjc"/>
+		<File name="ASIMPLEX.pgc"/>
+		<File name="ASIMPLEX11.jpg"/>
+		<File name="ASIMPLEX21.jpg"/>
+		<File name="ASIMPLEX31.jpg"/>
+		<File name="ASIMPLEX4.jpg"/>
+		<File name="ASIMPLEX.PDF"/>
+		<File name="simplex.fmp"/>
+		<File name="simplex2.fmp"/>
+		<File name="bw_simplex_pst530.rep"/>
+		<File name="BIN4.ppf"/>
+	</Files>
+</FormSet>

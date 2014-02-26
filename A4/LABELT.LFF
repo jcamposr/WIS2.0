@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<!--1/20/2014 12:44:59 PM-->
+<FormSet>
+	<FormSetInfo hidden="0" checksum="false">
+		<Name><![CDATA[LABELT]]></Name>
+		<OriginalName><![CDATA[LABELT]]></OriginalName>
+		<Comment><![CDATA[ ]]></Comment>
+		<Description><![CDATA[ ]]></Description>
+		<DataType><![CDATA[_TEXT]]></DataType>
+		<Author><![CDATA[ ]]></Author>
+		<CreationDate><![CDATA[1389919413]]></CreationDate>
+		<LastModifiedDate><![CDATA[1390182299]]></LastModifiedDate>
+		<Language><![CDATA[en-US]]></Language>
+	</FormSetInfo>
+	<versioninformation>
+		<createdby name="LFComposer" version="3.4.4.0"></createdby>
+		<forms version="1.1.0.0"></forms>
+	</versioninformation>
+	<CanMerge><![CDATA[true]]></CanMerge>
+	<PdfProjectFile><![CDATA[LABELT.PDF]]></PdfProjectFile>
+	<Mode><![CDATA[0]]></Mode>
+	<ACP><![CDATA[1252]]></ACP>
+	<TotalPages><![CDATA[1]]></TotalPages>
+	<ProjectImages>
+		<Image Page="1" File="LABELT1.jpg"></Image>
+	</ProjectImages>
+	<PDFPAGES>
+		<Page num="1">
+			<File><![CDATA[LABELT.PDF]]></File>
+			<FilePage><![CDATA[1]]></FilePage>
+		</Page>
+	</PDFPAGES>
+	<PROPERTIES>
+		<PDFKeywords><![CDATA[ ]]></PDFKeywords>
+		<PDFSubject><![CDATA[ ]]></PDFSubject>
+		<PDFTitle><![CDATA[ ]]></PDFTitle>
+		<PDFVersion><![CDATA[1.3]]></PDFVersion>
+		<PDFFontMode><![CDATA[False]]></PDFFontMode>
+		<PDFFonts>
+		</PDFFonts>
+		<Permissions Perm1="False" Perm2="False" Perm3="False" Perm4="False"></Permissions>
+		<UNITS><![CDATA[CM]]></UNITS>
+		<Page>
+			<PageNum><![CDATA[1]]></PageNum>
+			<PageSetting><![CDATA[A4]]></PageSetting>
+			<LMargin><![CDATA[0.200694441795349]]></LMargin>
+			<RMargin><![CDATA[0.200694441795349]]></RMargin>
+			<TMargin><![CDATA[0.200694441795349]]></TMargin>
+			<BMargin><![CDATA[0.200694441795349]]></BMargin>
+			<Landscape><![CDATA[0]]></Landscape>
+			<RFIDMedia RFIDMedia="False"></RFIDMedia>
+		</Page>
+	</PROPERTIES>
+	<ADDITIONAL_FILES>
+	</ADDITIONAL_FILES>
+	<CodePage><![CDATA[1252]]></CodePage>
+	<DataProperties>
+		<LinesPerPage><![CDATA[19]]></LinesPerPage>
+	</DataProperties>
+	<currentMapFile><![CDATA[labelt.fmp]]></currentMapFile>
+	<DataMapFiles>
+		<File><![CDATA[labelt.fmp]]></File>
+	</DataMapFiles>
+	<WorkFlowVars>
+		<PrintForm><![CDATA[true]]></PrintForm>
+	</WorkFlowVars>
+	<DataFile><![CDATA[sfl_131015143338_out_labelt_mp.txt]]></DataFile>
+	<Files encryptchildren="true">
+		<File name="LABELT.WPF"/>
+		<File name="LABELT.LFM"/>
+		<File name="LABELT.pjc"/>
+		<File name="LABELT.pgc"/>
+		<File name="LABELT1.jpg"/>
+		<File name="LABELT.PDF"/>
+		<File name="labelt.fmp"/>
+		<File name="sfl_131015143338_out_labelt_mp.txt"/>
+		<File name="BIN1.ppf"/>
+	</Files>
+</FormSet>

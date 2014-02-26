@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--10/09/2013 1:25:05 a.m.--><ProjectConditions DataType="_TEXT" FormSet="COPIES">&#xD;
+  <ConditionSet>&#xD;
+    <FieldMap>i2n.fmp</FieldMap>&#xD;
+    <Condition>&#xD;
+      <FieldName>TRIGGER1</FieldName>&#xD;
+      <Position>&#xD;
+        <Row>1</Row>&#xD;
+        <Column>1</Column>&#xD;
+        <Length>14</Length>&#xD;
+        <Depth>1</Depth>&#xD;
+      </Position>&#xD;
+      <Operation><![CDATA[C]]></Operation>&#xD;
+      <CompareValue><![CDATA[I2P!#]]></CompareValue>&#xD;
+      <CompareType>String</CompareType>&#xD;
+    </Condition>&#xD;
+  </ConditionSet>&#xD;
+  <ConditionSet>&#xD;
+    <FieldMap>i2n.fmp</FieldMap>&#xD;
+    <Condition>&#xD;
+      <FieldName>TRIGGER1</FieldName>&#xD;
+      <Position>&#xD;
+        <Row>1</Row>&#xD;
+        <Column>1</Column>&#xD;
+        <Length>14</Length>&#xD;
+        <Depth>1</Depth>&#xD;
+      </Position>&#xD;
+      <Operation><![CDATA[C]]></Operation>&#xD;
+      <CompareValue><![CDATA[I21P!#]]></CompareValue>&#xD;
+      <CompareType>String</CompareType>&#xD;
+    </Condition>&#xD;
+  </ConditionSet>&#xD;
+  <PagePrintProfiles>&#xD;
+  </PagePrintProfiles>&#xD;
+</ProjectConditions>

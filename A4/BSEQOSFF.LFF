@@ -1,0 +1,162 @@
+<?xml version="1.0"?>
+<!--1/15/2014 4:18:43 PM-->
+<FormSet>
+	<FormSetInfo hidden="0" checksum="false">
+		<Name><![CDATA[BSEQOSFF]]></Name>
+		<OriginalName><![CDATA[BSEQOSFF]]></OriginalName>
+		<Comment><![CDATA[ ]]></Comment>
+		<Description><![CDATA[ ]]></Description>
+		<DataType><![CDATA[_TEXT]]></DataType>
+		<Author><![CDATA[ ]]></Author>
+		<CreationDate><![CDATA[1389676267]]></CreationDate>
+		<LastModifiedDate><![CDATA[1389763122]]></LastModifiedDate>
+		<Language><![CDATA[en-US]]></Language>
+	</FormSetInfo>
+	<versioninformation>
+		<createdby name="LFComposer" version="3.4.4.0"></createdby>
+		<forms version="1.1.0.0"></forms>
+	</versioninformation>
+	<CanMerge><![CDATA[true]]></CanMerge>
+	<PdfProjectFile><![CDATA[BSEQOSFF.PDF]]></PdfProjectFile>
+	<Mode><![CDATA[0]]></Mode>
+	<ACP><![CDATA[1252]]></ACP>
+	<TotalPages><![CDATA[6]]></TotalPages>
+	<ProjectImages>
+		<Image Page="1" File="BSEQOSFF1.jpg"></Image>
+		<Image Page="2" File="BSEQOSFF2.jpg"></Image>
+		<Image Page="3" File="BSEQOSFF3.jpg"></Image>
+		<Image Page="4" File="BSEQOSFF4.jpg"></Image>
+		<Image Page="5" File="BSEQOSFF5.jpg"></Image>
+	</ProjectImages>
+	<PDFPAGES>
+		<Page num="1">
+			<File><![CDATA[BSEQOSFF.PDF]]></File>
+			<FilePage><![CDATA[1]]></FilePage>
+		</Page>
+		<Page num="2">
+			<File><![CDATA[BSEQOSFF.PDF]]></File>
+			<FilePage><![CDATA[2]]></FilePage>
+		</Page>
+		<Page num="3">
+			<File><![CDATA[BSEQOSFF.PDF]]></File>
+			<FilePage><![CDATA[3]]></FilePage>
+		</Page>
+		<Page num="4">
+			<File><![CDATA[BSEQOSFF.PDF]]></File>
+			<FilePage><![CDATA[4]]></FilePage>
+		</Page>
+		<Page num="5">
+			<File><![CDATA[BSEQOSFF.PDF]]></File>
+			<FilePage><![CDATA[5]]></FilePage>
+		</Page>
+		<Page num="6">
+			<File><![CDATA[BSEQOSFF.PDF]]></File>
+			<FilePage><![CDATA[6]]></FilePage>
+		</Page>
+	</PDFPAGES>
+	<PROPERTIES>
+		<PDFKeywords><![CDATA[ ]]></PDFKeywords>
+		<PDFSubject><![CDATA[ ]]></PDFSubject>
+		<PDFTitle><![CDATA[ ]]></PDFTitle>
+		<PDFVersion><![CDATA[1.7]]></PDFVersion>
+		<PDFFontMode><![CDATA[False]]></PDFFontMode>
+		<PDFFonts>
+		</PDFFonts>
+		<Permissions Perm1="False" Perm2="False" Perm3="False" Perm4="False"></Permissions>
+		<Page>
+			<PageNum><![CDATA[1]]></PageNum>
+			<PageSetting><![CDATA[A4]]></PageSetting>
+			<LMargin><![CDATA[0.200000002980232]]></LMargin>
+			<RMargin><![CDATA[0.200000002980232]]></RMargin>
+			<TMargin><![CDATA[0.200000002980232]]></TMargin>
+			<BMargin><![CDATA[0.200000002980232]]></BMargin>
+			<Landscape><![CDATA[1]]></Landscape>
+			<RFIDMedia RFIDMedia="False"></RFIDMedia>
+		</Page>
+		<Page>
+			<PageNum><![CDATA[2]]></PageNum>
+			<PageSetting><![CDATA[A4]]></PageSetting>
+			<LMargin><![CDATA[0.196527779102325]]></LMargin>
+			<RMargin><![CDATA[0.196527779102325]]></RMargin>
+			<TMargin><![CDATA[0.196527779102325]]></TMargin>
+			<BMargin><![CDATA[0.196527779102325]]></BMargin>
+			<Landscape><![CDATA[1]]></Landscape>
+			<RFIDMedia RFIDMedia="False"></RFIDMedia>
+		</Page>
+		<Page>
+			<PageNum><![CDATA[3]]></PageNum>
+			<PageSetting><![CDATA[A4]]></PageSetting>
+			<LMargin><![CDATA[0.196527779102325]]></LMargin>
+			<RMargin><![CDATA[0.196527779102325]]></RMargin>
+			<TMargin><![CDATA[0.196527779102325]]></TMargin>
+			<BMargin><![CDATA[0.196527779102325]]></BMargin>
+			<Landscape><![CDATA[1]]></Landscape>
+			<RFIDMedia RFIDMedia="False"></RFIDMedia>
+		</Page>
+		<Page>
+			<PageNum><![CDATA[4]]></PageNum>
+			<PageSetting><![CDATA[A4]]></PageSetting>
+			<LMargin><![CDATA[0.196527779102325]]></LMargin>
+			<RMargin><![CDATA[0.196527779102325]]></RMargin>
+			<TMargin><![CDATA[0.196527779102325]]></TMargin>
+			<BMargin><![CDATA[0.196527779102325]]></BMargin>
+			<Landscape><![CDATA[1]]></Landscape>
+			<RFIDMedia RFIDMedia="False"></RFIDMedia>
+		</Page>
+		<Page>
+			<PageNum><![CDATA[5]]></PageNum>
+			<PageSetting><![CDATA[A4]]></PageSetting>
+			<LMargin><![CDATA[0.196527779102325]]></LMargin>
+			<RMargin><![CDATA[0.196527779102325]]></RMargin>
+			<TMargin><![CDATA[0.196527779102325]]></TMargin>
+			<BMargin><![CDATA[0.196527779102325]]></BMargin>
+			<Landscape><![CDATA[1]]></Landscape>
+			<RFIDMedia RFIDMedia="False"></RFIDMedia>
+		</Page>
+		<Page>
+			<PageNum><![CDATA[6]]></PageNum>
+			<PageSetting><![CDATA[A4]]></PageSetting>
+			<LMargin><![CDATA[0.200000002980232]]></LMargin>
+			<RMargin><![CDATA[0.200000002980232]]></RMargin>
+			<TMargin><![CDATA[0.200000002980232]]></TMargin>
+			<BMargin><![CDATA[0.200000002980232]]></BMargin>
+			<Landscape><![CDATA[1]]></Landscape>
+			<RFIDMedia RFIDMedia="False"></RFIDMedia>
+		</Page>
+	</PROPERTIES>
+	<ADDITIONAL_FILES>
+	</ADDITIONAL_FILES>
+	<CodePage><![CDATA[1252]]></CodePage>
+	<DataProperties>
+		<LinesPerPage><![CDATA[0]]></LinesPerPage>
+		<PageDelimiter><![CDATA[FF]]></PageDelimiter>
+	</DataProperties>
+	<currentMapFile><![CDATA[seqosff-rfq.fmp]]></currentMapFile>
+	<DataMapFiles>
+		<File><![CDATA[seqosff.fmp]]></File>
+		<File><![CDATA[seqos66.fmp]]></File>
+		<File><![CDATA[seqosff-lasa.fmp]]></File>
+		<File><![CDATA[seqosff-rfq.fmp]]></File>
+	</DataMapFiles>
+	<WorkFlowVars>
+		<PrintForm><![CDATA[true]]></PrintForm>
+	</WorkFlowVars>
+	<DataFile><![CDATA[rfqueue.txt]]></DataFile>
+	<Files encryptchildren="true">
+		<File name="BSEQOSFF.WPF"/>
+		<File name="BSEQOSFF.LFM"/>
+		<File name="BSEQOSFF.pjc"/>
+		<File name="BSEQOSFF.pgc"/>
+		<File name="BSEQOSFF1.jpg"/>
+		<File name="BSEQOSFF2.jpg"/>
+		<File name="BSEQOSFF3.jpg"/>
+		<File name="BSEQOSFF4.jpg"/>
+		<File name="BSEQOSFF5.jpg"/>
+		<File name="BSEQOSFF.PDF"/>
+		<File name="seqosff.fmp"/>
+		<File name="seqos66.fmp"/>
+		<File name="seqosff-lasa.fmp"/>
+		<File name="seqosff-rfq.fmp"/>
+		<File name="rfqueue.txt"/>
+	</Files>
+</FormSet>

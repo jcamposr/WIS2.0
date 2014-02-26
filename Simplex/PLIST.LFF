@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+<!--5/8/2013 10:41:55 AM-->
+<FormSet>
+	<FormSetInfo hidden="0" checksum="false">
+		<Name><![CDATA[PLIST]]></Name>
+		<OriginalName><![CDATA[PLIST]]></OriginalName>
+		<Comment><![CDATA[ ]]></Comment>
+		<Description><![CDATA[ ]]></Description>
+		<DataType><![CDATA[_TEXT]]></DataType>
+		<Author><![CDATA[ ]]></Author>
+		<CreationDate><![CDATA[1359073873]]></CreationDate>
+		<LastModifiedDate><![CDATA[1367973705]]></LastModifiedDate>
+		<Language><![CDATA[en-US]]></Language>
+	</FormSetInfo>
+	<versioninformation>
+		<createdby name="LFComposer" version="3.4.4.0"></createdby>
+		<forms version="1.1.0.0"></forms>
+	</versioninformation>
+	<CanMerge><![CDATA[true]]></CanMerge>
+	<PdfProjectFile><![CDATA[PLIST.PDF]]></PdfProjectFile>
+	<Mode><![CDATA[0]]></Mode>
+	<ACP><![CDATA[1252]]></ACP>
+	<SUBFORM_FILES>
+		<File><![CDATA[PLIST1.SDD]]></File>
+	</SUBFORM_FILES>
+	<TotalPages><![CDATA[4]]></TotalPages>
+	<ProjectImages>
+		<Image Page="1" File="PLIST1.jpg"></Image>
+		<Image Page="2" File="PLIST2.jpg"></Image>
+		<Image Page="3" File="PLIST3.jpg"></Image>
+		<Image Page="4" File="PLIST4.jpg"></Image>
+	</ProjectImages>
+	<PDFPAGES>
+		<Page num="1">
+			<File><![CDATA[PLIST.PDF]]></File>
+			<FilePage><![CDATA[1]]></FilePage>
+		</Page>
+		<Page num="2">
+			<File><![CDATA[PLIST.PDF]]></File>
+			<FilePage><![CDATA[2]]></FilePage>
+		</Page>
+		<Page num="3">
+			<File><![CDATA[PLIST.PDF]]></File>
+			<FilePage><![CDATA[3]]></FilePage>
+		</Page>
+		<Page num="4">
+			<File><![CDATA[PLIST.PDF]]></File>
+			<FilePage><![CDATA[4]]></FilePage>
+		</Page>
+	</PDFPAGES>
+	<PROPERTIES>
+		<PDFKeywords><![CDATA[ ]]></PDFKeywords>
+		<PDFSubject><![CDATA[ ]]></PDFSubject>
+		<PDFTitle><![CDATA[ ]]></PDFTitle>
+		<PDFVersion><![CDATA[1.7]]></PDFVersion>
+		<PDFFontMode><![CDATA[False]]></PDFFontMode>
+		<PDFFonts>
+		</PDFFonts>
+		<Permissions Perm1="False" Perm2="False" Perm3="False" Perm4="False"></Permissions>
+		<Page>
+			<PageNum><![CDATA[1]]></PageNum>
+			<PageSetting><![CDATA[A4]]></PageSetting>
+			<LMargin><![CDATA[0.200000002980232]]></LMargin>
+			<RMargin><![CDATA[0.200000002980232]]></RMargin>
+			<TMargin><![CDATA[0.200000002980232]]></TMargin>
+			<BMargin><![CDATA[0.200000002980232]]></BMargin>
+			<Landscape><![CDATA[0]]></Landscape>
+			<RFIDMedia RFIDMedia="False"></RFIDMedia>
+		</Page>
+		<Page>
+			<PageNum><![CDATA[2]]></PageNum>
+			<PageSetting><![CDATA[A4]]></PageSetting>
+			<LMargin><![CDATA[0.200000002980232]]></LMargin>
+			<RMargin><![CDATA[0.200000002980232]]></RMargin>
+			<TMargin><![CDATA[0.200000002980232]]></TMargin>
+			<BMargin><![CDATA[0.200000002980232]]></BMargin>
+			<Landscape><![CDATA[0]]></Landscape>
+			<RFIDMedia RFIDMedia="False"></RFIDMedia>
+		</Page>
+		<Page>
+			<PageNum><![CDATA[3]]></PageNum>
+			<PageSetting><![CDATA[A4]]></PageSetting>
+			<LMargin><![CDATA[0.200000002980232]]></LMargin>
+			<RMargin><![CDATA[0.200000002980232]]></RMargin>
+			<TMargin><![CDATA[0.200000002980232]]></TMargin>
+			<BMargin><![CDATA[0.200000002980232]]></BMargin>
+			<Landscape><![CDATA[0]]></Landscape>
+			<RFIDMedia RFIDMedia="False"></RFIDMedia>
+		</Page>
+		<Page>
+			<PageNum><![CDATA[4]]></PageNum>
+			<PageSetting><![CDATA[A4]]></PageSetting>
+			<LMargin><![CDATA[0.200000002980232]]></LMargin>
+			<RMargin><![CDATA[0.200000002980232]]></RMargin>
+			<TMargin><![CDATA[0.200000002980232]]></TMargin>
+			<BMargin><![CDATA[0.200000002980232]]></BMargin>
+			<Landscape><![CDATA[0]]></Landscape>
+			<RFIDMedia RFIDMedia="False"></RFIDMedia>
+		</Page>
+	</PROPERTIES>
+	<ADDITIONAL_FILES>
+	</ADDITIONAL_FILES>
+	<CodePage><![CDATA[1252]]></CodePage>
+	<DataProperties>
+		<LinesPerPage><![CDATA[0]]></LinesPerPage>
+		<PageDelimiter HexEncoded="TRUE" SkipDelimiters="0"><![CDATA[FF]]></PageDelimiter>
+	</DataProperties>
+	<currentMapFile><![CDATA[plist.fmp]]></currentMapFile>
+	<DataMapFiles>
+		<File><![CDATA[plist.fmp]]></File>
+	</DataMapFiles>
+	<WorkFlowVars>
+		<PrintForm><![CDATA[true]]></PrintForm>
+	</WorkFlowVars>
+	<DataFile><![CDATA[dc017]]></DataFile>
+	<Files encryptchildren="true">
+		<File name="PLIST.WPF"/>
+		<File name="PLIST.LFM"/>
+		<File name="PLIST.pjc"/>
+		<File name="PLIST.pgc"/>
+		<File name="PLIST1.jpg"/>
+		<File name="PLIST2.jpg"/>
+		<File name="PLIST3.jpg"/>
+		<File name="PLIST4.jpg"/>
+		<File name="PLIST.PDF"/>
+		<File name="plist.fmp"/>
+		<File name="dc017"/>
+	</Files>
+</FormSet>

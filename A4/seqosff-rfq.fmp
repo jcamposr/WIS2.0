@@ -1,0 +1,2 @@
+<!--1/15/2014 4:18:42 PM-->
+<DataInformation><DataProperties><DataFile>rfqueue.txt</DataFile><DataType>0:_TEXT</DataType><LinesPerPage>0</LinesPerPage><PageDelimiter>FF</PageDelimiter><MaxColumn>174</MaxColumn><MaxRow>58</MaxRow><codePage>1252</codePage><Filter>ddOFISAS400.dsf</Filter></DataProperties><Fields><Field><Row>2</Row><Column>1</Column><Length>15</Length><Depth>1</Depth><Name>TRIGGER</Name></Field><Field><Row>1</Row><Column>1</Column><Length>173</Length><Depth>61</Depth><Name>BODYR</Name></Field></Fields></DataInformation>

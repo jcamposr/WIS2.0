@@ -1,0 +1,2 @@
+<!--11/09/2013 4:32:39 p.m.-->
+<DataInformation><DataProperties><DataFile>ABF300PR1OPS130124041922.REP</DataFile><DataType>0:_TEXT</DataType><LinesPerPage>66</LinesPerPage><PageDelimiter></PageDelimiter><MaxColumn>133</MaxColumn><MaxRow>25</MaxRow><codePage>1252</codePage><Filter>ddOFISAS400.dsf</Filter></DataProperties><Fields><Field><Row>1</Row><Column>1</Column><Length>135</Length><Depth>1</Depth><Name>TRIGGER1</Name></Field><Field><Row>2</Row><Column>1</Column><Length>135</Length><Depth>69</Depth><Name>BODY</Name></Field></Fields></DataInformation>

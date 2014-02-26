@@ -1,0 +1,1437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--11/11/2013 2:35:53 PM-->
+<FormInformation>
+  <PDFProperties>
+    <PDFKeywords><![CDATA[]]></PDFKeywords>
+    <PDFSubject><![CDATA[]]></PDFSubject>
+    <PDFTitle><![CDATA[]]></PDFTitle>
+    <PDFAuthor><![CDATA[]]></PDFAuthor>
+    <PDFVersion><![CDATA[1.7]]></PDFVersion>
+    <UseEmbedded><![CDATA[False]]></UseEmbedded>
+    <PDFFonts>
+    </PDFFonts>
+  </PDFProperties>
+  <ADDITIONAL_FILES>
+  </ADDITIONAL_FILES>
+  <Page num="1" setting="A4" orientation="Portrait" width="595.28" height="841.89">
+    <LEXPDFOBJ>
+      <xPosFrom00>0.00</xPosFrom00>
+      <yPosFrom00>841.89</yPosFrom00>
+      <ObjWidth>595.28</ObjWidth>
+      <ObjHeight>841.89</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <Angle><![CDATA[0]]></Angle>
+      <IsStatic><![CDATA[1]]></IsStatic>
+      <PageNumber><![CDATA[1]]></PageNumber>
+      <BODY><div>LABELA4.PDF </div></BODY>
+    </LEXPDFOBJ>
+    <LEXBARCODEOBJ>
+      <xPosFrom00>18</xPosFrom00>
+      <yPosFrom00>825.33</yPosFrom00>
+      <ObjWidth>70.56</ObjWidth>
+      <ObjHeight>42.48</ObjHeight>
+      <Angle><![CDATA[0]]></Angle>
+      <IsStatic><![CDATA[0]]></IsStatic>
+      <BarcodeString><![CDATA[\Begin{2W}\m_nBarCodeID{0}\m_szText{}\m_nTextLength{8}\m_cPromptChar{120}\m_nPrinterResolution{600}\m_nDisplayingStyle{3}\m_nJustifyStyle{1}\m_dHeight{10.160000}\m_dSpace1{0.204000}\m_dSpace2{0.510000}\m_dBar1{0.204000}\m_dBar2{0.510000}\m_szFontName{COUR.TTF}\m_nFontSize{14}\End{2W}]]></BarcodeString>
+      <BODY><div><![CDATA[]]><VARIABLE TrimLinesL="TRUE" TrimLinesR="TRUE" > BARCO </VARIABLE><![CDATA[]]></div></BODY>
+    </LEXBARCODEOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>54.72</xPosFrom00>
+      <yPosFrom00>751.17</yPosFrom00>
+      <ObjWidth>196.56</ObjWidth>
+      <ObjHeight>27.36</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" PTSIZE="18"  COLOR="0" CHARSET="177" ></BASEFONT>
+      <BODY>
+        <div ALIGN="CENTER" >
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" >
+            <b>
+            <VARIABLE >CROSSDOCK</VARIABLE>
+            </b>
+          </FONT>
+          <FONT >
+            <b>
+            <![CDATA[]]>
+            </b>
+          </FONT>
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" >
+            <b>
+            <![CDATA[]]>
+            </b>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>71.28</xPosFrom00>
+      <yPosFrom00>730.29</yPosFrom00>
+      <ObjWidth>164.16</ObjWidth>
+      <ObjHeight>28.08</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" PTSIZE="28"  COLOR="0" CHARSET="177" ></BASEFONT>
+      <BODY>
+        <div ALIGN="CENTER" >
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" >
+            <b>
+            <VARIABLE >DOCK</VARIABLE>
+            </b>
+          </FONT>
+          <FONT >
+            <b>
+            <![CDATA[]]>
+            </b>
+          </FONT>
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" >
+            <b>
+            <![CDATA[]]>
+            </b>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>117.36</xPosFrom00>
+      <yPosFrom00>504.93</yPosFrom00>
+      <ObjWidth>183.6</ObjWidth>
+      <ObjHeight>41.04</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" PTSIZE="7"  COLOR="0" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="LEFT" >
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" >
+            <b>
+            <VARIABLE >STORE</VARIABLE>
+            </b>
+          </FONT>
+          <FONT >
+            <b>
+            <![CDATA[]]>
+            </b>
+          </FONT>
+        </div>
+        <div ALIGN="LEFT" >
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" >
+            <b>
+            <![CDATA[]]>
+            </b>
+          </FONT>
+        </div>
+        <div ALIGN="LEFT" >
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" >
+            <b>
+            <VARIABLE >STORE2</VARIABLE>
+            </b>
+          </FONT>
+          <FONT >
+            <b>
+            <![CDATA[]]>
+            </b>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>117.36</xPosFrom00>
+      <yPosFrom00>466.05</yPosFrom00>
+      <ObjWidth>167.76</ObjWidth>
+      <ObjHeight>19.44</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" PTSIZE="7"  COLOR="0" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="LEFT" >
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" >
+            <b>
+            <VARIABLE >LOC</VARIABLE>
+            </b>
+          </FONT>
+          <FONT >
+            <b>
+            <![CDATA[]]>
+            </b>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>117.36</xPosFrom00>
+      <yPosFrom00>440.85</yPosFrom00>
+      <ObjWidth>177.12</ObjWidth>
+      <ObjHeight>18</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" PTSIZE="10"  COLOR="0" CHARSET="177" ></BASEFONT>
+      <BODY>
+        <div ALIGN="LEFT" >
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" >
+            <b>
+            <VARIABLE >CUSTORDNO</VARIABLE>
+            </b>
+          </FONT>
+          <FONT >
+            <b>
+            <![CDATA[]]>
+            </b>
+          </FONT>
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" >
+            <b>
+            <![CDATA[]]>
+            </b>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>117.36</xPosFrom00>
+      <yPosFrom00>517.89</yPosFrom00>
+      <ObjWidth>186.48</ObjWidth>
+      <ObjHeight>14.4</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" PTSIZE="7"  COLOR="0" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="LEFT" >
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" >
+            <b>
+            <VARIABLE >CUSTNAME</VARIABLE>
+            </b>
+          </FONT>
+          <FONT >
+            <b>
+            <![CDATA[]]>
+            </b>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>117.36</xPosFrom00>
+      <yPosFrom00>456.69</yPosFrom00>
+      <ObjWidth>104.4</ObjWidth>
+      <ObjHeight>18.72</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" PTSIZE="10"  COLOR="0" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="LEFT" >
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" >
+            <b>
+            <VARIABLE TrimLinesL="TRUE" >CUSTNO</VARIABLE>
+            </b>
+          </FONT>
+          <FONT >
+            <b>
+            <![CDATA[]]>
+            </b>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>18.72</xPosFrom00>
+      <yPosFrom00>661.17</yPosFrom00>
+      <ObjWidth>272.16</ObjWidth>
+      <ObjHeight>24.48</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" PTSIZE="11"  COLOR="0" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="LEFT" >
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" >
+            <VARIABLE >DESC</VARIABLE>
+          </FONT>
+          <FONT >
+            <![CDATA[]]>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>17.28</xPosFrom00>
+      <yPosFrom00>617.97</yPosFrom00>
+      <ObjWidth>194.4</ObjWidth>
+      <ObjHeight>18</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" PTSIZE="10"  COLOR="0" CHARSET="177" ></BASEFONT>
+      <BODY>
+        <div ALIGN="LEFT" >
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" >
+            <VARIABLE >PRIMELOCN</VARIABLE>
+          </FONT>
+          <FONT >
+            <![CDATA[]]>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>18.72</xPosFrom00>
+      <yPosFrom00>779.25</yPosFrom00>
+      <ObjWidth>216</ObjWidth>
+      <ObjHeight>14.4</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" PTSIZE="10"  COLOR="0" CHARSET="177" ></BASEFONT>
+      <BODY>
+        <div ALIGN="LEFT" >
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" >
+            <VARIABLE >NAME</VARIABLE>
+          </FONT>
+          <FONT >
+            <![CDATA[]]>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>18.72</xPosFrom00>
+      <yPosFrom00>764.13</yPosFrom00>
+      <ObjWidth>124.56</ObjWidth>
+      <ObjHeight>21.6</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" PTSIZE="10"  COLOR="0" CHARSET="177" ></BASEFONT>
+      <BODY>
+        <div ALIGN="LEFT" >
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" >
+            <VARIABLE >DATE</VARIABLE>
+          </FONT>
+          <FONT >
+            <![CDATA[]]>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>206.64</xPosFrom00>
+      <yPosFrom00>569.73</yPosFrom00>
+      <ObjWidth>93.6</ObjWidth>
+      <ObjHeight>33.84</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" PTSIZE="9"  COLOR="0" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="LEFT" >
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" >
+            <![CDATA[Run No.]]>
+          </FONT>
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" PTSIZE="10"  CHARSET="177" >
+            <![CDATA[ ]]>
+          </FONT>
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" PTSIZE="22"  CHARSET="177" >
+            <![CDATA[ ]]>
+          </FONT>
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" PTSIZE="26" >
+            <b>
+            <VARIABLE >RUN</VARIABLE>
+            </b>
+          </FONT>
+          <FONT PTSIZE="26" >
+            <b>
+            <![CDATA[]]>
+            </b>
+          </FONT>
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" PTSIZE="26" >
+            <b>
+            <![CDATA[]]>
+            </b>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>117.36</xPosFrom00>
+      <yPosFrom00>552.45</yPosFrom00>
+      <ObjWidth>84.96</ObjWidth>
+      <ObjHeight>22.32</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" PTSIZE="10"  COLOR="0" CHARSET="177" ></BASEFONT>
+      <BODY>
+        <div ALIGN="LEFT" >
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" >
+            <b>
+            <VARIABLE >ORDERTYPE</VARIABLE>
+            </b>
+          </FONT>
+          <FONT >
+            <b>
+            <![CDATA[]]>
+            </b>
+          </FONT>
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" >
+            <b>
+            <![CDATA[]]>
+            </b>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>117.36</xPosFrom00>
+      <yPosFrom00>534.45</yPosFrom00>
+      <ObjWidth>85.68</ObjWidth>
+      <ObjHeight>15.12</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" PTSIZE="10"  COLOR="0" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="LEFT" >
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" >
+            <b>
+            <VARIABLE TrimLinesL="TRUE" >BACKORD</VARIABLE>
+            </b>
+          </FONT>
+          <FONT >
+            <b>
+            <![CDATA[]]>
+            </b>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>18</xPosFrom00>
+      <yPosFrom00>639.57</yPosFrom00>
+      <ObjWidth>188.64</ObjWidth>
+      <ObjHeight>18</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" PTSIZE="10"  COLOR="0" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="LEFT" >
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" >
+            <![CDATA[P/O:      ]]>
+          </FONT>
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic"  CHARSET="177" >
+            <![CDATA[      ]]>
+          </FONT>
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic"  CHARSET="177" >
+            <b>
+            <![CDATA[ ]]>
+            </b>
+          </FONT>
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" PTSIZE="11" >
+            <b>
+            <VARIABLE >PO</VARIABLE>
+            </b>
+          </FONT>
+          <FONT PTSIZE="11" >
+            <b>
+            <![CDATA[]]>
+            </b>
+          </FONT>
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" PTSIZE="11" >
+            <b>
+            <![CDATA[]]>
+            </b>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>177.12</xPosFrom00>
+      <yPosFrom00>682.05</yPosFrom00>
+      <ObjWidth>118.08</ObjWidth>
+      <ObjHeight>21.6</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" PTSIZE="11"  COLOR="0" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="LEFT" >
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" >
+            <b>
+            <VARIABLE >VENPART</VARIABLE>
+            </b>
+          </FONT>
+          <FONT >
+            <b>
+            <![CDATA[]]>
+            </b>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>177.12</xPosFrom00>
+      <yPosFrom00>693.57</yPosFrom00>
+      <ObjWidth>74.88</ObjWidth>
+      <ObjHeight>13.68</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" PTSIZE="10"  COLOR="0" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="LEFT" >
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" >
+            <VARIABLE >VENPARTTXT</VARIABLE>
+          </FONT>
+          <FONT >
+            <![CDATA[]]>
+          </FONT>
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" >
+            <![CDATA[]]>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>18.72</xPosFrom00>
+      <yPosFrom00>679.17</yPosFrom00>
+      <ObjWidth>128.16</ObjWidth>
+      <ObjHeight>22.32</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" PTSIZE="10"  COLOR="0" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="LEFT" >
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" >
+            <![CDATA[Part No:  ]]>
+          </FONT>
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic"  CHARSET="177" >
+            <![CDATA[     ]]>
+          </FONT>
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" PTSIZE="11" >
+            <b>
+            <VARIABLE >PARTNO</VARIABLE>
+            </b>
+          </FONT>
+          <FONT PTSIZE="11" >
+            <b>
+            <![CDATA[]]>
+            </b>
+          </FONT>
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" PTSIZE="11" >
+            <b>
+            <![CDATA[]]>
+            </b>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>18.72</xPosFrom00>
+      <yPosFrom00>698.61</yPosFrom00>
+      <ObjWidth>183.6</ObjWidth>
+      <ObjHeight>17.28</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" PTSIZE="10"  COLOR="0" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="LEFT" >
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" >
+            <![CDATA[Quantity:   ]]>
+          </FONT>
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic"  CHARSET="177" >
+            <![CDATA[     ]]>
+          </FONT>
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" PTSIZE="11" >
+            <b>
+            <VARIABLE >QTY</VARIABLE>
+            </b>
+          </FONT>
+          <FONT >
+            <![CDATA[]]>
+          </FONT>
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" PTSIZE="11" >
+            <b>
+            <![CDATA[]]>
+            </b>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>74.88</xPosFrom00>
+      <yPosFrom00>393.33</yPosFrom00>
+      <ObjWidth>169.2</ObjWidth>
+      <ObjHeight>12.24</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" PTSIZE="9"  COLOR="0" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="LEFT" >
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" >
+            <VARIABLE TrimLinesR="TRUE" >CUSTORDINST</VARIABLE>
+          </FONT>
+          <FONT PTSIZE="12.0" >
+            <![CDATA[]]>
+          </FONT>
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" PTSIZE="8" >
+            <![CDATA[]]>
+          </FONT>
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" PTSIZE="12.0" >
+            <![CDATA[]]>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXBARCODEOBJ>
+      <xPosFrom00>18</xPosFrom00>
+      <yPosFrom00>599.97</yPosFrom00>
+      <ObjWidth>70.56</ObjWidth>
+      <ObjHeight>43.2</ObjHeight>
+      <Angle><![CDATA[0]]></Angle>
+      <IsStatic><![CDATA[0]]></IsStatic>
+      <BarcodeString><![CDATA[\Begin{2W}\m_nBarCodeID{0}\m_szText{}\m_nTextLength{10}\m_cPromptChar{120}\m_nPrinterResolution{600}\m_nDisplayingStyle{3}\m_nJustifyStyle{1}\m_dHeight{10.160000}\m_dSpace1{0.204000}\m_dSpace2{0.510000}\m_dBar1{0.204000}\m_dBar2{0.510000}\m_szFontName{COUR.TTF}\m_nFontSize{14}\m_bAutoSize{1}\End{2W}]]></BarcodeString>
+      <BODY><div><![CDATA[]]><VARIABLE TrimLinesL="TRUE" TrimLinesR="TRUE" > BARCODE </VARIABLE><![CDATA[]]></div></BODY>
+    </LEXBARCODEOBJ>
+  </Page>
+  <Page num="2" setting="A4" orientation="Portrait" width="595.28" height="841.89">
+    <LEXPDFOBJ>
+      <xPosFrom00>0.00</xPosFrom00>
+      <yPosFrom00>841.89</yPosFrom00>
+      <ObjWidth>595.28</ObjWidth>
+      <ObjHeight>841.89</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <Angle><![CDATA[0]]></Angle>
+      <IsStatic><![CDATA[1]]></IsStatic>
+      <PageNumber><![CDATA[2]]></PageNumber>
+      <BODY><div>LABELA4.PDF </div></BODY>
+    </LEXPDFOBJ>
+    <LEXBARCODEOBJ>
+      <xPosFrom00>22.32</xPosFrom00>
+      <yPosFrom00>823.89</yPosFrom00>
+      <ObjWidth>70.56</ObjWidth>
+      <ObjHeight>42.48</ObjHeight>
+      <Angle><![CDATA[0]]></Angle>
+      <IsStatic><![CDATA[0]]></IsStatic>
+      <BarcodeString><![CDATA[\Begin{2W}\m_nBarCodeID{0}\m_szText{}\m_nTextLength{8}\m_cPromptChar{120}\m_nPrinterResolution{600}\m_nDisplayingStyle{3}\m_nJustifyStyle{1}\m_dHeight{10.160000}\m_dSpace1{0.204000}\m_dSpace2{0.510000}\m_dBar1{0.204000}\m_dBar2{0.510000}\m_szFontName{COUR.TTF}\m_nFontSize{14}\End{2W}]]></BarcodeString>
+      <BODY><div><![CDATA[]]><VARIABLE TrimLinesL="TRUE" TrimLinesR="TRUE" > BARCO </VARIABLE><![CDATA[]]></div></BODY>
+    </LEXBARCODEOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>18.72</xPosFrom00>
+      <yPosFrom00>756.93</yPosFrom00>
+      <ObjWidth>216</ObjWidth>
+      <ObjHeight>14.4</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" PTSIZE="10"  COLOR="0" CHARSET="177" ></BASEFONT>
+      <BODY>
+        <div ALIGN="LEFT" >
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" >
+            <VARIABLE >NAME</VARIABLE>
+          </FONT>
+          <FONT >
+            <![CDATA[]]>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>18.72</xPosFrom00>
+      <yPosFrom00>741.09</yPosFrom00>
+      <ObjWidth>124.56</ObjWidth>
+      <ObjHeight>21.6</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" PTSIZE="10"  COLOR="0" CHARSET="177" ></BASEFONT>
+      <BODY>
+        <div ALIGN="LEFT" >
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" >
+            <VARIABLE >DATE</VARIABLE>
+          </FONT>
+          <FONT >
+            <![CDATA[]]>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>55.44</xPosFrom00>
+      <yPosFrom00>728.85</yPosFrom00>
+      <ObjWidth>196.56</ObjWidth>
+      <ObjHeight>27.36</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" PTSIZE="18"  COLOR="0" CHARSET="177" ></BASEFONT>
+      <BODY>
+        <div ALIGN="CENTER" >
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" >
+            <b>
+            <VARIABLE >CROSSDOCK</VARIABLE>
+            </b>
+          </FONT>
+          <FONT >
+            <b>
+            <![CDATA[]]>
+            </b>
+          </FONT>
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" >
+            <b>
+            <![CDATA[]]>
+            </b>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>18.72</xPosFrom00>
+      <yPosFrom00>625.89</yPosFrom00>
+      <ObjWidth>241.92</ObjWidth>
+      <ObjHeight>26.64</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" PTSIZE="10"  COLOR="0" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="LEFT" >
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" >
+            <VARIABLE >DESC</VARIABLE>
+          </FONT>
+          <FONT >
+            <![CDATA[]]>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>18.72</xPosFrom00>
+      <yPosFrom00>577.65</yPosFrom00>
+      <ObjWidth>194.4</ObjWidth>
+      <ObjHeight>18</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" PTSIZE="10"  COLOR="0" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="LEFT" >
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" >
+            <VARIABLE >PRIMELOCN</VARIABLE>
+          </FONT>
+          <FONT >
+            <![CDATA[]]>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXBARCODEOBJ>
+      <xPosFrom00>27.36</xPosFrom00>
+      <yPosFrom00>554.61</yPosFrom00>
+      <ObjWidth>70.56</ObjWidth>
+      <ObjHeight>43.2</ObjHeight>
+      <Angle><![CDATA[0]]></Angle>
+      <IsStatic><![CDATA[0]]></IsStatic>
+      <BarcodeString><![CDATA[\Begin{2W}\m_nBarCodeID{0}\m_szText{}\m_nTextLength{10}\m_cPromptChar{120}\m_nPrinterResolution{600}\m_nDisplayingStyle{3}\m_nJustifyStyle{1}\m_dHeight{10.160000}\m_dSpace1{0.204000}\m_dSpace2{0.510000}\m_dBar1{0.204000}\m_dBar2{0.510000}\m_szFontName{COUR.TTF}\m_nFontSize{14}\m_bAutoSize{1}\End{2W}]]></BarcodeString>
+      <BODY><div><![CDATA[]]><VARIABLE > BARCODE </VARIABLE><![CDATA[]]></div></BODY>
+    </LEXBARCODEOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>159.84</xPosFrom00>
+      <yPosFrom00>661.17</yPosFrom00>
+      <ObjWidth>118.08</ObjWidth>
+      <ObjHeight>30.24</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" PTSIZE="10"  COLOR="0" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="LEFT" >
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" >
+            <VARIABLE >VENPARTTXT</VARIABLE>
+          </FONT>
+          <FONT >
+            <![CDATA[]]>
+          </FONT>
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" >
+            <![CDATA[]]>
+          </FONT>
+        </div>
+        <div ALIGN="LEFT" >
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" >
+            <b>
+            <VARIABLE >VENPART</VARIABLE>
+            </b>
+          </FONT>
+          <FONT >
+            <b>
+            <![CDATA[]]>
+            </b>
+          </FONT>
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" PTSIZE="11" >
+            <b>
+            <![CDATA[]]>
+            </b>
+          </FONT>
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" >
+            <b>
+            <![CDATA[]]>
+            </b>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>18.72</xPosFrom00>
+      <yPosFrom00>756.93</yPosFrom00>
+      <ObjWidth>216</ObjWidth>
+      <ObjHeight>14.4</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" PTSIZE="10"  COLOR="0" CHARSET="177" ></BASEFONT>
+      <BODY>
+        <div ALIGN="LEFT" >
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" >
+            <VARIABLE >NAME</VARIABLE>
+          </FONT>
+          <FONT >
+            <![CDATA[]]>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>18.72</xPosFrom00>
+      <yPosFrom00>741.09</yPosFrom00>
+      <ObjWidth>124.56</ObjWidth>
+      <ObjHeight>21.6</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" PTSIZE="10"  COLOR="0" CHARSET="177" ></BASEFONT>
+      <BODY>
+        <div ALIGN="LEFT" >
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" >
+            <VARIABLE >DATE</VARIABLE>
+          </FONT>
+          <FONT >
+            <![CDATA[]]>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>55.44</xPosFrom00>
+      <yPosFrom00>728.85</yPosFrom00>
+      <ObjWidth>196.56</ObjWidth>
+      <ObjHeight>27.36</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" PTSIZE="18"  COLOR="0" CHARSET="177" ></BASEFONT>
+      <BODY>
+        <div ALIGN="CENTER" >
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" >
+            <b>
+            <VARIABLE >CROSSDOCK</VARIABLE>
+            </b>
+          </FONT>
+          <FONT >
+            <b>
+            <![CDATA[]]>
+            </b>
+          </FONT>
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" >
+            <b>
+            <![CDATA[]]>
+            </b>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>51.84</xPosFrom00>
+      <yPosFrom00>705.09</yPosFrom00>
+      <ObjWidth>208.08</ObjWidth>
+      <ObjHeight>32.4</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" PTSIZE="28"  COLOR="0" CHARSET="177" ></BASEFONT>
+      <BODY>
+        <div ALIGN="CENTER" >
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" >
+            <b>
+            <VARIABLE >DOCK</VARIABLE>
+            </b>
+          </FONT>
+          <FONT >
+            <b>
+            <![CDATA[]]>
+            </b>
+          </FONT>
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" >
+            <b>
+            <![CDATA[]]>
+            </b>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>18.72</xPosFrom00>
+      <yPosFrom00>666.21</yPosFrom00>
+      <ObjWidth>182.88</ObjWidth>
+      <ObjHeight>17.28</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" PTSIZE="10"  COLOR="0" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="LEFT" >
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" >
+            <![CDATA[Quantity:  ]]>
+          </FONT>
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic"  CHARSET="177" >
+            <![CDATA[    ]]>
+          </FONT>
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" PTSIZE="11" >
+            <![CDATA[   ]]>
+          </FONT>
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" PTSIZE="11" >
+            <b>
+            <VARIABLE >QTY</VARIABLE>
+            </b>
+          </FONT>
+          <FONT PTSIZE="11" >
+            <b>
+            <![CDATA[]]>
+            </b>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>18.72</xPosFrom00>
+      <yPosFrom00>644.61</yPosFrom00>
+      <ObjWidth>128.16</ObjWidth>
+      <ObjHeight>22.32</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" PTSIZE="10"  COLOR="0" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="LEFT" >
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" >
+            <![CDATA[Part No:  ]]>
+          </FONT>
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic"  CHARSET="177" >
+            <![CDATA[      ]]>
+          </FONT>
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" PTSIZE="11" >
+            <b>
+            <VARIABLE >PARTNO</VARIABLE>
+            </b>
+          </FONT>
+          <FONT >
+            <![CDATA[]]>
+          </FONT>
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" PTSIZE="11" >
+            <b>
+            <![CDATA[]]>
+            </b>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>18.72</xPosFrom00>
+      <yPosFrom00>625.89</yPosFrom00>
+      <ObjWidth>241.92</ObjWidth>
+      <ObjHeight>25.92</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" PTSIZE="10"  COLOR="0" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="LEFT" >
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" >
+            <VARIABLE >DESC</VARIABLE>
+          </FONT>
+          <FONT >
+            <![CDATA[]]>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>18.72</xPosFrom00>
+      <yPosFrom00>577.65</yPosFrom00>
+      <ObjWidth>194.4</ObjWidth>
+      <ObjHeight>18</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" PTSIZE="10"  COLOR="0" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="LEFT" >
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" >
+            <VARIABLE >PRIMELOCN</VARIABLE>
+          </FONT>
+          <FONT >
+            <![CDATA[]]>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>18.72</xPosFrom00>
+      <yPosFrom00>666.21</yPosFrom00>
+      <ObjWidth>182.88</ObjWidth>
+      <ObjHeight>17.28</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" PTSIZE="10"  COLOR="0" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="LEFT" >
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" >
+            <![CDATA[Quantity:  ]]>
+          </FONT>
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic"  CHARSET="177" >
+            <![CDATA[    ]]>
+          </FONT>
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" PTSIZE="11" >
+            <![CDATA[   ]]>
+          </FONT>
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" PTSIZE="11" >
+            <b>
+            <VARIABLE >QTY</VARIABLE>
+            </b>
+          </FONT>
+          <FONT PTSIZE="11" >
+            <b>
+            <![CDATA[]]>
+            </b>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>18.72</xPosFrom00>
+      <yPosFrom00>644.61</yPosFrom00>
+      <ObjWidth>128.16</ObjWidth>
+      <ObjHeight>22.32</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" PTSIZE="10"  COLOR="0" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="LEFT" >
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" >
+            <![CDATA[Part No:  ]]>
+          </FONT>
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic"  CHARSET="177" >
+            <![CDATA[      ]]>
+          </FONT>
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" PTSIZE="11" >
+            <b>
+            <VARIABLE >PARTNO</VARIABLE>
+            </b>
+          </FONT>
+          <FONT >
+            <![CDATA[]]>
+          </FONT>
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" PTSIZE="11" >
+            <b>
+            <![CDATA[]]>
+            </b>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>51.84</xPosFrom00>
+      <yPosFrom00>705.09</yPosFrom00>
+      <ObjWidth>208.08</ObjWidth>
+      <ObjHeight>32.4</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" PTSIZE="28"  COLOR="0" CHARSET="177" ></BASEFONT>
+      <BODY>
+        <div ALIGN="CENTER" >
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" >
+            <b>
+            <VARIABLE >DOCK</VARIABLE>
+            </b>
+          </FONT>
+          <FONT >
+            <b>
+            <![CDATA[]]>
+            </b>
+          </FONT>
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" >
+            <b>
+            <![CDATA[]]>
+            </b>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>18.72</xPosFrom00>
+      <yPosFrom00>602.85</yPosFrom00>
+      <ObjWidth>188.64</ObjWidth>
+      <ObjHeight>18</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" PTSIZE="10"  COLOR="0" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="LEFT" >
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" >
+            <![CDATA[P/O:   ]]>
+          </FONT>
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic"  CHARSET="177" >
+            <![CDATA[         ]]>
+          </FONT>
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic"  CHARSET="177" >
+            <b>
+            <![CDATA[ ]]>
+            </b>
+          </FONT>
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" PTSIZE="11" >
+            <b>
+            <VARIABLE >PO</VARIABLE>
+            </b>
+          </FONT>
+          <FONT PTSIZE="11" >
+            <b>
+            <![CDATA[]]>
+            </b>
+          </FONT>
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" PTSIZE="11" >
+            <b>
+            <![CDATA[]]>
+            </b>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>18.72</xPosFrom00>
+      <yPosFrom00>602.85</yPosFrom00>
+      <ObjWidth>188.64</ObjWidth>
+      <ObjHeight>18</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" PTSIZE="10"  COLOR="0" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="LEFT" >
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" >
+            <![CDATA[P/O:   ]]>
+          </FONT>
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic"  CHARSET="177" >
+            <![CDATA[         ]]>
+          </FONT>
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic"  CHARSET="177" >
+            <b>
+            <![CDATA[ ]]>
+            </b>
+          </FONT>
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" PTSIZE="11" >
+            <b>
+            <VARIABLE >PO</VARIABLE>
+            </b>
+          </FONT>
+          <FONT PTSIZE="11" >
+            <b>
+            <![CDATA[]]>
+            </b>
+          </FONT>
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" PTSIZE="11" >
+            <b>
+            <![CDATA[]]>
+            </b>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>80.64</xPosFrom00>
+      <yPosFrom00>394.05</yPosFrom00>
+      <ObjWidth>169.2</ObjWidth>
+      <ObjHeight>12.24</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" PTSIZE="9"  COLOR="0" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="LEFT" >
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" >
+            <VARIABLE TrimLinesR="TRUE" >CUSTORDINST</VARIABLE>
+          </FONT>
+          <FONT PTSIZE="12.0" >
+            <![CDATA[]]>
+          </FONT>
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" PTSIZE="8" >
+            <![CDATA[]]>
+          </FONT>
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" PTSIZE="12.0" >
+            <![CDATA[]]>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+  </Page>
+</FormInformation>

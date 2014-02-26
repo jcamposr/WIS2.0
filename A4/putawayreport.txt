@@ -1,0 +1,533 @@
+
+     COMPANY : J. BLACKWOOD & SON LIMITED      
+     PUTAWAY LIST AT MONDAY, NOVEMBER 11, 2013 16:00     PAGE   1
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                  Location                       | Stock ID | Quantity  | UOM| Confirm | Putaway   | Date & Time | Receipt  | Product
+         From        |          To          |  # |          |           |    |         | Priority  |             | Number   |        
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+RECEIVE              | 03350301             |  1 | A4812790 |     26    | EA | _______ | Putaway   | 11/11 08:41 | SM561430 | 06193770  VEST HIVIS DAY CHVV0005 YELLOW M 102    
+RECEIVE              | 07012305             |  1 | A4813283 |      6    | EA | _______ | Putaway   | 11/11 13:44 | SM563779 | 03479278  CUPLA ROTARY PLUG NITTO RL-20PM 1/4"MALE
+RECEIVE              | 07014005             |  1 | A4813345 |      1    | EA | _______ | Putaway   | 11/11 14:49 | SM564087 | 06627607  TAP CARBON HAND BSPF 1/8"-28 INTER.     
+RECEIVE              | 07014301             |  1 | A4812668 |      1    | EA | _______ | Putaway   | 11/11 07:26 | SM563295 | 06568203  TAP HSGT HAND INTER  UNC 3/8"           
+RECEIVE              | 07021202             |  1 | A4812772 |     10    | EA | _______ | Putaway   | 11/11 08:35 | SM563782 | 03548307  TEE BRASS THREE WAY BARB P14 3/4"  TUBE 
+RECEIVE              | 07022805             |  1 | A4813354 |      1    | EA | _______ | Putaway   | 11/11 14:52 | SM564087 | 06619505  TAP CARB HAND INTER FINE/COND 16X1.5MM  
+RECEIVE              | 07023005             |  1 | A4813369 |      2    | EA | _______ | Putaway   | 11/11 15:31 | SM563167 | 09595011  WRENCH TAP RATCHET 1/4"-1/2" SRW-2      
+RECEIVE              | 07032301             |  1 | A4812721 |      6    | EA | _______ | Putaway   | 11/11 08:01 | SM563443 | 00147934  ADAPTOR S/TAP BRS 3/4TAP 1"BSP NL055B   
+RECEIVE              | 07032902             |  1 | A4812816 |      3    | EA | _______ | Putaway   | 11/11 09:04 | SM563193 | 04125564  ELBOW TAPER SWIVEL ASCO 8MM T X 1/4" BSP
+RECEIVE              | 07034001             |  1 | A4813118 |     20    | EA | _______ | Putaway   | 11/11 11:29 | SM562279 | 05947113  VALVE BALL MINI BRS N/P SCD M&F 1/4" 8MM
+RECEIVE              | 07041901             |  1 | A4813348 |      1    | EA | _______ | Putaway   | 11/11 14:49 | SM564087 | 06836304  TAP SET CARBON HAND UNF 1/4"            
+RECEIVE              | 07041905             |  1 | A4813349 |      1    | EA | _______ | Putaway   | 11/11 14:49 | SM564087 | 06836702  TAP SET CARBON HAND UNF 1/2"            
+RECEIVE              | 07054501             |  1 | A4813186 |    100    | EA | _______ | Putaway   | 11/11 12:58 | SM563500 | 04473455  SCREW SKT CAP HD SS304 METRIC 5X30MM    
+RECEIVE              | 07112802             |  1 | A4813230 |      6    | EA | _______ | Putaway   | 11/11 13:16 | SM561853 | 04249919  ADHESIVE MULTIPURPOSE SCOTCH 4475 150ML 
+RECEIVE              | 07153901             |  1 | A4812719 |   1000    | EA | _______ | Putaway   | 11/11 07:58 | SM563448 | 04861735  RIVET ALUM/STL WHT 73AS4-4 (1000)       
+RECEIVE              | 07154801             |  1 | A4812798 |      5    | EA | _______ | Putaway   | 11/11 08:53 | SM563506 | 00641003  COMPOUND LAPPING OIL/FILLED 500GM H500OF
+RECEIVE              | 07196202             |  1 | A4812725 |     12    | PR | _______ | Putaway   | 11/11 08:04 | SM563329 | 06772569  GLOVES DYNEEMA PU PALM EX CUFF 11-628 8 
+RECEIVE              | 07555201             |  1 | A4813328 |      1    | EA | _______ | Putaway   | 11/11 14:23 | SM563499 | 01142509  WASHER FLAT/BDY MASTER KIT 1/8-1" CA2240
+RECEIVE              | 07555801             |  1 | A4812722 |      2    | EA | _______ | Putaway   | 11/11 08:01 | SM563443 | 00147934  ADAPTOR S/TAP BRS 3/4TAP 1"BSP NL055B   
+RECEIVE              | 07562801             |  1 | A4812724 |      6    | EA | _______ | Putaway   | 11/11 08:04 | SM563329 | 00540421  BOTTLE BETTER CAMELBAK 53000 BLUE 750ML 
+RECEIVE              | 07625802             |  1 | A4812801 |     18    | EA | _______ | Putaway   | 11/11 08:55 | SM562747 | 00564587  PASTE WATER FINDING KOLOR KUT 85GRAM    
+RECEIVE              | 07702102             |  1 | A4812841 |      5    | EA | _______ | Putaway   | 11/11 09:34 | SM563236 | 04858658  WRENCH ADJUSTABLE JBS MASTERS 250MM     
+RECEIVE              | 08015706             |  1 | A4813357 |    200    | EA | _______ | Putaway   | 11/11 15:25 | SM563954 | 02897566  TERMINAL RING  4MM HOLE YELLOW RT5.5-4  
+RECEIVE              | 08021006             |  1 | A4812986 |      3    | EA | _______ | Putaway   | 11/11 10:00 | SM563716 | 08536107  BUSH TAPER LOCK NO 1210 X 30MM          
+RECEIVE              | 08031501             |  1 | A4812869 |     50    | EA | _______ | Putaway   | 11/11 09:39 | SM563640 | 01305318  LUG CABLE COPPER 25MM SQ CABLE 10MM STUD
+RECEIVE              | 08033103             |  1 | A4812987 |      3    | EA | _______ | Putaway   | 11/11 10:00 | SM563716 | 08547109  BUSH TAPER LOCK NO 2517 X 28MM          
+RECEIVE              | 08061501             |  1 | A4813109 |      1    | EA | _______ | Putaway   | 11/11 11:29 | SM562279 | 03092400  BUSH MALLEABLE GALV REDUCING 10 X  8 NB 
+RECEIVE              | 08090601             |  1 | A4812765 |     96    | EA | _______ | Putaway   | 11/11 08:25 | SM562962 | 04544066  BATTERY LANTERN 6V SPR/TERM MALLORY M908
+RECEIVE              | 08131601             |  1 | A4812858 |   2000    | EA | _______ | Putaway   | 11/11 09:38 | SM563525 | 04799022  EARPLUGS SUPERFIT LG CL4 312-1255 (200) 
+RECEIVE              | 08135302             |  1 | A4812652 |     17    | EA | _______ | Putaway   | 11/11 07:04 |          | 00019329  SQUEEGEE ALUM BACK #03418 18"/450MM     
+RECEIVE              | 08165801             |  1 | A4813319 |    200    | EA | _______ | Putaway   | 11/11 14:04 | SM564100 | 01529302  PIN SPLIT COTTER ZP 2.5X45MM            
+RECEIVE              | 08185201             |  1 | A4812575 |     51    | EA | _______ | Putaway   | 08/11 14:25 | SM562732 | 01290613  BRUSH HAND WIRE STEEL (RED HANDLE)      
+RECEIVE              | 08192401             |  1 | A4813228 |      6    | EA | _______ | Putaway   | 11/11 13:15 | SM563712 | 07750902  SWEATBAND HELMET SPEEDGLAS 9100 PK 3    
+RECEIVE              | 08206103             |  1 | A4812720 |      2    | EA | _______ | Putaway   | 11/11 07:58 | SM563448 | 06680411  BELT CLOTH METALITE 100 X 914 R295 P80X 
+RECEIVE              | 08225803             |  1 | A4813282 |      2    | EA | _______ | Putaway   | 11/11 13:44 | SM563779 | 01002905  SOCKET ONE TOUCH NITTO 200-30SF 3/8" FEM
+RECEIVE              | 08230501             |  1 | A4812947 |     56    | PR | _______ | Putaway   | 11/11 09:57 | SM554412 | 06162473  GLOVES NITRILE PREDATOR+ P/C S/C W9760XL
+RECEIVE              | 08511602             |  1 | A4812863 |      4    | EA | _______ | Putaway   | 11/11 09:38 | SM563525 | 05225433  HARD HAT VENTED 620V BLUE               
+RECEIVE              | 08514005             |  1 | A4813363 |      1    | EA | _______ | Putaway   | 11/11 15:31 | SM563167 | 05502105  TAP CARBON HAND BOTTOM ONLY NPT 3/8"    
+RECEIVE              | 08532403             |  1 | A4813130 |     17    | EA | _______ | Putaway   | 11/11 11:29 | SM562588 | 03099704  CAP MALLEABLE GALVANISED  20 NB         
+RECEIVE              | 08542301             |  1 | A4813131 |      3    | EA | _______ | Putaway   | 11/11 11:29 | SM562588 | 03099801  CAP MALLEABLE GALVANISED  25 NB         
+RECEIVE              | 08542802             |  1 | A4813106 |      2    | EA | _______ | Putaway   | 11/11 11:27 | SM561836 | 05799811  PLUG MAL GALV SQUARE HEAD HOLLOW  15 NB 
+RECEIVE              | 08544701             |  1 | A4812810 |      1    | EA | _______ | Putaway   | 11/11 09:02 | SM563569 | 03359661  WRENCH FOLD-A-KEY SET (44U) 72 METRIC   
+RECEIVE              | 08545804             |  1 | A4812973 |     90    | EA | _______ | Putaway   | 11/11 09:57 | SM555340 | 07766372  DRILL HIGH SPEED STEEL JBS 5.50MM       
+RECEIVE              | 08583901             |  1 | A4812756 |      1    | EA | _______ | Putaway   | 11/11 08:18 |          | 00887702  GAUGE DBB BRS 0/1600KPA NON OXY 100MM   
+RECEIVE              | 08711606             |  1 | A4813269 |      8    | EA | _______ | Putaway   | 11/11 13:42 | SM563735 | 04669658  BLADE HACKSAW 300MM FEIN SAW 63503063007
+RECEIVE              | 08722601             |  1 | A4812811 |     10    | EA | _______ | Putaway   | 11/11 09:02 | SM563569 | 05340707  FAN GRINDER F 6030/6 A80 60 X 30        
+RECEIVE              | 08724705             |  1 | A4813279 |      2    | EA | _______ | Putaway   | 11/11 13:44 | SM563779 | 01148758  CUTTER HSS 18DIA X 25MM AUSTBROACH 18258
+RECEIVE              | 09024202             |  1 | A4813114 |      2    | EA | _______ | Putaway   | 11/11 11:29 | SM562279 | 03187700  NIPPLE STEEL STEAM HEXAGONAL  80 NB     
+     COMPANY : J. BLACKWOOD & SON LIMITED      
+     PUTAWAY LIST AT MONDAY, NOVEMBER 11, 2013 16:00     PAGE   2
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                  Location                       | Stock ID | Quantity  | UOM| Confirm | Putaway   | Date & Time | Receipt  | Product
+         From        |          To          |  # |          |           |    |         | Priority  |             | Number   |        
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+RECEIVE              | 09061801             |  1 | A4812686 |     30    | EA | _______ | Putaway   | 11/11 07:42 | SM563589 | 02423902  BOLT&NUT HEX HT CL8.8 BLK 20X110MM      
+RECEIVE              | 09083801             |  1 | A4812762 |      1    | EA | _______ | Putaway   | 11/11 08:21 |          | 07615906  HANDLE HAMMER CLUB HARDWOOD 1ST GR 250MM
+RECEIVE              | 09130402             |  1 | A4812989 |     80    | EA | _______ | Putaway   | 11/11 10:01 | SM563583 | 06669005  COVERALL M/GARD 2000 LAM 05265 XL       
+RECEIVE              | 09141801             |  1 | A4812694 |     30    | EA | _______ | Putaway   | 11/11 07:47 | SM563601 | 01240801  BOLT&NUT HEX HT CL8.8 BLK 12X45MM       
+RECEIVE              | 09141801             |  1 | A4812747 |    140    | EA | _______ | Putaway   | 11/11 08:15 | SM563724 | 01240801  BOLT&NUT HEX HT CL8.8 BLK 12X45MM       
+RECEIVE              | 09162201             |  1 | A4813042 |     28    | PH | _______ | Putaway   | 11/11 10:49 | SM563348 | 02402354  TIE CABLE 371X3.7MM BLK PLT4I-CO PK100  
+RECEIVE              | 09192802             |  1 | A4812661 |      2    | EA | _______ | Putaway   | 11/11 07:14 |          | 06156472  HAMMER CLAW STEEL HDLE DVS-V JBS 575G   
+RECEIVE              | 09204201             |  1 | A4812883 |      7    | PR | _______ | Putaway   | 11/11 09:40 | SM563639 | 07717395  GLOVES HELIX WET HX60492F2 9            
+RECEIVE              | 09526201             |  1 | A4813386 |      4    | PH | _______ | Putaway   | 11/11 15:47 | SM562856 | 06567940  BAG VACUUM 69042900 SUIT NT 27/1 (5)    
+RECEIVE              | 09634004             |  1 | A4813071 |     10    | EA | _______ | Putaway   | 11/11 10:57 | SM561848 | 03024300  NUT TUBE INT COMPRESSION BRASS Z2 1/2"T 
+RECEIVE              | 09652201             |  1 | A4812804 |    200    | EA | _______ | Putaway   | 11/11 09:01 | SM563290 | 01295500  SCREW MTS RND SLOT BRASS BSW 3/16X1"    
+RECEIVE              | 09654903             |  1 | A4813370 |    300    | EA | _______ | Putaway   | 11/11 15:32 | SM564073 | 02754755  WASHER FLAT HT CL8.8 BLK 20MM           
+RECEIVE              | 09696101             |  1 | A4812817 |      2    | EA | _______ | Putaway   | 11/11 09:06 | SM562991 | 00030727  SET CIRCLIP & MINI JBS -MS 3PC PCM1-EVA 
+RECEIVE              | 09732202             |  1 | A4812844 |     10    | EA | _______ | Putaway   | 11/11 09:34 | SM563236 | 06156132  MULTIGRIP 1000V JBS 250MM               
+RECEIVE              | 10013502             |  1 | A4813316 |     48    | EA | _______ | Putaway   | 11/11 14:02 | SM564439 | 03381528  PADLOCK 30MM EBONY 80MM HARD STL SHKLE  
+RECEIVE              | 10072102             |  1 | A4813060 |     10    | EA | _______ | Putaway   | 11/11 10:53 | SM563191 | 03101702  ELBOW MALLEABLE GALV M & F 90 DEG  25 NB
+RECEIVE              | 10163102             |  1 | A4813272 |     10    | EA | _______ | Putaway   | 11/11 13:44 | SM564078 | 04428056  INSERT MILLING TPKN 2204PDTR-MD15 T25M  
+RECEIVE              | 10163601             |  1 | A4812959 |   1000    | EA | _______ | Putaway   | 11/11 09:57 | SM563171 | 02383903  SCREW SKT CSK HD UNBRAKO 8X20MM         
+RECEIVE              | 10165301             |  1 | A4813028 |    200    | EA | _______ | Putaway   | 11/11 10:41 | SM562787 | 02217707  SCREW SKT CSK HD UNBRAKO 3X16MM         
+RECEIVE              | 10165601             |  1 | A4812755 |      1    | EA | _______ | Putaway   | 11/11 08:17 |          | 02469002  SCOTCHMATE SJ3526 HOOK BLACK 25MMX45.7M 
+RECEIVE              | 10176101             |  1 | A4812882 |     30    | EA | _______ | Putaway   | 11/11 09:40 | SM563639 | 07896303  SPECS SPRINT BLK/SIL FR CLR AF LENS     
+RECEIVE              | 10182802             |  1 | A4813029 |    300    | EA | _______ | Putaway   | 11/11 10:41 | SM562787 | 02452805  SCREW SKT CSK HD UNBRAKO 12X45MM        
+RECEIVE              | 10193402             |  1 | A4813334 |     10    | PR | _______ | Putaway   | 11/11 14:37 | SM563003 | 02035653  INSOLES COMFORT FOOTBED BATA 12-13      
+RECEIVE              | 10226001             |  1 | A4812843 |      1    | EA | _______ | Putaway   | 11/11 09:34 | SM563236 | 06152375  CUTTER PIPE H/DUTY JBSMASTERS 10-61MM OD
+RECEIVE              | 10532001             |  1 | A4813306 |      2    | EA | _______ | Putaway   | 11/11 13:53 | SM562813 | 03327104  VALVE FLOAT BARE BRASS SCD/LEVER 1 1/2" 
+RECEIVE              | 10561102             |  1 | A4813313 |      8    | EA | _______ | Putaway   | 11/11 13:58 | SM553183 | 00672754  SPEEDBONDER HIGH TEMP LOCTITE 32530 50ML
+RECEIVE              | 10564303             |  1 | A4813147 |      5    | EA | _______ | Putaway   | 11/11 11:58 | SM563297 | 08091038  BOOK FASTENERS REFERENCE (BLACK BOOK)   
+RECEIVE              | 10606002             |  1 | A4812957 |    200    | EA | _______ | Putaway   | 11/11 09:57 | SM563171 | 01945504  SCREW SKT SET (GRUB) UNBRAKO UNC 1/4X1/4
+RECEIVE              | 10610902             |  1 | A4813351 |    200    | EA | _______ | Putaway   | 11/11 14:49 | SM563738 | 02004004  NUT CONELOK GRADE B ZINC PL UNC 3/8"    
+RECEIVE              | 10615702             |  1 | A4812958 |   1800    | EA | _______ | Putaway   | 11/11 09:57 | SM563171 | 01964307  SCREW SKT SET (GRUB) UNBRAKO 4X5MM      
+RECEIVE              | 10625003             |  1 | A4813008 |    500    | EA | _______ | Putaway   | 11/11 10:15 | SM563505 | 02014405  PIN ROLL SPRING (SEL-LOK) ZP 3/16X2     
+RECEIVE              | 10655802             |  1 | A4813026 |    200    | EA | _______ | Putaway   | 11/11 10:41 | SM562787 | 01913701  SCREW SKT CSK HD UNBRAKO UNC 1/4X3/4    
+RECEIVE              | 10664301             |  1 | A4812956 |    400    | EA | _______ | Putaway   | 11/11 09:57 | SM563171 | 01922909  SCREW SKT CSK HD UNBRAKO 6X20MM         
+RECEIVE              | 10684302             |  1 | A4813010 |     25    | EA | _______ | Putaway   | 11/11 10:15 | SM563505 | 02514206  SCREW SKT SHD UNBRAKO M10 THRD 12X70MM  
+RECEIVE              | 10700804             |  1 | A4813183 |    300    | EA | _______ | Putaway   | 11/11 12:58 | SM563500 | 00169608  SCREW SET SKT GRUB SS304 METRIC 6X12MM  
+RECEIVE              | 10701001             |  1 | A4813182 |    700    | EA | _______ | Putaway   | 11/11 12:58 | SM563500 | 00165806  SCREW SET SKT GRUB SS304 METRIC 4X4MM   
+RECEIVE              | 10704702             |  1 | A4813165 |      2    | EA | _______ | Putaway   | 11/11 12:47 | SM563750 | 05537808  CUTTER BOLT HT CENTRE CUT NBC450H  450MM
+RECEIVE              | 11143401             |  1 | A4812854 |      2    | EA | _______ | Putaway   | 11/11 09:35 | SM561982 | 06763304  WRENCH TORQUE 3/8 SQ DR 20-100NM JBS    
+RECEIVE              | 11195602             |  1 | A4813119 |     24    | EA | _______ | Putaway   | 11/11 11:29 | SM562279 | 05947113  VALVE BALL MINI BRS N/P SCD M&F 1/4" 8MM
+RECEIVE              | 11512501             |  1 | A4812837 |    700    | EA | _______ | Putaway   | 11/11 09:34 | SM563236 | 02098104  NUT NYLON INSERT LOCK ZP UNF 1/2        
+RECEIVE              | 11522702             |  1 | A4812836 |    600    | EA | _______ | Putaway   | 11/11 09:34 | SM563236 | 02097707  NUT NYLON INSERT LOCK ZP UNF 1/4        
+RECEIVE              | 11540302             |  1 | A4813381 |     10    | EA | _______ | Putaway   | 11/11 15:32 | SM564073 | 06285910  FERRULE COPPER N/P HAND SWAGE 6MM       
+RECEIVE              | 11592101             |  1 | A4808393 |      1    | EA | _______ | Putaway   | 01/11 09:03 | SM561550 | 02164407  SPRING COMP FIXIT KIT 1 1/4-4" LG CA102 
+RECEIVE              | 11601401             |  1 | A4813330 |      5    | PH | _______ | Putaway   | 11/11 14:23 | SM563499 | 02166900  WASHER CPR 20G 1/4X9/16 PKT35           
+RECEIVE              | 11632801             |  1 | A4812748 |    100    | EA | _______ | Putaway   | 11/11 08:15 | SM563724 | 02095000  NUT NYLON INSERT LOCK ZP UNC 9/16       
+RECEIVE              | 11673105             |  1 | A4812674 |     20    | EA | _______ | Putaway   | 11/11 07:29 | SM563783 | 08789802  CIRCLIP INTERNAL  30MM 1 3/16"          
+RECEIVE              | 11723401             |  1 | A4813329 |      2    | EA | _______ | Putaway   | 11/11 14:23 | SM563499 | 01162109  BOLT&NUT HT MASTERKIT CL8.8 4-12MM CA431
+RECEIVE              | 12054902             |  1 | A4813031 |      9    | EA | _______ | Putaway   | 11/11 10:41 | SM562787 | 06141811  WRENCH HEX MET L/S (26)8L SET(1.5 -10MM)
+     COMPANY : J. BLACKWOOD & SON LIMITED      
+     PUTAWAY LIST AT MONDAY, NOVEMBER 11, 2013 16:00     PAGE   3
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                  Location                       | Stock ID | Quantity  | UOM| Confirm | Putaway   | Date & Time | Receipt  | Product
+         From        |          To          |  # |          |           |    |         | Priority  |             | Number   |        
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+RECEIVE              | 12063505             |  1 | A4813075 |      2    | EA | _______ | Putaway   | 11/11 10:57 | SM561848 | 03026900  UNION DOUBLE INT COMP BRASS Z4 1/4" TUBE
+RECEIVE              | 12083903             |  1 | A4812993 |      1    | EA | _______ | Putaway   | 11/11 10:03 | SM563620 | 01080221  CARRIAGE 4 WHEEL NYLON ELTRAK EG14LP    
+RECEIVE              | 12091401             |  1 | A4813253 |      2    | KT | _______ | Putaway   | 11/11 13:33 | SM559394 | 04160007  CLAMP HOSE MAINT KIT JBS Z/ALUME 135 PC 
+RECEIVE              | 12101002             |  1 | A4812783 |      4    | EA | _______ | Putaway   | 11/11 08:38 | SM563749 | 04620101  EYEBOLT BSS DROP FORGED BLK BSW 3/8"    
+RECEIVE              | 12125504             |  1 | A4813355 |    250    | EA | _______ | Putaway   | 11/11 15:25 | SM563954 | 01801053  TERMINAL RING  6MM HOLE BLUE RT2-6      
+RECEIVE              | 12132201             |  1 | A4812774 |     10    | EA | _______ | Putaway   | 11/11 08:35 | SM563782 | 03559804  TAIL SINGLE BARB P3  5TM6 5/16"TX3/8"BSP
+RECEIVE              | 12132401             |  1 | A4812773 |     16    | EA | _______ | Putaway   | 11/11 08:35 | SM563782 | 03558708  TAIL SINGLE BARB P3  3TM2 3/16"TX1/8"BSP
+RECEIVE              | 12133401             |  1 | A4812990 |    121    | EA | _______ | Putaway   | 11/11 10:01 | SM561826 | 04625504  SHACKLE D COMM GAL 5MM X 5MM            
+RECEIVE              | 12171203             |  1 | A4813352 |   1200    | EA | _______ | Putaway   | 11/11 14:49 | SM563738 | 04135019  NUT NYLON INSERT LOCK CL10 ZP 8MM       
+RECEIVE              | 12205803             |  1 | A4813202 |      8    | PH | _______ | Putaway   | 11/11 13:07 | SM563729 | 07826009  BLADE JIGSAW LESTO/BOSCH T101B PKT 5    
+RECEIVE              | 12215802             |  1 | A4813389 |      5    | PH | _______ | Putaway   | 11/11 15:49 | SM562761 | 07826902  BLADE JIGSAW LESTO/BOSCH T227D (5)      
+RECEIVE              | 12223501             |  1 | A4813226 |      1    | EA | _______ | Putaway   | 11/11 13:15 | SM563712 | 04657922  HARNESS HEAD SPEEDGLAS 9000 SHIELD      
+RECEIVE              | 12615201             |  1 | A4813052 |      6    | EA | _______ | Putaway   | 11/11 10:51 | SM563439 | 03193901  SOCKET STEEL STEAM FULL  80 NB          
+RECEIVE              | 12641402             |  1 | A4813046 |      2    | PH | _______ | Putaway   | 11/11 10:49 | SM563348 | 02409768  TIE CABLE RELEASABLE BLK PRT2S-CO PK100 
+RECEIVE              | 12645901             |  1 | A4813371 |    198    | EA | _______ | Putaway   | 11/11 15:32 | SM564073 | 02828109  BOLT&NUT HEX HD CL4.6 GAL 16X180MM      
+RECEIVE              | 12681401             |  1 | A4813377 |    473    | EA | _______ | Putaway   | 11/11 15:32 | SM564073 | 02894308  SCREW COACH HEX HD GAL 12X50MM          
+RECEIVE              | 12682002             |  1 | A4813343 |      1    | EA | _______ | Putaway   | 11/11 14:49 | SM563642 | 01253128  LEAD LIGHT VERSALITE 11W 240/12V C/W TR 
+RECEIVE              | 12694701             |  1 | A4812822 |    150    | EA | _______ | Putaway   | 11/11 09:06 | SM562991 | 02838704  BOLT&NUT HEX HD CL4.6 ZP 10X30MM        
+RECEIVE              | 12701401             |  1 | A4813079 |      2    | RL | _______ | Putaway   | 11/11 11:09 | SM563418 | 00501059  WIRE MIG AL5356 ROLL 7.0KG 722227 1.2MM 
+RECEIVE              | 13014101             |  1 | A4813127 |      1    | EA | _______ | Putaway   | 11/11 11:29 | SM562588 | 03170500  BUSH STEEL STEAM HEXAGONAL  40NB X 32NB 
+RECEIVE              | 13015501             |  1 | A4813049 |      5    | EA | _______ | Putaway   | 11/11 10:51 | SM563439 | 03169207  BUSH STEEL STEAM HEXAGONAL  20NB X  8NB 
+RECEIVE              | 13023302             |  1 | A4813074 |     34    | EA | _______ | Putaway   | 11/11 10:57 | SM561848 | 03022700  SLEEVE INT COMP UNI BRASS #100 1/2" TUBE
+RECEIVE              | 13023501             |  1 | A4813124 |     11    | EA | _______ | Putaway   | 11/11 11:29 | SM562588 | 03164503  NIPPLE STEEL STEAM BARREL  40NB         
+RECEIVE              | 13024001             |  1 | A4813125 |      4    | EA | _______ | Putaway   | 11/11 11:29 | SM562588 | 03164804  NIPPLE STEEL STEAM BARREL  80NB         
+RECEIVE              | 13024401             |  1 | A4813098 |      1    | EA | _______ | Putaway   | 11/11 11:27 | SM561836 | 03167102  CAP STEEL STEAM   25NB                  
+RECEIVE              | 13033201             |  1 | A4813115 |      1    | EA | _______ | Putaway   | 11/11 11:29 | SM562279 | 03196306  SOCKET STEEL STEAM REDUCING  50 X  40 NB
+RECEIVE              | 13044203             |  1 | A4813058 |      8    | EA | _______ | Putaway   | 11/11 10:51 | SM563439 | 03730005  NIPPLE STEEL GALV REDUCING 15 X  8 NB   
+RECEIVE              | 13044501             |  1 | A4813053 |      1    | EA | _______ | Putaway   | 11/11 10:51 | SM563439 | 03207004  NIPPLE STEEL GALVANISED HEXAGONAL  80 NB
+RECEIVE              | 13045601             |  1 | A4813057 |      8    | EA | _______ | Putaway   | 11/11 10:51 | SM563439 | 03626106  BUSH STEEL HEX GALVANISED  40 X 25 NB   
+RECEIVE              | 13055201             |  1 | A4813101 |      1    | EA | _______ | Putaway   | 11/11 11:27 | SM561836 | 03225507  ELBOW STEEL GALVANISED M & F  20 NB     
+RECEIVE              | 13056101             |  1 | A4813059 |      2    | EA | _______ | Putaway   | 11/11 10:51 | SM563439 | 03223208  PIPE PIECE GAL STEEL 50NB X 150MM       
+RECEIVE              | 13061002             |  1 | A4812912 |     20    | EA | _______ | Putaway   | 11/11 09:52 | SM554057 | 02745415  ELBOW M&F 90DEG 316 S/S #25SS 3/4" BSP  
+RECEIVE              | 13064801             |  1 | A4813103 |     11    | EA | _______ | Putaway   | 11/11 11:27 | SM561836 | 03625806  BUSH STEEL HEX GALVANISED  25 X 20 NB   
+RECEIVE              | 13065402             |  1 | A4813254 |      6    | EA | _______ | Putaway   | 11/11 13:34 | SM562451 | 05356384  FLUORO COMPAC WWHITE 11W BC GENIE11WWWBC
+RECEIVE              | 13084201             |  1 | A4813048 |      2    | EA | _______ | Putaway   | 11/11 10:51 | SM563439 | 03162000  UNION STEEL GAL STEEL/STEEL M&F   25 NB 
+RECEIVE              | 13084501             |  1 | A4813089 |     60    | EA | _______ | Putaway   | 11/11 11:25 | SM562890 | 01343177  SUNSCREEN 30+ MILK HAMILTON P/PACK 500ML
+RECEIVE              | 13103601             |  1 | A4813090 |     30    | EA | _______ | Putaway   | 11/11 11:25 | SM562890 | 01343177  SUNSCREEN 30+ MILK HAMILTON P/PACK 500ML
+RECEIVE              | 13103601             |  1 | A4813141 |     36    | EA | _______ | Putaway   | 11/11 11:53 | SM563096 | 01343177  SUNSCREEN 30+ MILK HAMILTON P/PACK 500ML
+RECEIVE              | 13114001             |  1 | A4813065 |      4    | EA | _______ | Putaway   | 11/11 10:53 | SM563191 | 03252004  NIPPLE HEX 3000LB H/P SCD NPT 20NB 3/4" 
+RECEIVE              | 13114502             |  1 | A4813271 |     20    | EA | _______ | Putaway   | 11/11 13:44 | SM564078 | 00988132  INSERT TURNING CNMG 120404-MF2 TP3500   
+RECEIVE              | 13122601             |  1 | A4812964 |     10    | EA | _______ | Putaway   | 11/11 09:57 | SM555340 | 03269301  NIPPLE 316 STAINLESS STL RED 1/4" X 1/8"
+RECEIVE              | 13122801             |  1 | A4812769 |      1    | EA | _______ | Putaway   | 11/11 08:35 | SM563782 | 02932202  UNION SAE FLARE DBL BRASS #17 3/8"  TUBE
+RECEIVE              | 13122801             |  1 | A4812807 |      1    | EA | _______ | Putaway   | 11/11 09:01 | SM563290 | 02932202  UNION SAE FLARE DBL BRASS #17 3/8"  TUBE
+RECEIVE              | 13134403             |  1 | A4812770 |     47    | EA | _______ | Putaway   | 11/11 08:35 | SM563782 | 02957708  ELBOW M TO M SCD BRASS #48 1/4"X1/4" BSP
+RECEIVE              | 13144906             |  1 | A4812768 |      2    | EA | _______ | Putaway   | 11/11 08:35 | SM563782 | 02914505  UNION SNGL SAE FLARE BRS #7 1/2"TX3/8BSP
+RECEIVE              | 13155302             |  1 | A4812763 |     58    | EA | _______ | Putaway   | 11/11 08:24 | SM561606 | 02902300  CONNECTOR M BRASS #3 TUBEXBSP 1/8" X1/8"
+RECEIVE              | 13201501             |  1 | A4813376 |    200    | EA | _______ | Putaway   | 11/11 15:32 | SM564073 | 02880202  BOLT&NUT CUP HD GAL METRIC 8X75MM       
+RECEIVE              | 13230704             |  1 | A4813201 |      7    | PH | _______ | Putaway   | 11/11 13:07 | SM563729 | 01324857  BLADES SABRE SAW BOSCH S644D  (PKT 2)   
+     COMPANY : J. BLACKWOOD & SON LIMITED      
+     PUTAWAY LIST AT MONDAY, NOVEMBER 11, 2013 16:00     PAGE   4
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                  Location                       | Stock ID | Quantity  | UOM| Confirm | Putaway   | Date & Time | Receipt  | Product
+         From        |          To          |  # |          |           |    |         | Priority  |             | Number   |        
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+RECEIVE              | 13512001             |  1 | A4813096 |     55    | EA | _______ | Putaway   | 11/11 11:27 | SM561836 | 03131808  ELBOW C/S BUTTWELD 90D S/RAD STD WT 1"  
+RECEIVE              | 13514101             |  1 | A4812918 |      2    | EA | _______ | Putaway   | 11/11 09:52 |          | 03257708  NIPPLE 316 STAINLESS STL HEX BSP 1/2"   
+RECEIVE              | 13522602             |  1 | A4813102 |     30    | EA | _______ | Putaway   | 11/11 11:27 | SM561836 | 03255205  BUSH 316 STAINLESS STL BSP 3/8"  X 1/4" 
+RECEIVE              | 13534001             |  1 | A4812738 |      5    | EA | _______ | Putaway   | 11/11 08:09 |          | 03268506  PLUG HEX 316 STAINLESS STL SCD BSP 1/4" 
+RECEIVE              | 13534002             |  1 | A4812920 |      1    | EA | _______ | Putaway   | 11/11 09:52 |          | 03268700  PLUG HEX 316 STAINLESS STL SCD BSP 1/2" 
+RECEIVE              | 13562501             |  1 | A4812803 |      2    | PR | _______ | Putaway   | 11/11 09:01 | SM563290 | 00859868  GAITORS SUPERFABRIC HEXARMOR 9921 2XL   
+RECEIVE              | 13564201             |  1 | A4813374 |    200    | EA | _______ | Putaway   | 11/11 15:32 | SM564073 | 02846408  SCREW SET HEX HD CL4.6 ZP 6X30MM        
+RECEIVE              | 13564601             |  1 | A4813128 |      2    | EA | _______ | Putaway   | 11/11 11:29 | SM562588 | 03624108  BUSH STEEL HEX GALVANISED  50 X 25 NB   
+RECEIVE              | 13572302             |  1 | A4812815 |     10    | EA | _______ | Putaway   | 11/11 09:03 | SM561871 | 03381035  PADLOCK BRASS CASE 48MM 334B45/148/5KD  
+RECEIVE              | 13633301             |  1 | A4813054 |     13    | EA | _______ | Putaway   | 11/11 10:51 | SM563439 | 03218103  PIPE PIECE GAL STEEL 15NB X 100MM       
+RECEIVE              | 13651101             |  1 | A4813113 |      2    | EA | _______ | Putaway   | 11/11 11:29 | SM562279 | 03135008  CAP C/STL BUTTWELD STD WEIGHT 80MM 3"   
+RECEIVE              | 13654701             |  1 | A4813064 |     55    | EA | _______ | Putaway   | 11/11 10:53 | SM563191 | 03205103  ELBOW STEEL GALVANISED F & F  32 NB     
+RECEIVE              | 13656101             |  1 | A4812885 |     56    | EA | _______ | Putaway   | 11/11 09:40 | SM563448 | 04361053  BOLT HEX HT GR5 ZP UNF 3/8X1 1/2        
+RECEIVE              | 13661601             |  1 | A4812696 |      4    | EA | _______ | Putaway   | 11/11 07:48 | SM563685 | 00509006  PIN SPLIT COTTER ZP 10X100MM            
+RECEIVE              | 13702701             |  1 | A4813260 |    900    | EA | _______ | Putaway   | 11/11 13:38 | SM563575 | 04711357  WALL-MATE NYLON P/BOARD NO SCREWS 6/7G  
+RECEIVE              | 13702801             |  1 | A4813047 |     14    | EA | _______ | Putaway   | 11/11 10:51 | SM563439 | 03156304  UNION STEEL BLACK STEEL/BRONZE F&F  25NB
+RECEIVE              | 13704401             |  1 | A4812919 |      2    | EA | _______ | Putaway   | 11/11 09:52 |          | 03268603  PLUG HEX 316 STAINLESS STL SCD BSP 3/8" 
+RECEIVE              | 13732505             |  1 | A4813273 |     20    | EA | _______ | Putaway   | 11/11 13:44 | SM564078 | 09513912  INSERT TURNING TPMR 110304-F1 TM4000    
+RECEIVE              | 14012101             |  1 | A4813030 |    145    | EA | _______ | Putaway   | 11/11 10:41 | SM562787 | 02456209  SCREW SKT BTN HD UNBRAKO UNC 1/4X1/2    
+RECEIVE              | 14013401             |  1 | A4812775 |    303    | EA | _______ | Putaway   | 11/11 08:35 | SM563782 | 03310001  PLUG BRASS HEX HEAD BSPT #64 1/8" 6MM   
+RECEIVE              | 14024704             |  1 | A4812658 |     10    | EA | _______ | Putaway   | 11/11 07:10 | SM563617 | 01939266  SPECS I-3 UVEX BLUE/GRY GRY SV HC/AF    
+RECEIVE              | 14046401             |  1 | A4813041 |      9    | PH | _______ | Putaway   | 11/11 10:49 | SM563348 | 01132401  TIE CABLE 292X4.8MM CLR PLT3S-C PK100   
+RECEIVE              | 14090801             |  1 | A4812788 |     13    | EA | _______ | Putaway   | 11/11 08:40 | SM563672 | 01112810  BLANKET FIRE 1000 X 1000MM + RD WALL BAG
+RECEIVE              | 14122602             |  1 | A4812856 |     88    | EA | _______ | Putaway   | 11/11 09:35 | SM558492 | 08349103  KEY STEEL ZINC PL STEEL METRIC  7 X  8MM
+RECEIVE              | 14141501             |  1 | A4812653 |      2    | EA | _______ | Putaway   | 11/11 07:04 |          | 04588913  ADAPTOR TAP NUT G901 12MM               
+RECEIVE              | 14522401             |  1 | A4813310 |     12    | EA | _______ | Putaway   | 11/11 13:57 | SM563113 | 03445754  ANTI SEIZE H/DUTY LOCTITE 51606 510GM   
+RECEIVE              | 14562701             |  1 | A4812802 |      2    | EA | _______ | Putaway   | 11/11 08:56 | SM563442 | 00833867  GAUGE ASCO G1/8 40MM 0-12 BAR 1/8" BSP  
+RECEIVE              | 14571802             |  1 | A4812872 |    100    | EA | _______ | Putaway   | 11/11 09:39 | SM563640 | 04148960  TERMINAL FLAT BLADE RED FB1.25-3DG      
+RECEIVE              | 14601502             |  1 | A4813255 |      2    | PH | _______ | Putaway   | 11/11 13:34 | SM562451 | 05809162  TAG APPLIANCE TEST NESCO SFTY WHTE (100)
+RECEIVE              | 14636401             |  1 | A4813160 |     30    | EA | _______ | Putaway   | 11/11 12:43 | SM563379 | 00860701  HOLDER HARD HAT FLURO ORANGE            
+RECEIVE              | 14674301             |  1 | A4813375 |    600    | EA | _______ | Putaway   | 11/11 15:32 | SM564073 | 02846806  SCREW SET HEX HD CL4.6 ZP 8X25MM        
+RECEIVE              | 14703601             |  1 | A4812710 |     24    | EA | _______ | Putaway   | 11/11 07:55 | SM563122 | 06271613  TAPE P.T.F.E. YELLOW GAS SEAL 25MM X 12M
+RECEIVE              | 15025402             |  1 | A4812864 |      1    | EA | _______ | Putaway   | 11/11 09:38 | SM559578 | 04282510  SOCKET IMPACT 1" SQUARE DRIVE HEX 70MM  
+RECEIVE              | 15025402             |  1 | A4812867 |      1    | EA | _______ | Putaway   | 11/11 09:39 | SM560047 | 04282510  SOCKET IMPACT 1" SQUARE DRIVE HEX 70MM  
+RECEIVE              | 15042401             |  1 | A4812689 |      4    | EA | _______ | Putaway   | 11/11 07:44 | SM563728 | 03848666  SCREWDRIVER 65.522 PHILLIPS NO.1 X 100MM
+RECEIVE              | 15043302             |  1 | A4813235 |   1000    | EA | _______ | Putaway   | 11/11 13:17 | SM563736 | 02276706  NUT HEX STD SS316 UNC 3/8               
+RECEIVE              | 15101301             |  1 | A4812697 |      1    | EA | _______ | Putaway   | 11/11 07:48 | SM563685 | 00338206  VALVE BALL 316SS BSPT 1PIECE 50MM       
+RECEIVE              | 15102101             |  1 | A4812740 |      1    | EA | _______ | Putaway   | 11/11 08:10 |          | 00337809  VALVE BALL 316SS BSPT 1PIECE 20MM       
+RECEIVE              | 15104801             |  1 | A4812890 |      2    | EA | _______ | Putaway   | 11/11 09:45 | SM554762 | 01153746  STRAINER Y TYPE SS316 800 SCREWED 32MM  
+RECEIVE              | 15144101             |  1 | A4813356 |    200    | EA | _______ | Putaway   | 11/11 15:25 | SM563954 | 01801456  TERMINAL RING  6MM HOLE RED  RT1.25-6   
+RECEIVE              | 15172301             |  1 | A4813045 |      2    | PH | _______ | Putaway   | 11/11 10:49 | SM563348 | 02404158  TIE CABLE 530X9MM BLK PLT6H-L0 (50)     
+RECEIVE              | 15202902             |  1 | A4812907 |      1    | EA | _______ | Putaway   | 11/11 09:49 | SM549336 | 09856760  VALVE BALL SCREWED L/PORT SS316 25MM    
+RECEIVE              | 15211301             |  1 | A4812706 |    140    | EA | _______ | Putaway   | 11/11 07:52 | SM563722 | 03752009  WASHER FLAT STL BRT 16X30X2.0MM         
+RECEIVE              | 15214301             |  1 | A4812946 |      1    | EA | _______ | Putaway   | 11/11 09:57 | SM554412 | 09856743  VALVE BALL SCREWED L/PORT SS316 20MM    
+RECEIVE              | 15236201             |  1 | A4812965 |      3    | EA | _______ | Putaway   | 11/11 09:57 | SM555340 | 04105014  TARPAULIN POLY H/W GREEN/SILVER 30X40FT 
+RECEIVE              | 15535301             |  1 | A4813034 |      1    | EA | _______ | Putaway   | 11/11 10:44 | SM563773 | 09352607  VALVE CHECK BRZ PEGLER 49 SCD 15MM      
+RECEIVE              | 15543501             |  1 | A4812903 |      2    | EA | _______ | Putaway   | 11/11 09:49 | SM547771 | 09856624  VALVE BALL SCREWED T/PORT SS316 15MM    
+RECEIVE              | 15543501             |  1 | A4812904 |      3    | EA | _______ | Putaway   | 11/11 09:49 | SM549031 | 09856624  VALVE BALL SCREWED T/PORT SS316 15MM    
+     COMPANY : J. BLACKWOOD & SON LIMITED      
+     PUTAWAY LIST AT MONDAY, NOVEMBER 11, 2013 16:00     PAGE   5
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                  Location                       | Stock ID | Quantity  | UOM| Confirm | Putaway   | Date & Time | Receipt  | Product
+         From        |          To          |  # |          |           |    |         | Priority  |             | Number   |        
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+RECEIVE              | 15563701             |  1 | A4809979 |     16    | EA | _______ | Putaway   | 05/11 09:30 | SM562920 | 00994984  KEY HEX T HDLE 2 WAY BALL END JBS 6.0 MM
+RECEIVE              | 15573401             |  1 | A4812978 |      2    | EA | _______ | Putaway   | 11/11 09:58 | SM555054 | 01153304  VALVE GATE SS316 200 SCREWED 15MM       
+RECEIVE              | 15573902             |  1 | A4813188 |      3    | EA | _______ | Putaway   | 11/11 13:00 | SM563739 | 00734604  LEVEL MAGNETIC 2V +HOLSTER 81SM/25 250MM
+RECEIVE              | 15654901             |  1 | A4813331 |      1    | EA | _______ | Putaway   | 11/11 14:23 | SM563499 | 04110453  PIN SPLIT FIXIT KIT SS304 1.6-5MM CA1850
+RECEIVE              | 15673502             |  1 | A4813277 |      9    | EA | _______ | Putaway   | 11/11 13:44 | SM563779 | 01002837  SOCKET ONE TOUCH NITTO 200-20SM 1/4"MALE
+RECEIVE              | 15675001             |  1 | A4813107 |      1    | EA | _______ | Putaway   | 11/11 11:29 | SM562279 | 00613734  VALVE BALL BRASS JOHN FIG J360  8MM     
+RECEIVE              | 16026002             |  1 | A4813241 |    100    | EA | _______ | Putaway   | 11/11 13:17 | SM563736 | 02276706  NUT HEX STD SS316 UNC 3/8               
+RECEIVE              | 16032506             |  1 | A4813270 |      4    | EA | _______ | Putaway   | 11/11 13:44 | SM564078 | 00111537  INSERT MILLING SPMX 12T3AP-75 T25M      
+RECEIVE              | 16222901             |  1 | A4813244 |      3    | EA | _______ | Putaway   | 11/11 13:22 | SM561812 | 01729054  TOOL DESOLDER SCOPE SR10                
+RECEIVE              | 16512201             |  1 | A4813264 |     10    | EA | _______ | Putaway   | 11/11 13:40 | SM557881 | 02425431  SEALANT ADHESIVE RTV 3145 90ML CLEAR    
+RECEIVE              | 16512201             |  1 | A4813383 |    132    | EA | _______ | Putaway   | 11/11 15:32 | SM564073 | 02828109  BOLT&NUT HEX HD CL4.6 GAL 16X180MM      
+RECEIVE              | 16512201             |  1 | A4813385 |    527    | EA | _______ | Putaway   | 11/11 15:32 | SM564073 | 02894308  SCREW COACH HEX HD GAL 12X50MM          
+RECEIVE              | 16512801             |  1 | A4813014 |    120    | EA | _______ | Putaway   | 11/11 10:17 | SM563715 | 00843999  MARKER PAINT ARTLINE 440 WHITE          
+RECEIVE              | 16512801             |  1 | A4813069 |      4    | EA | _______ | Putaway   | 11/11 10:53 | SM563191 | 03205103  ELBOW STEEL GALVANISED F & F  32 NB     
+RECEIVE              | 16512801             |  1 | A4812905 |      6    | EA | _______ | Putaway   | 11/11 09:49 | SM549031 | 09856624  VALVE BALL SCREWED T/PORT SS316 15MM    
+RECEIVE              | 16534102             |  1 | A4813163 |     23    | EA | _______ | Putaway   | 11/11 12:47 | SM563750 | 04336766  RULE STEEL RUSTLESS TOLEDO 300M 300MM   
+RECEIVE              | 16552504             |  1 | A4813314 |      4    | EA | _______ | Putaway   | 11/11 14:00 | SM563671 | 00889610  COUPLER NEEDLE POINT MCNAUGHT KZDXL     
+RECEIVE              | 16722601             |  1 | A4812871 |      2    | PH | _______ | Putaway   | 11/11 09:39 | SM563640 | 01803358  TIE CABLE 365X7.8MM BLK CT365BK-HD PK100
+RECEIVE              | 17025201             |  1 | A4812684 |     12    | RE | _______ | Putaway   | 11/11 07:41 | SM563707 | 00206686  TWINE SHOP COTTON MEDIUM 1950TEX 210M   
+RECEIVE              | 17073102             |  1 | A4812953 |    600    | EA | _______ | Putaway   | 11/11 09:57 | SM563171 | 01890400  SCREW CAP SKT HD UNBRAKO 8X40MM         
+RECEIVE              | 17073501             |  1 | A4812952 |    600    | EA | _______ | Putaway   | 11/11 09:57 | SM563171 | 01890206  SCREW CAP SKT HD UNBRAKO 8X30MM         
+RECEIVE              | 17073901             |  1 | A4812951 |    600    | EA | _______ | Putaway   | 11/11 09:57 | SM563171 | 01890002  SCREW CAP SKT HD UNBRAKO 8X20MM         
+RECEIVE              | 17074501             |  1 | A4812950 |    200    | EA | _______ | Putaway   | 11/11 09:57 | SM563171 | 01889301  SCREW CAP SKT HD UNBRAKO 6X90MM         
+RECEIVE              | 17075302             |  1 | A4813007 |    400    | EA | _______ | Putaway   | 11/11 10:15 | SM563505 | 01888506  SCREW CAP SKT HD UNBRAKO 6X45MM         
+RECEIVE              | 17081802             |  1 | A4813024 |    100    | EA | _______ | Putaway   | 11/11 10:41 | SM562787 | 01894804  SCREW CAP SKT HD UNBRAKO 12X70MM        
+RECEIVE              | 17084202             |  1 | A4812955 |     50    | EA | _______ | Putaway   | 11/11 09:57 | SM563171 | 01893601  SCREW CAP SKT HD UNBRAKO 10X120MM       
+RECEIVE              | 17086101             |  1 | A4813169 |     73    | EA | _______ | Putaway   | 11/11 12:52 | SM554762 | 04324246  VEST HIVIS DAY CHVV0005 YELLOW L 107    
+RECEIVE              | 17112701             |  1 | A4812764 |    864    | EA | _______ | Putaway   | 11/11 08:25 | SM562962 | 01004673  BATTERY INDUSTRIAL PROCELL AA BULK      
+RECEIVE              | 17121001             |  1 | A4813100 |     95    | EA | _______ | Putaway   | 11/11 11:27 | SM561836 | 03193707  SOCKET STEEL STEAM FULL  50 NB          
+RECEIVE              | 17153801             |  1 | A4813032 |     42    | EA | _______ | Putaway   | 11/11 10:41 | SM562787 | 01862807  SCREW CAP SKT HD UNBRAKO UNC 1/2X6      
+RECEIVE              | 17194301             |  1 | A4813373 |      9    | EA | _______ | Putaway   | 11/11 15:32 | SM564073 | 02834407  BOLT&NUT HEX HD CL4.6 GAL 24X120MM      
+RECEIVE              | 17200701             |  1 | A4812716 |     24    | EA | _______ | Putaway   | 11/11 07:57 | SM563575 | 06525423  ADHESIVE INSTANT 40778 CONTROL GEL 3G   
+RECEIVE              | 17234001             |  1 | A4813173 |     20    | EA | _______ | Putaway   | 11/11 12:53 | SM554412 | 06733945  VEST H/V D/N H BACK CHVV0030 YEL 2XL 117
+RECEIVE              | 17234401             |  1 | A4812972 |     39    | EA | _______ | Putaway   | 11/11 09:57 | SM555340 | 06193277  VEST HIVIS D/N CHVV0010 YELLOW M 102    
+RECEIVE              | 17524806             |  1 | A4813123 |     47    | EA | _______ | Putaway   | 11/11 11:29 | SM562588 | 03112607  PLUG MAL GALV SQUARE HEAD HOLLOW 20 NB  
+RECEIVE              | 17543701             |  1 | A4812873 |     10    | EA | _______ | Putaway   | 11/11 09:39 | SM512655 | 06587307  BUR MR M41202 CB1A 1/8"X9/16"X1/8"      
+RECEIVE              | 17552204             |  1 | A4812820 |      1    | EA | _______ | Putaway   | 11/11 09:06 | SM562991 | 05671706  DRILL HIGH SPEED TAPER SHNK 18.0MM X 2MT
+RECEIVE              | 17594201             |  1 | A4812954 |    400    | EA | _______ | Putaway   | 11/11 09:57 | SM563171 | 01892204  SCREW CAP SKT HD UNBRAKO 10X30MM        
+RECEIVE              | 17606201             |  1 | A4812726 |     12    | PR | _______ | Putaway   | 11/11 08:04 | SM563329 | 06772586  GLOVES DYNEEMA PU PALM EX CUFF 11-628 9 
+RECEIVE              | 17611301             |  1 | A4813315 |      1    | EA | _______ | Putaway   | 11/11 14:00 | SM563671 | 01266610  GUN GREASE AIR PISTOL 450GM CART K53    
+RECEIVE              | 17662702             |  1 | A4813392 |     10    | EA | _______ | Putaway   | 11/11 15:53 | SM563413 | 05020665  NUTSETTER MAGNETIC 3/8" HEX 64MM 41374  
+RECEIVE              | 17703801             |  1 | A4813027 |    100    | EA | _______ | Putaway   | 11/11 10:41 | SM562787 | 01981005  WRENCH HEX STD SERIES 3/16              
+RECEIVE              | 17714701             |  1 | A4813061 |    105    | EA | _______ | Putaway   | 11/11 10:53 | SM563191 | 03191204  PLUG STEEL STEAM HEXAGONAL  15 NB       
+RECEIVE              | 17715601             |  1 | A4812971 |     57    | EA | _______ | Putaway   | 11/11 09:57 | SM555340 | 04324722  VEST HIVIS D/N CHVV0010 YELLOW S 97     
+RECEIVE              | 17721301             |  1 | A4813174 |     19    | EA | _______ | Putaway   | 11/11 12:54 | SM555054 | 06734217  VEST H/V D/N TAIL H BACK CHVV0040 YE 107
+RECEIVE              | 18045906             |  1 | A4813236 |    200    | EA | _______ | Putaway   | 11/11 13:17 | SM563736 | 02742166  SCREW SKT CAP HD SS316 METRIC 8X16MM    
+RECEIVE              | 18081601             |  1 | A4812760 |      1    | EA | _______ | Putaway   | 11/11 08:20 | SM563781 | 03529601  ADAPTOR H/SHK ALUM CAMLOK 333E GP 25MM  
+RECEIVE              | 18101602             |  1 | A4812761 |     15    | EA | _______ | Putaway   | 11/11 08:20 | SM563781 | 03620500  ADAPTOR M/BSP ALUM CAMLOK 333F GP 40MM  
+     COMPANY : J. BLACKWOOD & SON LIMITED      
+     PUTAWAY LIST AT MONDAY, NOVEMBER 11, 2013 16:00     PAGE   6
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                  Location                       | Stock ID | Quantity  | UOM| Confirm | Putaway   | Date & Time | Receipt  | Product
+         From        |          To          |  # |          |           |    |         | Priority  |             | Number   |        
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+RECEIVE              | 18103502             |  1 | A4813246 |      3    | EA | _______ | Putaway   | 11/11 13:23 | SM563028 | 00060571  CAN OIL FORCE FEED 300ML RIGD SPOUT 5320
+RECEIVE              | 18141102             |  1 | A4812759 |      6    | EA | _______ | Putaway   | 11/11 08:20 | SM563781 | 03528000  COUPLER FEM BSP ALU CAMLOK 333D GP 40MM 
+RECEIVE              | 18155001             |  1 | A4812708 |      1    | EA | _______ | Putaway   | 11/11 07:55 | SM563122 | 02759654  COMPOUND GAS SEALANT 350GM BRUSH TOP CAN
+RECEIVE              | 18155801             |  1 | A4812870 |     60    | EA | _______ | Putaway   | 11/11 09:39 | SM563640 | 01788752  GLAND CABLE POLY/FG SUIT OD 11-17MM GN25
+RECEIVE              | 18160601             |  1 | A4813132 |      3    | EA | _______ | Putaway   | 11/11 11:36 | SM563465 | 09097409  WEBBING GLASS GW154 (30M COIL)50 X 1.5MM
+RECEIVE              | 18163001             |  1 | A4812709 |     80    | EA | _______ | Putaway   | 11/11 07:55 | SM563122 | 05122307  TAPE P.T.F.E. EBONY 12MM X  5M          
+RECEIVE              | 18164401             |  1 | A4813133 |      2    | EA | _______ | Putaway   | 11/11 11:36 | SM563465 | 09098505  ROPE GLASS FIBRE GFR1 (30M COIL) 20.0MM 
+RECEIVE              | 18180903             |  1 | A4813153 |      4    | EA | _______ | Putaway   | 11/11 12:39 | SM563660 | 03495659  PADLOCK DISKUS ABUS 24KA 70MM S/S BODY  
+RECEIVE              | 18214801             |  1 | A4813239 |    100    | EA | _______ | Putaway   | 11/11 13:17 | SM563736 | 04470156  SCREW SKT BTN HD SS304 METRIC 5X10MM    
+RECEIVE              | 18215201             |  1 | A4813185 |    100    | EA | _______ | Putaway   | 11/11 12:58 | SM563500 | 04464954  SCREW SKT CSK HD SS316 METRIC 8X40MM    
+RECEIVE              | 18565801             |  1 | A4812792 |      2    | EA | _______ | Putaway   | 11/11 08:45 |          | 07573501  INSERT HAMMER COPPER THOR 3/314C 44MM   
+RECEIVE              | 18573801             |  1 | A4812846 |      5    | EA | _______ | Putaway   | 11/11 09:34 | SM563236 | 06528900  GAUGE FEELER STARRETT 173MA             
+RECEIVE              | 18604801             |  1 | A4812791 |    400    | EA | _______ | Putaway   | 11/11 08:42 | SM563611 | 00482579  SWEATBAND TERRY TOWELLING               
+RECEIVE              | 18633201             |  1 | A4813043 |     16    | PH | _______ | Putaway   | 11/11 10:49 | SM563348 | 02402752  TIE CABLE 445X4.8MM BLK PLT5S-CO PK100  
+RECEIVE              | 18635801             |  1 | A4812705 |      1    | EA | _______ | Putaway   | 11/11 07:52 | SM563722 | 09852493  DIAL INDICATOR M&W 0 TO 10MM            
+RECEIVE              | 18673901             |  1 | A4812984 |    300    | EA | _______ | Putaway   | 11/11 09:59 | SM562770 | 08163716  SCREW SET HEX HD CL4.6 ZP 10X35MM       
+RECEIVE              | 18682601             |  1 | A4813382 |     25    | EA | _______ | Putaway   | 11/11 15:32 | SM564073 | 09913318  BOLT&NUT HEX HT CL8.8 BLK 16X25MM       
+RECEIVE              | 18734801             |  1 | A4813077 |      6    | EA | _______ | Putaway   | 11/11 10:58 | SM561884 | 04933259  CURTIN WELDING ARC SAFE 1.8X2.0M RED    
+RECEIVE              | 19034904             |  1 | A4813358 |      1    | EA | _______ | Putaway   | 11/11 15:27 | SM561568 | 05804104  DIE WARRAGUL SOLID SQ. NO.1 BSPT 3/4"   
+RECEIVE              | 19100901             |  1 | A4813399 |      9    | EA | _______ | Putaway   | 11/11 15:56 | SM563464 | 04948906  EYEBOLT BSS DROP FORGED BLK UNC 3/8"    
+RECEIVE              | 19130301             |  1 | A4813301 |      4    | CA | _______ | Putaway   | 11/11 13:52 | SM563940 | 00366654  PAD FLOOR CLEANER BLUE 5300 40CM (CTN 5)
+RECEIVE              | 19131501             |  1 | A4813184 |    200    | EA | _______ | Putaway   | 11/11 12:58 | SM563500 | 00361804  BOLT HEX HD SS304 METRIC 12X50MM        
+RECEIVE              | 19150401             |  1 | A4813322 |      2    | EA | _______ | Putaway   | 11/11 14:12 | SM564112 | 06950206  CLAMP TOGGLE HORIZ PLUNGER T110         
+RECEIVE              | 19164101             |  1 | A4813289 |      1    | EA | _______ | Putaway   | 11/11 13:47 | SM563461 | 00806973  WRENCH TORQUE PROF ADJ NORBAR 330 1/2"DR
+RECEIVE              | 19202201             |  1 | A4813134 |     48    | RL | _______ | Putaway   | 11/11 11:51 | SM564023 | 00431657  TAPE MASKING G/PURP TESA 4307 19MM X 50M
+RECEIVE              | 19531903             |  1 | A4810011 |      1    | EA | _______ | Putaway   | 05/11 09:31 | SM562637 | 06972802  DIVIDERS ROUND LEG TOOLMAKERS 277 150MM 
+RECEIVE              | 19565401             |  1 | A4812700 |     10    | EA | _______ | Putaway   | 11/11 07:52 | SM563722 | 03064104  BOLT HEX HT GR8 ZP UNC 1X4              
+RECEIVE              | 19595801             |  1 | A4812419 |    150    | EA | _______ | Putaway   | 08/11 12:55 | SM563578 | 03475351  SLING ROUND SYNTHETIC JBS 2TX2M GRN     
+RECEIVE              | 19604501             |  1 | A4812853 |     12    | EA | _______ | Putaway   | 11/11 09:34 | SM563236 | 07062009  WRENCH PIPE DROP FORGED 300MM 12"       
+RECEIVE              | 19615602             |  1 | A4812992 |      3    | EA | _______ | Putaway   | 11/11 10:03 | SM563620 | 00708754  BRACKET BOLT/WELD-ON SINGLE ELTRAK ED19 
+RECEIVE              | 19662901             |  1 | A4812751 |    500    | EA | _______ | Putaway   | 11/11 08:15 | SM563724 | 08762311  SCREW STS CSK PHIL ZP 10GX2 (250)       
+RECEIVE              | 19662901             |  1 | A4813320 |   1000    | EA | _______ | Putaway   | 11/11 14:04 | SM564100 | 08762311  SCREW STS CSK PHIL ZP 10GX2 (250)       
+RECEIVE              | 20014301             |  1 | A4812821 |      5    | EA | _______ | Putaway   | 11/11 09:06 | SM562991 | 07889945  BLADES BI-METAL STEEL FATMAX XTREME PK10
+RECEIVE              | 20033502             |  1 | A4813164 |      5    | EA | _______ | Putaway   | 11/11 12:47 | SM563750 | 04391461  NUT DRIVER 1000V KNIPEX 98-03 7MM       
+RECEIVE              | 20034701             |  1 | A4812840 |     48    | EA | _______ | Putaway   | 11/11 09:34 | SM563236 | 04389865  KNIFE CABLE 1000V KNIPEX 98-52 180MM    
+RECEIVE              | 20041601             |  1 | A4812994 |      8    | EA | _______ | Putaway   | 11/11 10:03 | SM563620 | 04118859  CARRIAGE 2 WHEEL NYLON ELTRAK EH7       
+RECEIVE              | 20055303             |  1 | A4813178 |      2    | EA | _______ | Putaway   | 11/11 12:55 | SM563456 | 07300703  TOOL PLASTERERS SMALL NO.26 1/2" 13MM   
+RECEIVE              | 20075001             |  1 | A4812848 |     12    | EA | _______ | Putaway   | 11/11 09:34 | SM563236 | 07106800  BAR WRECKING 450 X 16MM 18" X 5/8"      
+RECEIVE              | 20086002             |  1 | A4813142 |     54    | EA | _______ | Putaway   | 11/11 11:53 | SM563096 | 04306345  SUNSCREEN 30+ SPRAY HAMILTON 100ML      
+RECEIVE              | 20096202             |  1 | A4813162 |     40    | PR | _______ | Putaway   | 11/11 12:47 | SM563582 | 04933355  BOWYANGS DUST COT DRILL ELASTIC TOP     
+RECEIVE              | 20101301             |  1 | A4813338 |      1    | EA | _______ | Putaway   | 11/11 14:42 | SM563444 | 07283707  SHEARS RH CRANKED HNDLE GILBOW 691 350MM
+RECEIVE              | 20115002             |  1 | A4812982 |    105    | EA | _______ | Putaway   | 11/11 09:58 | SM555054 | 03381851  PADLOCK 50MM EBONY 26MM HARD STL SHKLE  
+RECEIVE              | 20164801             |  1 | A4812850 |     12    | EA | _______ | Putaway   | 11/11 09:34 | SM563236 | 07277001  TRAMMEL HEADS ECLIPSE 33 (PAIR) 19-38MM 
+RECEIVE              | 20184401             |  1 | A4812849 |     84    | EA | _______ | Putaway   | 11/11 09:34 | SM563236 | 07194304  SCRAPER PAINT S/STEEL BLADE  38MM 1 1/2"
+RECEIVE              | 20233801             |  1 | A4813166 |      1    | EA | _______ | Putaway   | 11/11 12:47 | SM563750 | 07296503  HYDRAULIC RAM PULLER SPARE P/VANT 150000
+RECEIVE              | 20234001             |  1 | A4812845 |      3    | EA | _______ | Putaway   | 11/11 09:34 | SM563236 | 06378215  SNIPS COMPOUND RH OFFSET 250MM 235MM    
+RECEIVE              | 20513606             |  1 | A4812555 |      5    | EA | _______ | Putaway   | 08/11 14:14 | SM562759 | 05578809  BIT POWER 1/4"HEX PHILLIPS #1 70MM 41194
+RECEIVE              | 20515204             |  1 | A4813157 |      4    | EA | _______ | Putaway   | 11/11 12:42 | SM561563 | 06051804  CUTTER COUNTERSINK 90DEG 5/8" (0.635")  
+     COMPANY : J. BLACKWOOD & SON LIMITED      
+     PUTAWAY LIST AT MONDAY, NOVEMBER 11, 2013 16:00     PAGE   7
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                  Location                       | Stock ID | Quantity  | UOM| Confirm | Putaway   | Date & Time | Receipt  | Product
+         From        |          To          |  # |          |           |    |         | Priority  |             | Number   |        
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+RECEIVE              | 20515404             |  1 | A4813161 |      2    | EA | _______ | Putaway   | 11/11 12:43 | SM563163 | 06053404  CUTTER COUNTERSINK 90DEG 1 1/4" (1.260")
+RECEIVE              | 20532503             |  1 | A4813156 |      2    | EA | _______ | Putaway   | 11/11 12:42 | SM561563 | 06049803  CUTTER COUNTERSINK 90 DEG  1/4" (0.260")
+RECEIVE              | 20544801             |  1 | A4813238 |    100    | EA | _______ | Putaway   | 11/11 13:17 | SM563736 | 04462355  SCREW SKT CSK HD SS316 METRIC 3X6MM     
+RECEIVE              | 20560101             |  1 | A4813324 |   1000    | EA | _______ | Putaway   | 11/11 14:17 | SM563730 | 00900643  SCREW SDM HEX S500 CL3 12-24X50MM       
+RECEIVE              | 20560101             |  1 | A4813384 |     11    | EA | _______ | Putaway   | 11/11 15:32 | SM564073 | 02834407  BOLT&NUT HEX HD CL4.6 GAL 24X120MM      
+RECEIVE              | 20560101             |  1 | A4813379 |    500    | EA | _______ | Putaway   | 11/11 15:32 | SM564073 | 06258513  WASHER FLAT STD NYLON 12X24.0X2.50MM    
+RECEIVE              | 20560101             |  1 | A4813175 |      1    | EA | _______ | Putaway   | 11/11 12:54 | SM555054 | 06734217  VEST H/V D/N TAIL H BACK CHVV0040 YE 107
+RECEIVE              | 20562703             |  1 | A4813350 |      1    | EA | _______ | Putaway   | 11/11 14:49 | SM564087 | 07164208  DRILL MASONRY TCT TYPE SF 13.0MM        
+RECEIVE              | 20571801             |  1 | A4813080 |      1    | EA | _______ | Putaway   | 11/11 11:09 | SM563418 | 03563056  GUN TWECO NO.4 4.5M LEAD 717335         
+RECEIVE              | 20574104             |  1 | A4813245 |     10    | EA | _______ | Putaway   | 11/11 13:22 | SM561812 | 02127101  TIP COPPER 3.2MM CONICAL S/IRON SCOPE 1B
+RECEIVE              | 20575105             |  1 | A4813004 |      1    | EA | _______ | Putaway   | 11/11 10:09 | SM563581 | 03855702  DRILL LONG SERIES STRAIGHT SHANK 12.0MM 
+RECEIVE              | 20583201             |  1 | A4812838 |     30    | EA | _______ | Putaway   | 11/11 09:34 | SM563236 | 02918718  HOLESAW STARRETT DH2532         20MM    
+RECEIVE              | 20673601             |  1 | A4812745 |      1    | EA | _______ | Putaway   | 11/11 08:13 |          | 07984103  HOLESAW STARRETT DH0334 3 3/4  95MM     
+RECEIVE              | 20682102             |  1 | A4813013 |    200    | EA | _______ | Putaway   | 11/11 10:16 | SM516844 | 01327792  SCREW CAP SKT HD ZP UNBRAKO 5X20MM      
+RECEIVE              | 20724801             |  1 | A4812698 |      1    | EA | _______ | Putaway   | 11/11 07:52 | SM563722 | 00504555  PYROPEN SOLDER KIT BUTANE WELLER WSTA3  
+RECEIVE              | 22040401             |  1 | A4813317 |     20    | EA | _______ | Putaway   | 11/11 14:03 | SM562792 | 07190405  HANDLE TIMBER SHOVEL LONG STR A1 1300MM 
+RECEIVE              | 22560202             |  1 | A4813122 |     10    | EA | _______ | Putaway   | 11/11 11:29 | SM562588 | 03101003  ELBOW MALLEABLE GALV F & F 90 DEG  25 NB
+RECEIVE              | 22600103             |  1 | A4813237 |    305    | MR | _______ | Putaway   | 11/11 13:17 | SM563736 | 03785873  ROPE WIRE 7/19 S/S316 5/32"             
+RECEIVE              | 22650103             |  1 | A4812023 |     50    | MR | _______ | Putaway   | 08/11 08:02 | SM563148 | 01788606  ROPE WIRE 7/19 S/S304 2.5MM             
+RECEIVE              | 22720101             |  1 | A4812020 |   1000    | MR | _______ | Putaway   | 08/11 08:02 | SM563148 | 01141201  ROPE WIRE 6/19 F/C GAL G1570 RHOL 6MM   
+RECEIVE              | 23040101             |  1 | A4812150 |      1    | EA | _______ | Putaway   | 08/11 09:53 | SM563147 | 05295014  ROTARY TOOL 10.8V CORDLESS DREMEL 8200  
+RECEIVE              | 23040101             |  1 | A4812665 |      1    | EA | _______ | Putaway   | 11/11 07:16 | SM563416 | 05295014  ROTARY TOOL 10.8V CORDLESS DREMEL 8200  
+RECEIVE              | 23080401             |  1 | A4812544 |      2    | EA | _______ | Putaway   | 08/11 14:14 | SM562759 | 04047555  TOOL SET METRIC&A/F 60 PIECE SID 10175  
+RECEIVE              | 23100602             |  1 | A4812455 |      2    | EA | _______ | Putaway   | 08/11 13:04 | SM563410 | 03881909  PEN ENGRAVING ATLAS COPCO P2505         
+RECEIVE              | 26590201             |  1 | A4813361 |      1    | EA | _______ | Putaway   | 11/11 15:31 | SM563167 | 03851405  DRILL SET NO.M4 1.5-6.5MM X 0.5MM 13PCE 
+RECEIVE              | 27050201             |  1 | A4812805 |      6    | EA | _______ | Putaway   | 11/11 09:01 | SM563290 | 01328812  MILO 1.9KG TIN                          
+RECEIVE              | 27540201             |  1 | A4812812 |      1    | EA | _______ | Putaway   | 11/11 09:02 | SM563569 | 06763372  WRENCH TORQUE 1/2 SQ DR 40-200NM JBS    
+RECEIVE              | 27560201             |  1 | A4813333 |      1    | EA | _______ | Putaway   | 11/11 14:33 | SM561555 | 06081612  SANDER BELT 2S 75X533MM HITACHI SB8V2(H1
+RECEIVE              | 28590101             |  1 | A4812879 |    100    | PR | _______ | Putaway   | 11/11 09:40 | SM563639 | 06215734  GLOVES UNIDUR DYNEEMA UD6641F2 PU GRY 9 
+RECEIVE              | 29120302             |  1 | A4812655 |      6    | EA | _______ | Putaway   | 11/11 07:06 |          | 08268608  BLOWGUN DUSTMASTER 07.0640              
+RECEIVE              | 29120302             |  1 | A4812656 |      6    | EA | _______ | Putaway   | 11/11 07:07 |          | 08268608  BLOWGUN DUSTMASTER 07.0640              
+RECEIVE              | 29160501             |  1 | A4812960 |     24    | EA | _______ | Putaway   | 11/11 09:57 | SM563171 | 03020113  WRENCH HEX SET METRIC WALLET RED UNBRAKO
+RECEIVE              | 29630601             |  1 | A4812961 |     10    | EA | _______ | Putaway   | 11/11 09:57 | SM555340 | 00235358  DRILL JBS PNEUMATIC 13MM                
+RECEIVE              | 33520502             |  1 | A4813159 |     15    | EA | _______ | Putaway   | 11/11 12:42 | SM563176 | 07184709  HANDLE HAMMER SLEDGE O/EYE 1ST GR 1050MM
+RECEIVE              | 34130101             |  1 | A4813148 |      8    | EA | _______ | Putaway   | 11/11 12:02 | SM563948 | 04862215  DRIVER STEEL FENCE POST 800MM           
+RECEIVE              | 34760401             |  1 | A4811909 |      7    | EA | _______ | Putaway   | 07/11 14:12 | SM562658 | 08440604  VEE BELT B SECTION B78 / MET B2020      
+RECEIVE              | 36030207             |  1 | A4813020 |     12    | EA | _______ | Putaway   | 11/11 10:34 | SM546547 | 03881254  ALLTHREAD ROD STL GAL METRIC 1MTRX20MM  
+RECEIVE              | 36030207             |  1 | A4813021 |     90    | EA | _______ | Putaway   | 11/11 10:35 | SM551019 | 03881254  ALLTHREAD ROD STL GAL METRIC 1MTRX20MM  
+RECEIVE              | 37150501             |  1 | A4813033 |     55    | EA | _______ | Putaway   | 11/11 10:41 | SM562787 | 02456209  SCREW SKT BTN HD UNBRAKO UNC 1/4X1/2    
+RECEIVE              | 37150501             |  1 | A4812852 |      7    | EA | _______ | Putaway   | 11/11 09:34 | SM563236 | 04858658  WRENCH ADJUSTABLE JBS MASTERS 250MM     
+RECEIVE              | 37160401             |  1 | A4813137 |    576    | EA | _______ | Putaway   | 11/11 11:51 | SM564023 | 00543337  TAPE POLYETHYLENE TESA 61008 50MM TRANS 
+RECEIVE              | 38110201             |  1 | A4812929 |     10    | EA | _______ | Putaway   | 11/11 09:54 | SM553747 | 00872550  TROLLEY PLATFORM FOLDING JBS 910X615MM  
+RECEIVE              | 38550102             |  1 | A4812263 |      4    | EA | _______ | Putaway   | 08/11 11:00 | SM563346 | 04478104  BINDER EPOXY MORTAR EPIREZ 133 20LT     
+RECEIVE              | 39550401             |  1 | A4813067 |      7    | EA | _______ | Putaway   | 11/11 10:53 | SM563191 | 03613203  FLANGE C/S ASA 150LB R/FACE BLIND 100NB 
+RECEIVE              | 43570108             |  1 | A4813284 |      3    | EA | _______ | Putaway   | 11/11 13:45 | SM563350 | 00880472  LADDER PRO 150KG BIG TOP 3 0.9M         
+RECEIVE              | 46010110             |  1 | A4813344 |      1    | EA | _______ | Putaway   | 11/11 14:49 | SM563642 | 01676055  THERMOMETER INFARED -30 TO 500C FLU62MAX
+RECEIVE              | 49060201             |  1 | A4813095 |      4    | EA | _______ | Putaway   | 11/11 11:27 | SM561836 | 03121203  TEE MALLEABLE GALV REDUCING    50X20 NB 
+RECEIVE              | 49060201             |  1 | A4813105 |      2    | EA | _______ | Putaway   | 11/11 11:27 | SM561836 | 05485363  BUSH 316 STAINLESS STL BSP 2"X1"        
+     COMPANY : J. BLACKWOOD & SON LIMITED      
+     PUTAWAY LIST AT MONDAY, NOVEMBER 11, 2013 16:00     PAGE   8
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                  Location                       | Stock ID | Quantity  | UOM| Confirm | Putaway   | Date & Time | Receipt  | Product
+         From        |          To          |  # |          |           |    |         | Priority  |             | Number   |        
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+RECEIVE              | 49210301             |  1 | A4813092 |      4    | EA | _______ | Putaway   | 11/11 11:27 | SM561836 | 03094408  BUSH MALLEABLE GALV REDUCING  50 X  20NB
+RECEIVE              | 49210301             |  1 | A4813093 |      4    | EA | _______ | Putaway   | 11/11 11:27 | SM561836 | 03097706  BEND MALLEABLE GALV M & F 90 DEG  20 NB 
+RECEIVE              | 51040101             |  1 | A4811622 |     10    | MR | _______ | Putaway   | 07/11 09:38 | SM562636 | 04904704  CHAIN L/LINK GAL PL10 10MM              
+RECEIVE              | 53510503             |  1 | A4813219 |      1    | EA | _______ | Putaway   | 11/11 13:13 | SM563962 | 06058790  RCBO 1P+N 16A 10KA 30MA 26859           
+RECEIVE              | 63020301             |  1 | A4805796 |      4    | EA | _______ | Putaway   | 28/10 13:57 | SM560711 | 04335108  PRIMER INDUST RED OXIDE GALMET  4 LITRES
+RECEIVE              | 63130301             |  1 | A4813097 |      2    | EA | _______ | Putaway   | 11/11 11:27 | SM561836 | 03133408  ELBOW C/S BUTTWELD 90D S/RAD STD WT 4"  
+RECEIVE              | 63130301             |  1 | A4813339 |      3    | EA | _______ | Putaway   | 11/11 14:42 | SM563444 | 07496507  CUTTER BOLT CENTRE CUT RECORD BC930H    
+RECEIVE              | 63150201             |  1 | A4812874 |      1    | EA | _______ | Putaway   | 11/11 09:39 | SM563341 | 05343464  CABINET KEY MODEL 347 BEIGE 60 KEYS     
+RECEIVE              | 67170501             |  1 | A4812449 |      2    | EA | _______ | Putaway   | 08/11 13:02 | SM563165 | 06732408  OIL SCREWING RIDGID NU-CLEAR  20 LITRES 
+RECEIVE              | 67670101             |  1 | A4811109 |      1    | CA | _______ | Putaway   | 06/11 11:54 | SM562124 | 00584358  SUGAR SINGLE SERVE (2000)               
+RECEIVE              | 67680101             |  1 | A4812102 |      2    | EA | _______ | Putaway   | 08/11 09:01 | SM563088 | 04094321  DEGREASER LANOTEC CITRA-FORCE 20LTR     
+RECEIVE              | 70010101             |  1 | A4813158 |    120    | EA | _______ | Putaway   | 11/11 12:42 | SM563666 | 00722313  LUBRICANT INOX MX3 AERO 300GM MX3-300   
+RECEIVE              | 70010301             |  1 | A4811920 |      2    | EA | _______ | Putaway   | 08/11 05:27 |          | 09609716  REPELLENT AEROGARD TROPICAL AERO 100GM  
+RECEIVE              | 70210201             |  1 | A4812827 |     96    | EA | _______ | Putaway   | 11/11 09:29 | SM563621 | 04404766  INSECTICIDE RAID LOW IRRITANT F/KIL 300G
+RECEIVE              | 70530201             |  1 | A4812529 |     36    | EA | _______ | Putaway   | 08/11 14:06 | SM563427 | 00274302  FLAWFINDER DEVELOPER SPRAY ROCOL 300GM  
+RECEIVE              | 71640101             |  1 | A4812829 |    204    | EA | _______ | Putaway   | 11/11 09:29 | SM563621 | 04404766  INSECTICIDE RAID LOW IRRITANT F/KIL 300G
+RECEIVE              | 75010201             |  1 | A4812910 |      2    | EA | _______ | Putaway   | 11/11 09:52 | SM554057 | 00794682  COMPRESSOR JBS DD10/40 DIRECT DR        
+RECEIVE              | 75010301             |  1 | A4813304 |     50    | EA | _______ | Putaway   | 11/11 13:52 | SM559424 | 00445179  SCREW SKT CAP HD SS316 METRIC 6X60MM    
+RECEIVE              | 75010301             |  1 | A4813297 |      2    | CA | _______ | Putaway   | 11/11 13:51 | SM563623 | 00568361  TOWEL VERSA 4220 100SHT 49.5X41.5CM     
+RECEIVE              | 75010301             |  1 | A4812937 |     10    | EA | _______ | Putaway   | 11/11 09:56 | SM544961 | 00872550  TROLLEY PLATFORM FOLDING JBS 910X615MM  
+RECEIVE              | 75010301             |  1 | A4809437 |      2    | MR | _______ | Putaway   | 04/11 11:30 |          | 01226438  DUCTING EXIMO POLYFLEX HEAVY 152MM      
+RECEIVE              | 75010301             |  1 | A4813292 |     28    | EA | _______ | Putaway   | 11/11 13:48 | SM562522 | 01339250  STRETCHWRAP HAND 500MMX450MX20UM CLEAR  
+RECEIVE              | 75010301             |  1 | A4813335 |     10    | PR | _______ | Putaway   | 11/11 14:37 | SM563003 | 02035653  INSOLES COMFORT FOOTBED BATA 12-13      
+RECEIVE              | 75010301             |  1 | A4813091 |    400    | EA | _______ | Putaway   | 11/11 11:26 | SM563521 | 03581102  SADDLE SUIT BSP PIPE GALV  32MM  1 1/4" 
+RECEIVE              | 75010301             |  1 | A4813395 |      9    | EA | _______ | Putaway   | 11/11 15:55 | SM563708 | 04288006  CARDBOARD CORRUGATED ROLL 1220MM X 75LM 
+RECEIVE              | 75010301             |  1 | A4812915 |   2544    | RL | _______ | Putaway   | 11/11 09:52 | SM554057 | 04371816  TAPE DUCT POLYPAK DT50 SLVR 48MM X 30M  
+RECEIVE              | 75010301             |  1 | A4812921 |   2592    | RL | _______ | Putaway   | 11/11 09:52 | SM554057 | 04371816  TAPE DUCT POLYPAK DT50 SLVR 48MM X 30M  
+RECEIVE              | 75010301             |  1 | A4812926 |    792    | RL | _______ | Putaway   | 11/11 09:53 | SM554057 | 04371816  TAPE DUCT POLYPAK DT50 SLVR 48MM X 30M  
+RECEIVE              | 78210203             |  1 | A4813154 |      1    | PH | _______ | Putaway   | 11/11 12:42 | SM563418 | 01045657  WELDROD CMWELD AL5356 2.5KG 321641 2.4MM
+RECEIVE              | 79160101             |  1 | A4812897 |    340    | RL | _______ | Putaway   | 11/11 09:46 | SM554762 | 00880719  BUNTING SAFETY FLAGS ORANGE 30M ROLL    
+RECEIVE              | 79160101             |  1 | A4812899 |    100    | RL | _______ | Putaway   | 11/11 09:47 | SM554762 | 00880719  BUNTING SAFETY FLAGS ORANGE 30M ROLL    
+RECEIVE              | 80020401             |  1 | A4811929 |      4    | RL | _______ | Putaway   | 08/11 05:50 |          | 01932245  BAGS GARBAGE HARVEYS BLK 25UM 75L (50)  
+RECEIVE              | 81010101             |  1 | A4813299 |    100    | CA | _______ | Putaway   | 11/11 13:51 | SM563623 | 04973918  PAPER TOWEL KLEENEX OPTI 4456 120SH (24)
+RECEIVE              | 81040201             |  1 | A4813296 |     21    | CA | _______ | Putaway   | 11/11 13:50 | SM563339 | 06074566  PAPER TOWEL KIT WHI 4430 (CTN=6X2ROLLS) 
+RECEIVE              | 81050101             |  1 | A4813300 |     60    | CA | _______ | Putaway   | 11/11 13:51 | SM563623 | 05359988  WIPER WYPALL X80 JUMBO 94173 540SHT     
+RECEIVE              | 81170401             |  1 | A4813150 |     82    | EA | _______ | Putaway   | 11/11 12:10 | SM563649 | 04473400  WATER DEMINERALISED DIGGERS 20LT        
+RECEIVE              | 81270101             |  1 | A4812930 |     72    | EA | _______ | Putaway   | 11/11 09:54 | SM542252 | 00977728  CONE TRAFFIC FL/ORANGE REFL 900MM       
+RECEIVE              | 81270101             |  1 | A4812931 |     72    | EA | _______ | Putaway   | 11/11 09:54 | SM542252 | 00977728  CONE TRAFFIC FL/ORANGE REFL 900MM       
+RECEIVE              | 81270101             |  1 | A4812932 |     72    | EA | _______ | Putaway   | 11/11 09:54 | SM542252 | 00977728  CONE TRAFFIC FL/ORANGE REFL 900MM       
+RECEIVE              | 81270101             |  1 | A4812933 |     72    | EA | _______ | Putaway   | 11/11 09:55 | SM542252 | 00977728  CONE TRAFFIC FL/ORANGE REFL 900MM       
+RECEIVE              | 82020101             |  1 | A4812806 |      2    | CA | _______ | Putaway   | 11/11 09:01 | SM563290 | 01455007  WIPERS WYPALL X50 4194 BL 24.5CMX70M (4)
+RECEIVE              | 83190101             |  1 | A4812948 |    960    | PR | _______ | Putaway   | 11/11 09:57 | SM554412 | 06739266  GLOVES PU NYLON ULTRATECH PU 9696 M     
+RECEIVE              | 83410401             |  1 | A4812275 |      1    | EA | _______ | Putaway   | 08/11 11:14 | SM563812 | 08100575  GRINDER BENCH UTILITY JBS 200MM         
+RECEIVE              | 83420101             |  1 | A4813135 |    216    | RL | _______ | Putaway   | 11/11 11:51 | SM564023 | 00431754  TAPE MASKING G/PURP TESA 4307 25MM X 50M
+RECEIVE              | 83420202             |  1 | A4813144 |      6    | EA | _______ | Putaway   | 11/11 11:58 | SM563297 | 04414304  BATTERY LANTERN SUPER H/DUTY 6V ER 1209 
+RECEIVE              | 84370301             |  1 | A4813078 |    312    | EA | _______ | Putaway   | 11/11 11:00 | SM555340 | 03080568  VALVE BALL JBS BRS N/P F&F F/BORE  25MM 
+RECEIVE              | 84410101             |  1 | A4812737 |      1    | RL | _______ | Putaway   | 11/11 08:08 |          | 00912730  TAPE BARRIER DANGER DO NOT ENTER 75X50M 
+RECEIVE              | 85130101             |  1 | A4813000 |     19    | PR | _______ | Putaway   | 11/11 10:06 | SM562819 | 04666983  GAUNTLETS LTHR WELDING GLWG0015 GRN/GLD 
+     COMPANY : J. BLACKWOOD & SON LIMITED      
+     PUTAWAY LIST AT MONDAY, NOVEMBER 11, 2013 16:00     PAGE   9
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                  Location                       | Stock ID | Quantity  | UOM| Confirm | Putaway   | Date & Time | Receipt  | Product
+         From        |          To          |  # |          |           |    |         | Priority  |             | Number   |        
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+RECEIVE              | 85130101             |  1 | A4813018 |    311    | PR | _______ | Putaway   | 11/11 10:26 | SM562819 | 04666983  GAUNTLETS LTHR WELDING GLWG0015 GRN/GLD 
+RECEIVE              | 85290101             |  1 | A4812857 |    160    | PR | _______ | Putaway   | 11/11 09:38 | SM563525 | 01388346  EARMUFF PELTOR H10 H/BAND CL5 H10A      
+RECEIVE              | 85320101             |  1 | A4812777 |     44    | EA | _______ | Putaway   | 11/11 08:35 | SM563034 | 08028615  LIQUID DISHWASHING PALMOLIVE 5 LITRES   
+RECEIVE              | 85350301             |  1 | A4812988 |      1    | EA | _______ | Putaway   | 11/11 10:00 | SM563376 | 04525849  FIRE EXTING DRY CHEM ABE BRS HEAD 9KG   
+RECEIVE              | 85380202             |  1 | A4813215 |      1    | EA | _______ | Putaway   | 11/11 13:12 | SM563570 | 00540294  SOCKET SET MET 3/4" DR 20 PCE RM6021 JBS
+RECEIVE              | 86040201             |  1 | A4813146 |    228    | PR | _______ | Putaway   | 11/11 11:58 | SM563297 | 06750316  GLOVES LEATHER PREMIUM WARHORSE 3211 M  
+RECEIVE              | 86190101             |  1 | A4813268 |    200    | BX | _______ | Putaway   | 11/11 13:42 | SM563988 | 00636250  GLOVES BLACK LIGHTNING L (100)          
+RECEIVE              | 87020105             |  1 | A4813126 |     26    | EA | _______ | Putaway   | 11/11 11:29 | SM562588 | 03168703  BUSH STEEL STEAM HEXAGONAL   8NB X  6NB 
+RECEIVE              | 87020203             |  1 | A4813003 |      3    | EA | _______ | Putaway   | 11/11 10:09 | SM563581 | 01160305  SHACKLE BOW GR S SCREW PIN 16MM 3.2T WLL
+RECEIVE              | 87030204             |  1 | A4812688 |     40    | EA | _______ | Putaway   | 11/11 07:44 | SM563728 | 02815002  NUT HEX CL5 BLK 36X4.0MM                
+RECEIVE              | 87030801             |  1 | A4813280 |     15    | EA | _______ | Putaway   | 11/11 13:44 | SM563779 | 02870054  SOCKET HI-COUP STL NITTO 40SF 1/2"BSPTF 
+RECEIVE              | 87030804             |  1 | A4812707 |     38    | EA | _______ | Putaway   | 11/11 07:52 | SM563722 | 04594661  SLEEVE ANCHOR 316 S/S HEX NUT DP10075SS 
+RECEIVE              | 87070703             |  1 | A4813006 |    600    | EA | _______ | Putaway   | 11/11 10:15 | SM563505 | 01888302  SCREW CAP SKT HD UNBRAKO 6X35MM         
+RECEIVE              | 87110903             |  1 | A4812669 |      1    | PH | _______ | Putaway   | 11/11 07:26 | SM563295 | 08046600  ELECTRODE FERRO/C 61 5KG* 611344  4.00MM
+RECEIVE              | 87120702             |  1 | A4813025 |     50    | EA | _______ | Putaway   | 11/11 10:41 | SM562787 | 01898703  SCREW CAP SKT HD UNBRAKO 20X70MM        
+RECEIVE              | 87130103             |  1 | A4812825 |    100    | EA | _______ | Putaway   | 11/11 09:29 | SM563621 | 04213160  CLEANER TOILET JOHNSON GO GETTER 5LITRES
+RECEIVE              | 87140303             |  1 | A4812893 |    144    | PR | _______ | Putaway   | 11/11 09:45 | SM554762 | 06740235  GLOVES LATEX NYLON ULTRATECH W9680R XL  
+RECEIVE              | 87150702             |  1 | A4813051 |     31    | EA | _______ | Putaway   | 11/11 10:51 | SM563439 | 03193600  SOCKET STEEL STEAM FULL  40 NB          
+RECEIVE              | 87160802             |  1 | A4812835 |   5600    | EA | _______ | Putaway   | 11/11 09:34 | SM563236 | 02094904  NUT NYLON INSERT LOCK ZP UNC 1/2        
+RECEIVE              | 87180402             |  1 | A4812945 |      8    | EA | _______ | Putaway   | 11/11 09:57 | SM554412 | 06788753  TOTE TECHNICIANS JBS TT220.1            
+RECEIVE              | 87180504             |  1 | A4813200 |      1    | EA | _______ | Putaway   | 11/11 13:05 | SM563194 | 01153321  VALVE GATE SS316 200 SCREWED 20MM       
+RECEIVE              | 88030505             |  1 | A4812699 |     18    | EA | _______ | Putaway   | 11/11 07:52 | SM563722 | 00605268  BOLT HEX HT CL8.8 ZP 10X65MM            
+RECEIVE              | 88040504             |  1 | A4812704 |      5    | EA | _______ | Putaway   | 11/11 07:52 | SM563722 | 09818782  PLIER DIAGONAL SIDCHROME 28512 200MM    
+RECEIVE              | 88050805             |  1 | A4813002 |      1    | EA | _______ | Putaway   | 11/11 10:09 | SM563581 | 00067082  DRILL HSSS JOBBER COBALT 12.0MM         
+RECEIVE              | 88060404             |  1 | A4813112 |      8    | EA | _______ | Putaway   | 11/11 11:29 | SM562279 | 03108404  NIPPLE MALLEABLE GALV HEXAGONAL  20 NB  
+RECEIVE              | 88080401             |  1 | A4813099 |     85    | EA | _______ | Putaway   | 11/11 11:27 | SM561836 | 03168907  BUSH STEEL STEAM HEXAGONAL  10NB X  8NB 
+RECEIVE              | 88080703             |  1 | A4812752 |      1    | EA | _______ | Putaway   | 11/11 08:15 |          | 00682053  APPLICATOR EPX 9170 S/WELD FOR DUOPACK  
+RECEIVE              | 88090201             |  1 | A4812895 |    112    | EA | _______ | Putaway   | 11/11 09:45 | SM554762 | 03079765  VALVE BALL JBS BRS N/P F&F F/BORE   8MM 
+RECEIVE              | 88090503             |  1 | A4812851 |     10    | EA | _______ | Putaway   | 11/11 09:34 | SM563236 | 07358108  SPANNER COMBINATION RING/OE METRIC  8MM 
+RECEIVE              | 88110905             |  1 | A4813274 |      4    | EA | _______ | Putaway   | 11/11 13:44 | SM563779 | 00566950  HOSE SPRIAL NITTO CUPLA COMB B 10X6.5X4M
+RECEIVE              | 88120201             |  1 | A4813323 |      2    | EA | _______ | Putaway   | 11/11 14:12 | SM564112 | 06959508  VICE ENG PLN SCREW CAST IRON DAWN 100MM 
+RECEIVE              | 88130603             |  1 | A4813136 |     24    | EA | _______ | Putaway   | 11/11 11:51 | SM564023 | 00492557  TAPE CLOTH GAFFER 50253 48MMX25M BLACK  
+RECEIVE              | 88171001             |  1 | A4812834 |      2    | EA | _______ | Putaway   | 11/11 09:34 | SM563750 | 05538108  CUTTER BOLT HT CENTRE CUT NBC750H  750MM
+RECEIVE              | 89030705             |  1 | A4812908 |    110    | EA | _______ | Putaway   | 11/11 09:50 | SM555054 | 03656406  SOCKET 316 STAINLESS STL SCD BSP 1"     
+RECEIVE              | 89030902             |  1 | A4812917 |      2    | EA | _______ | Putaway   | 11/11 09:52 |          | 01484617  VALVE BALL 316SS BSPT 2PIECE 10MM       
+RECEIVE              | 89031001             |  1 | A4812916 |      1    | EA | _______ | Putaway   | 11/11 09:52 |          | 00337702  VALVE BALL 316SS BSPT 1PIECE 15MM       
+RECEIVE              | 89031001             |  1 | A4812976 |    126    | EA | _______ | Putaway   | 11/11 09:58 | SM555054 | 00337702  VALVE BALL 316SS BSPT 1PIECE 15MM       
+RECEIVE              | 89040205             |  1 | A4812942 |     10    | EA | _______ | Putaway   | 11/11 09:57 | SM554412 | 06183944  TROUSERS BREATH W/PRF CWWB0010 YE 92R   
+RECEIVE              | 89040605             |  1 | A4813044 |      2    | PH | _______ | Putaway   | 11/11 10:49 | SM563348 | 02403557  TIE CABLE 627X7.6MM BLK PLT7LH-L0 (50)  
+RECEIVE              | 89041003             |  1 | A4812742 |      1    | EA | _______ | Putaway   | 11/11 08:11 |          | 01484685  VALVE BALL 316SS BSPT 2PIECE 20MM       
+RECEIVE              | 89041005             |  1 | A4812909 |      2    | EA | _______ | Putaway   | 11/11 09:51 | SM551019 | 09856641  VALVE BALL SCREWED T/PORT SS316 20MM    
+RECEIVE              | 89060601             |  1 | A4813393 |    330    | EA | _______ | Putaway   | 11/11 15:53 | SM563413 | 05578605  BIT POWER 1/4"HEX PHILLIPS #2 49MM 41174
+RECEIVE              | 89090704             |  1 | A4813110 |     35    | EA | _______ | Putaway   | 11/11 11:29 | SM562279 | 03103001  ELBOW MALLEABLE GALV F & F 90 DEG  50 NB
+RECEIVE              | 89100103             |  1 | A4813372 |     90    | EA | _______ | Putaway   | 11/11 15:32 | SM564073 | 02832001  BOLT&NUT HEX HD CL4.6 GAL 20X240MM      
+RECEIVE              | 89130302             |  1 | A4812969 |     16    | EA | _______ | Putaway   | 11/11 09:57 | SM555340 | 00337654  TARPAULIN POLY H/W GREEN/SILVER 20X24FT 
+RECEIVE              | 90040401             |  1 | A4813068 |     20    | EA | _______ | Putaway   | 11/11 10:53 | SM563191 | 03192601  SOCKET STEEL STEAM HALF  50 NB          
+RECEIVE              | 90050804             |  1 | A4812877 |     10    | EA | _______ | Putaway   | 11/11 09:40 | SM563639 | 03475895  LENS REPLACEMENT ULTRASONIC CL 9302-615F
+RECEIVE              | 90060604             |  1 | A4812809 |      3    | EA | _______ | Putaway   | 11/11 09:02 | SM563569 | 01138243  SANITISER LEMON SUSTAINABLE LAND 5L     
+     COMPANY : J. BLACKWOOD & SON LIMITED      
+     PUTAWAY LIST AT MONDAY, NOVEMBER 11, 2013 16:00     PAGE  10
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                  Location                       | Stock ID | Quantity  | UOM| Confirm | Putaway   | Date & Time | Receipt  | Product
+         From        |          To          |  # |          |           |    |         | Priority  |             | Number   |        
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+RECEIVE              | 90090401             |  1 | A4813104 |      2    | EA | _______ | Putaway   | 11/11 11:27 | SM561836 | 03627804  FLANGE PLATE STEEL BLANK DLD TBL E 100NB
+RECEIVE              | 90090602             |  1 | A4812345 |    100    | EA | _______ | Putaway   | 08/11 11:35 | SM563759 | 07367607  WRENCH ADJUSTABLE CHROME 250MM JBS      
+RECEIVE              | 90100602             |  1 | A4812795 |     60    | EA | _______ | Putaway   | 11/11 08:51 | SM563651 | 00665554  PLUG TOP PVC 3PIN 10A 250V 439STR TRANS 
+RECEIVE              | 91030903             |  1 | A4812727 |      6    | EA | _______ | Putaway   | 11/11 08:04 | SM563577 | 03606285  SUNSCREEN 30+ BODYGUARD/INSECT REP 1LT  
+RECEIVE              | 91030903             |  1 | A4812793 |      6    | EA | _______ | Putaway   | 11/11 08:47 | SM563577 | 03606285  SUNSCREEN 30+ BODYGUARD/INSECT REP 1LT  
+RECEIVE              | 91050703             |  1 | A4813378 |    200    | EA | _______ | Putaway   | 11/11 15:32 | SM564073 | 06258319  WASHER FLAT STD NYLON 8X18.0X2.0MM      
+RECEIVE              | 91051004             |  1 | A4813387 |      3    | PH | _______ | Putaway   | 11/11 15:47 | SM562856 | 08169255  BAG VACUUM 69042850 TO SUIT NT 65/2 (5) 
+RECEIVE              | 91060701             |  1 | A4813321 |      1    | EA | _______ | Putaway   | 11/11 14:12 | SM564112 | 06443313  ADAPTOR JAW SET PIPE VICE SG DUC/IRON   
+RECEIVE              | 91070905             |  1 | A4811970 |     50    | PH | _______ | Putaway   | 08/11 07:45 | SM563340 | 00741200  FILTER 3M DISC 2135/2091 P2/P3 2/PK     
+RECEIVE              | 91080901             |  1 | A4812376 |      2    | EA | _______ | Putaway   | 08/11 11:46 | SM563758 | 01016931  KEY HEX BALL END JBS 6MM                
+RECEIVE              | 91090602             |  1 | A4812819 |      3    | EA | _______ | Putaway   | 11/11 09:06 | SM562991 | 04525985  BLANKET FIRE 1.8M X 1.8M                
+RECEIVE              | 92070902             |  1 | A4812949 |     11    | EA | _______ | Putaway   | 11/11 09:57 | SM554412 | 06756912  CLAMP H/D QUICK ACTION 300MM JBS        
+RECEIVE              | 92070903             |  1 | A4812940 |     60    | EA | _______ | Putaway   | 11/11 09:57 | SM554412 | 04324705  VEST HIVIS D/N CHVV0010 YELLOW L 107    
+RECEIVE              | 92080605             |  1 | A4813367 |      2    | EA | _______ | Putaway   | 11/11 15:31 | SM563167 | 06673509  TAP HSGT HAND TAPER  MET  8.0MM X 1.25MM
+RECEIVE              | 92090804             |  1 | A4813094 |      3    | EA | _______ | Putaway   | 11/11 11:27 | SM561836 | 03098103  BEND MALLEABLE GALV M & F 90 DEG  50 NB 
+RECEIVE              | 92100503             |  1 | A4812880 |     30    | BX | _______ | Putaway   | 11/11 09:40 | SM563639 | 06479965  EARPLUG X-FIT DISP CLASS 5 XF-UC (200)  
+RECEIVE              | 93030204             |  1 | A4813311 |     20    | PH | _______ | Putaway   | 11/11 13:57 | SM562454 | 04791083  FILTER 3M CART 6035 P2/P3 2 PAIRS/PACK  
+RECEIVE              | 93040602             |  1 | A4812654 |      2    | EA | _______ | Putaway   | 11/11 07:04 |          | 08315917  ADAPTOR S/TAP BRS 1/2"TAP 3/4"BSP NL-01B
+RECEIVE              | 93050202             |  1 | A4813138 |     48    | EA | _______ | Putaway   | 11/11 11:51 | SM564023 | 04076794  TAPE MASKING G/PURP TESA 4307 72MM X 50M
+RECEIVE              | 93050303             |  1 | A4812914 |     72    | EA | _______ | Putaway   | 11/11 09:52 | SM554057 | 05231009  LEAD EXT SET HEAVY DUTY 10A 10M YELLOW  
+RECEIVE              | 93050801             |  1 | A4813398 |      2    | EA | _______ | Putaway   | 11/11 15:56 | SM563464 | 04697600  TURNBUCKLE STUB END H/DUTY BLK 24MM     
+RECEIVE              | 93130904             |  1 | A4812886 |      2    | PR | _______ | Putaway   | 11/11 09:41 | SM553703 | 02159178  GLOVES CHR HEXARMOR 4030 OASIS 8/M      
+RECEIVE              | 94010902             |  1 | A4811924 |      1    | EA | _______ | Putaway   | 08/11 05:40 |          | 00739168  EPOXY MORTAR PATCH EPIREZ MULTI II 3KG  
+RECEIVE              | 94080101             |  1 | A4813076 |      3    | EA | _______ | Putaway   | 11/11 10:58 | SM561884 | 04933157  CURTAIN WELDING ARC SAFE 1.8X2.0M GREEN 
+RECEIVE              | 94080101             |  1 | A4813083 |      9    | EA | _______ | Putaway   | 11/11 11:17 | SM561884 | 04933157  CURTAIN WELDING ARC SAFE 1.8X2.0M GREEN 
+RECEIVE              | 94080101             |  1 | A4813084 |     21    | EA | _______ | Putaway   | 11/11 11:18 | SM563054 | 04933157  CURTAIN WELDING ARC SAFE 1.8X2.0M GREEN 
+RECEIVE              | 94130301             |  1 | A4812878 |     50    | EA | _______ | Putaway   | 11/11 09:40 | SM563639 | 04105677  LENS REPLACEMENT ULTRASONIC SM 9302-616F
+RECEIVE              | 95130301             |  1 | A4813088 |      3    | EA | _______ | Putaway   | 11/11 11:23 | SM563296 | 05976272  HYDRAULIC PULLER KIT JBS HPK-25P        
+RECEIVE              | 95190101             |  1 | A4812826 |    100    | EA | _______ | Putaway   | 11/11 09:29 | SM563621 | 04214854  DISINFECTANT CLEANER SHIELD PINE 5LTR   
+RECEIVE              | 95250201             |  1 | A4812894 |      2    | EA | _______ | Putaway   | 11/11 09:45 | SM554762 | 00966356  TROLLEY SHELF JBS 2TIER L725XW468XH945  
+RECEIVE              | 95260101             |  1 | A4812861 |    100    | EA | _______ | Putaway   | 11/11 09:38 | SM563525 | 05225654  HARD HAT VENTED 620V WHITE              
+RECEIVE              | 96080101             |  1 | A4812776 |    152    | EA | _______ | Putaway   | 11/11 08:35 | SM563034 | 00761974  CLEANER ALL PURPOSE SPRAY NIFTI 500ML   
+RECEIVE              | 96120202             |  1 | A4812787 |      1    | EA | _______ | Putaway   | 11/11 08:40 | SM563672 | 00746419  FIRE EXTINGUISHER DRY POWDER B(E) 9KG   
+RECEIVE              | 96400201             |  1 | A4813111 |     18    | EA | _______ | Putaway   | 11/11 11:29 | SM562279 | 03107405  FLANGE MALLEABLE GALV DRLD TABLE D  50NB
+RECEIVE              | 97030202             |  1 | A4812876 |     40    | EA | _______ | Putaway   | 11/11 09:40 | SM563639 | 02901346  GOGGLES ULTRASONIC FIREMANS 9302-342    
+RECEIVE              | 97400202             |  1 | A4812970 |     78    | EA | _______ | Putaway   | 11/11 09:57 | SM555340 | 00471043  LEAD EXT SET HEAVY DUTY 10A 25M YELLOW  
+RECEIVE              | 97410101             |  1 | A4812828 |    120    | EA | _______ | Putaway   | 11/11 09:29 | SM563621 | 05851513  CLEANER TOILET JOHNSON GO GETTER 750ML  
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+TOTAL LOCATIONS  469
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

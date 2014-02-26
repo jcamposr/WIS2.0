@@ -1,0 +1,50 @@
+#!SHIPDEC1!#                                                                                                                        
+AU                                                                                                                                  
+BDRIVER COPY                                                                                                                        
+CBLA201                                                                                                                             
+D224422                                                                                                                             
+EBAKERS CONSTRUCTION+INDUST                                                                                                         
+ 3 FORGE STREET                                                                                                                     
+ BLACKTOWN NSW 2148                                                                                                                 
+                                                                                                                                    
+ PHONE (02) 9852 2222  FAX (02)9852 2300                                                                                            
+FBLACKSTAR                                                                                                                          
+ 26 TALAVERA RD                                                                                                                     
+                                                                                                                                    
+ PARRAMATTA                        2150                                                                                             
+ PHONE: 1234 1234                                                                                                                   
+GLOCAL                                                                                                                              
+H07   0                                                                                                                             
+I302190684501                                                                                                                       
+JAEROSOLS                                CRC 2017 NF CONTACT CLEANER N/FLAM 400GM2.2   UN1950                 1 KG  00335206        
+J                                                                                                                                   
+J                                                                                                                                   
+J                                                                                                                                   
+KTo Obtain Material Safety Data Sheets (MSDS) visit http://www.msdsonline.com.au/blackwoods/msds/MainMenu.asp                       
+LPrint by DXG  19/02/2013 02:32 pm                                                                                                  
+MPage  1 of  1                                                                                                                      
+#!SHIPDEC1!#                                                                                                                        
+AB                                                                                                                                  
+BWAREHOUSE COPY                                                                                                                     
+CBLA201                                                                                                                             
+D224422                                                                                                                             
+EBAKERS CONSTRUCTION+INDUST                                                                                                         
+ 3 FORGE STREET                                                                                                                     
+ BLACKTOWN NSW 2148                                                                                                                 
+                                                                                                                                    
+ PHONE (02) 9852 2222  FAX (02)9852 2300                                                                                            
+FBLACKSTAR                                                                                                                          
+ 26 TALAVERA RD                                                                                                                     
+                                                                                                                                    
+ PARRAMATTA                        2150                                                                                             
+ PHONE: 1234 1234                                                                                                                   
+GLOCAL                                                                                                                              
+H07   0                                                                                                                             
+I302190684501                                                                                                                       
+JAEROSOLS                                CRC 2017 NF CONTACT CLEANER N/FLAM 400GM2.2   UN1950                 1 KG  00335206        
+J                                                                                                                                   
+J                                                                                                                                   
+J                                                                                                                                   
+KTo Obtain Material Safety Data Sheets (MSDS) visit http://www.msdsonline.com.au/blackwoods/msds/MainMenu.asp                       
+LPrint by DXG  19/02/2013 02:32 pm                                                                                                  
+MPage  1 of  1                                                                                                                      

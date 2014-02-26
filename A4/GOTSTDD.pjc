@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--1/22/2014 10:37:29 AM--><ProjectConditions DataType="_TEXT" FormSet="GOTSTDD">&#xD;
+  <ConditionSet>&#xD;
+    <FieldMap>it1p21n31n.fmp</FieldMap>&#xD;
+    <Condition>&#xD;
+      <FieldName>TRIGGER1</FieldName>&#xD;
+      <Position>&#xD;
+        <Row>1</Row>&#xD;
+        <Column>1</Column>&#xD;
+        <Length>14</Length>&#xD;
+        <Depth>1</Depth>&#xD;
+      </Position>&#xD;
+      <Operation><![CDATA[=]]></Operation>&#xD;
+      <CompareValue><![CDATA[#!ITN2N3N!#]]></CompareValue>&#xD;
+      <CompareType>String</CompareType>&#xD;
+    </Condition>&#xD;
+    <Condition>&#xD;
+      <FieldName>TRIGGER2</FieldName>&#xD;
+      <Position>&#xD;
+        <Row>2</Row>&#xD;
+        <Column>1</Column>&#xD;
+        <Length>3</Length>&#xD;
+        <Depth>1</Depth>&#xD;
+      </Position>&#xD;
+      <Operation><![CDATA[C]]></Operation>&#xD;
+      <CompareValue><![CDATA[U]]></CompareValue>&#xD;
+      <CompareType>String</CompareType>&#xD;
+    </Condition>&#xD;
+  </ConditionSet>&#xD;
+  <PagePrintProfiles>&#xD;
+  </PagePrintProfiles>&#xD;
+</ProjectConditions>

@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--1/20/2014 12:44:59 PM-->
+<FormInformation>
+  <PDFProperties>
+    <PDFKeywords><![CDATA[]]></PDFKeywords>
+    <PDFSubject><![CDATA[]]></PDFSubject>
+    <PDFTitle><![CDATA[]]></PDFTitle>
+    <PDFAuthor><![CDATA[]]></PDFAuthor>
+    <PDFVersion><![CDATA[1.3]]></PDFVersion>
+    <UseEmbedded><![CDATA[False]]></UseEmbedded>
+    <PDFFonts>
+    </PDFFonts>
+  </PDFProperties>
+  <ADDITIONAL_FILES>
+  </ADDITIONAL_FILES>
+  <Page num="1" setting="A4" orientation="Portrait" width="595.28" height="841.89">
+    <LEXPDFOBJ>
+      <xPosFrom00>0.00</xPosFrom00>
+      <yPosFrom00>841.89</yPosFrom00>
+      <ObjWidth>595.28</ObjWidth>
+      <ObjHeight>841.89</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <Angle><![CDATA[0]]></Angle>
+      <IsStatic><![CDATA[1]]></IsStatic>
+      <PageNumber><![CDATA[1]]></PageNumber>
+      <BODY><div>LABELT.PDF </div></BODY>
+    </LEXPDFOBJ>
+    <LEXBARCODEOBJ>
+      <xPosFrom00>58.32</xPosFrom00>
+      <yPosFrom00>807.33</yPosFrom00>
+      <ObjWidth>111.75</ObjWidth>
+      <ObjHeight>72.75</ObjHeight>
+      <Angle><![CDATA[0]]></Angle>
+      <IsStatic><![CDATA[0]]></IsStatic>
+      <BarcodeString><![CDATA[\Begin{4W}\m_nBarCodeID{119}\m_nBarCodeType{1}\m_szText{}\m_nTextLength{8}\m_cPromptChar{120}\m_bCheckSum{1}\m_nPrinterResolution{600}\m_nDisplayingStyle{3}\m_nJustifyStyle{2}\m_dHeight{21.460000}\m_dSpace1{0.320000}\m_dSpace2{0.640000}\m_dSpace3{0.960000}\m_dSpace4{1.280000}\m_dBar1{0.320000}\m_dBar2{0.640000}\m_dBar3{0.960000}\m_dBar4{1.280000}\m_szFontName{COURBD.TTF}\m_nFontSize{12}\End{4W}]]></BarcodeString>
+      <BODY><div><![CDATA[]]><VARIABLE > BRC01 </VARIABLE><![CDATA[]]></div></BODY>
+    </LEXBARCODEOBJ>
+    <LEXBARCODEOBJ>
+      <xPosFrom00>419.76</xPosFrom00>
+      <yPosFrom00>807.33</yPosFrom00>
+      <ObjWidth>111.6</ObjWidth>
+      <ObjHeight>72.72</ObjHeight>
+      <Angle><![CDATA[0]]></Angle>
+      <IsStatic><![CDATA[0]]></IsStatic>
+      <BarcodeString><![CDATA[\Begin{4W}\m_nBarCodeID{119}\m_nBarCodeType{1}\m_szText{}\m_nTextLength{8}\m_cPromptChar{120}\m_bCheckSum{1}\m_nPrinterResolution{600}\m_nDisplayingStyle{3}\m_nJustifyStyle{2}\m_dHeight{21.460000}\m_dSpace1{0.320000}\m_dSpace2{0.640000}\m_dSpace3{0.960000}\m_dSpace4{1.280000}\m_dBar1{0.320000}\m_dBar2{0.640000}\m_dBar3{0.960000}\m_dBar4{1.280000}\m_szFontName{COURBD.TTF}\m_nFontSize{12}\End{4W}]]></BarcodeString>
+      <BODY><div><![CDATA[]]><VARIABLE > BRC03 </VARIABLE><![CDATA[]]></div></BODY>
+    </LEXBARCODEOBJ>
+    <LEXBARCODEOBJ>
+      <xPosFrom00>239.04</xPosFrom00>
+      <yPosFrom00>807.33</yPosFrom00>
+      <ObjWidth>111.6</ObjWidth>
+      <ObjHeight>72.72</ObjHeight>
+      <Angle><![CDATA[0]]></Angle>
+      <IsStatic><![CDATA[0]]></IsStatic>
+      <BarcodeString><![CDATA[\Begin{4W}\m_nBarCodeID{119}\m_nBarCodeType{1}\m_szText{}\m_nTextLength{8}\m_cPromptChar{120}\m_bCheckSum{1}\m_nPrinterResolution{600}\m_nDisplayingStyle{3}\m_nJustifyStyle{2}\m_dHeight{21.460000}\m_dSpace1{0.320000}\m_dSpace2{0.640000}\m_dSpace3{0.960000}\m_dSpace4{1.280000}\m_dBar1{0.320000}\m_dBar2{0.640000}\m_dBar3{0.960000}\m_dBar4{1.280000}\m_szFontName{COURBD.TTF}\m_nFontSize{12}\End{4W}]]></BarcodeString>
+      <BODY><div><![CDATA[]]><VARIABLE > BRC02 </VARIABLE><![CDATA[]]></div></BODY>
+    </LEXBARCODEOBJ>
+    <LEXBARCODEOBJ>
+      <xPosFrom00>58.32</xPosFrom00>
+      <yPosFrom00>677.73</yPosFrom00>
+      <ObjWidth>112.32</ObjWidth>
+      <ObjHeight>72.72</ObjHeight>
+      <Angle><![CDATA[0]]></Angle>
+      <IsStatic><![CDATA[0]]></IsStatic>
+      <BarcodeString><![CDATA[\Begin{4W}\m_nBarCodeID{119}\m_nBarCodeType{1}\m_szText{}\m_nTextLength{8}\m_cPromptChar{120}\m_bCheckSum{1}\m_nPrinterResolution{600}\m_nDisplayingStyle{3}\m_nJustifyStyle{2}\m_dHeight{21.460000}\m_dSpace1{0.320000}\m_dSpace2{0.640000}\m_dSpace3{0.960000}\m_dSpace4{1.280000}\m_dBar1{0.320000}\m_dBar2{0.640000}\m_dBar3{0.960000}\m_dBar4{1.280000}\m_szFontName{COURBD.TTF}\m_nFontSize{12}\End{4W}]]></BarcodeString>
+      <BODY><div><![CDATA[]]><VARIABLE > BRC04 </VARIABLE><![CDATA[]]></div></BODY>
+    </LEXBARCODEOBJ>
+    <LEXBARCODEOBJ>
+      <xPosFrom00>419.76</xPosFrom00>
+      <yPosFrom00>678.45</yPosFrom00>
+      <ObjWidth>111.6</ObjWidth>
+      <ObjHeight>72.72</ObjHeight>
+      <Angle><![CDATA[0]]></Angle>
+      <IsStatic><![CDATA[0]]></IsStatic>
+      <BarcodeString><![CDATA[\Begin{4W}\m_nBarCodeID{119}\m_nBarCodeType{1}\m_szText{}\m_nTextLength{8}\m_cPromptChar{120}\m_bCheckSum{1}\m_nPrinterResolution{600}\m_nDisplayingStyle{3}\m_nJustifyStyle{2}\m_dHeight{21.460000}\m_dSpace1{0.320000}\m_dSpace2{0.640000}\m_dSpace3{0.960000}\m_dSpace4{1.280000}\m_dBar1{0.320000}\m_dBar2{0.640000}\m_dBar3{0.960000}\m_dBar4{1.280000}\m_szFontName{COURBD.TTF}\m_nFontSize{12}\End{4W}]]></BarcodeString>
+      <BODY><div><![CDATA[]]><VARIABLE > BRC06 </VARIABLE><![CDATA[]]></div></BODY>
+    </LEXBARCODEOBJ>
+    <LEXBARCODEOBJ>
+      <xPosFrom00>239.04</xPosFrom00>
+      <yPosFrom00>678.45</yPosFrom00>
+      <ObjWidth>111.6</ObjWidth>
+      <ObjHeight>72.72</ObjHeight>
+      <Angle><![CDATA[0]]></Angle>
+      <IsStatic><![CDATA[0]]></IsStatic>
+      <BarcodeString><![CDATA[\Begin{4W}\m_nBarCodeID{119}\m_nBarCodeType{1}\m_szText{}\m_nTextLength{8}\m_cPromptChar{120}\m_bCheckSum{1}\m_nPrinterResolution{600}\m_nDisplayingStyle{3}\m_nJustifyStyle{2}\m_dHeight{21.460000}\m_dSpace1{0.320000}\m_dSpace2{0.640000}\m_dSpace3{0.960000}\m_dSpace4{1.280000}\m_dBar1{0.320000}\m_dBar2{0.640000}\m_dBar3{0.960000}\m_dBar4{1.280000}\m_szFontName{COURBD.TTF}\m_nFontSize{12}\End{4W}]]></BarcodeString>
+      <BODY><div><![CDATA[]]><VARIABLE > BRC05 </VARIABLE><![CDATA[]]></div></BODY>
+    </LEXBARCODEOBJ>
+    <LEXBARCODEOBJ>
+      <xPosFrom00>58.32</xPosFrom00>
+      <yPosFrom00>549.57</yPosFrom00>
+      <ObjWidth>111.6</ObjWidth>
+      <ObjHeight>72.72</ObjHeight>
+      <Angle><![CDATA[0]]></Angle>
+      <IsStatic><![CDATA[0]]></IsStatic>
+      <BarcodeString><![CDATA[\Begin{4W}\m_nBarCodeID{119}\m_nBarCodeType{1}\m_szText{}\m_nTextLength{8}\m_cPromptChar{120}\m_bCheckSum{1}\m_nPrinterResolution{600}\m_nDisplayingStyle{3}\m_nJustifyStyle{2}\m_dHeight{21.460000}\m_dSpace1{0.320000}\m_dSpace2{0.640000}\m_dSpace3{0.960000}\m_dSpace4{1.280000}\m_dBar1{0.320000}\m_dBar2{0.640000}\m_dBar3{0.960000}\m_dBar4{1.280000}\m_szFontName{COURBD.TTF}\m_nFontSize{12}\End{4W}]]></BarcodeString>
+      <BODY><div><![CDATA[]]><VARIABLE > BRC07 </VARIABLE><![CDATA[]]></div></BODY>
+    </LEXBARCODEOBJ>
+    <LEXBARCODEOBJ>
+      <xPosFrom00>419.76</xPosFrom00>
+      <yPosFrom00>549.57</yPosFrom00>
+      <ObjWidth>111.6</ObjWidth>
+      <ObjHeight>72.72</ObjHeight>
+      <Angle><![CDATA[0]]></Angle>
+      <IsStatic><![CDATA[0]]></IsStatic>
+      <BarcodeString><![CDATA[\Begin{4W}\m_nBarCodeID{119}\m_nBarCodeType{1}\m_szText{}\m_nTextLength{8}\m_cPromptChar{120}\m_bCheckSum{1}\m_nPrinterResolution{600}\m_nDisplayingStyle{3}\m_nJustifyStyle{2}\m_dHeight{21.460000}\m_dSpace1{0.320000}\m_dSpace2{0.640000}\m_dSpace3{0.960000}\m_dSpace4{1.280000}\m_dBar1{0.320000}\m_dBar2{0.640000}\m_dBar3{0.960000}\m_dBar4{1.280000}\m_szFontName{COURBD.TTF}\m_nFontSize{12}\End{4W}]]></BarcodeString>
+      <BODY><div><![CDATA[]]><VARIABLE > BRC09 </VARIABLE><![CDATA[]]></div></BODY>
+    </LEXBARCODEOBJ>
+    <LEXBARCODEOBJ>
+      <xPosFrom00>239.04</xPosFrom00>
+      <yPosFrom00>549.57</yPosFrom00>
+      <ObjWidth>111.6</ObjWidth>
+      <ObjHeight>72.72</ObjHeight>
+      <Angle><![CDATA[0]]></Angle>
+      <IsStatic><![CDATA[0]]></IsStatic>
+      <BarcodeString><![CDATA[\Begin{4W}\m_nBarCodeID{119}\m_nBarCodeType{1}\m_szText{}\m_nTextLength{8}\m_cPromptChar{120}\m_bCheckSum{1}\m_nPrinterResolution{600}\m_nDisplayingStyle{3}\m_nJustifyStyle{2}\m_dHeight{21.460000}\m_dSpace1{0.320000}\m_dSpace2{0.640000}\m_dSpace3{0.960000}\m_dSpace4{1.280000}\m_dBar1{0.320000}\m_dBar2{0.640000}\m_dBar3{0.960000}\m_dBar4{1.280000}\m_szFontName{COURBD.TTF}\m_nFontSize{12}\End{4W}]]></BarcodeString>
+      <BODY><div><![CDATA[]]><VARIABLE > BRC08 </VARIABLE><![CDATA[]]></div></BODY>
+    </LEXBARCODEOBJ>
+    <LEXBARCODEOBJ>
+      <xPosFrom00>58.32</xPosFrom00>
+      <yPosFrom00>422.13</yPosFrom00>
+      <ObjWidth>111.6</ObjWidth>
+      <ObjHeight>72.72</ObjHeight>
+      <Angle><![CDATA[0]]></Angle>
+      <IsStatic><![CDATA[0]]></IsStatic>
+      <BarcodeString><![CDATA[\Begin{4W}\m_nBarCodeID{119}\m_nBarCodeType{1}\m_szText{}\m_nTextLength{8}\m_cPromptChar{120}\m_bCheckSum{1}\m_nPrinterResolution{600}\m_nDisplayingStyle{3}\m_nJustifyStyle{2}\m_dHeight{21.460000}\m_dSpace1{0.320000}\m_dSpace2{0.640000}\m_dSpace3{0.960000}\m_dSpace4{1.280000}\m_dBar1{0.320000}\m_dBar2{0.640000}\m_dBar3{0.960000}\m_dBar4{1.280000}\m_szFontName{COURBD.TTF}\m_nFontSize{12}\End{4W}]]></BarcodeString>
+      <BODY><div><![CDATA[]]><VARIABLE > BRC10 </VARIABLE><![CDATA[]]></div></BODY>
+    </LEXBARCODEOBJ>
+    <LEXBARCODEOBJ>
+      <xPosFrom00>419.76</xPosFrom00>
+      <yPosFrom00>422.13</yPosFrom00>
+      <ObjWidth>111.6</ObjWidth>
+      <ObjHeight>72.72</ObjHeight>
+      <Angle><![CDATA[0]]></Angle>
+      <IsStatic><![CDATA[0]]></IsStatic>
+      <BarcodeString><![CDATA[\Begin{4W}\m_nBarCodeID{119}\m_nBarCodeType{1}\m_szText{}\m_nTextLength{8}\m_cPromptChar{120}\m_bCheckSum{1}\m_nPrinterResolution{600}\m_nDisplayingStyle{3}\m_nJustifyStyle{2}\m_dHeight{21.460000}\m_dSpace1{0.320000}\m_dSpace2{0.640000}\m_dSpace3{0.960000}\m_dSpace4{1.280000}\m_dBar1{0.320000}\m_dBar2{0.640000}\m_dBar3{0.960000}\m_dBar4{1.280000}\m_szFontName{COURBD.TTF}\m_nFontSize{12}\End{4W}]]></BarcodeString>
+      <BODY><div><![CDATA[]]><VARIABLE > BRC12 </VARIABLE><![CDATA[]]></div></BODY>
+    </LEXBARCODEOBJ>
+    <LEXBARCODEOBJ>
+      <xPosFrom00>239.04</xPosFrom00>
+      <yPosFrom00>422.13</yPosFrom00>
+      <ObjWidth>111.6</ObjWidth>
+      <ObjHeight>72.72</ObjHeight>
+      <Angle><![CDATA[0]]></Angle>
+      <IsStatic><![CDATA[0]]></IsStatic>
+      <BarcodeString><![CDATA[\Begin{4W}\m_nBarCodeID{119}\m_nBarCodeType{1}\m_szText{}\m_nTextLength{8}\m_cPromptChar{120}\m_bCheckSum{1}\m_nPrinterResolution{600}\m_nDisplayingStyle{3}\m_nJustifyStyle{2}\m_dHeight{21.460000}\m_dSpace1{0.320000}\m_dSpace2{0.640000}\m_dSpace3{0.960000}\m_dSpace4{1.280000}\m_dBar1{0.320000}\m_dBar2{0.640000}\m_dBar3{0.960000}\m_dBar4{1.280000}\m_szFontName{COURBD.TTF}\m_nFontSize{12}\End{4W}]]></BarcodeString>
+      <BODY><div><![CDATA[]]><VARIABLE > BRC11 </VARIABLE><![CDATA[]]></div></BODY>
+    </LEXBARCODEOBJ>
+    <LEXBARCODEOBJ>
+      <xPosFrom00>58.32</xPosFrom00>
+      <yPosFrom00>293.25</yPosFrom00>
+      <ObjWidth>111.6</ObjWidth>
+      <ObjHeight>72.72</ObjHeight>
+      <Angle><![CDATA[0]]></Angle>
+      <IsStatic><![CDATA[0]]></IsStatic>
+      <BarcodeString><![CDATA[\Begin{4W}\m_nBarCodeID{119}\m_nBarCodeType{1}\m_szText{}\m_nTextLength{8}\m_cPromptChar{120}\m_bCheckSum{1}\m_nPrinterResolution{600}\m_nDisplayingStyle{3}\m_nJustifyStyle{1}\m_dHeight{21.460000}\m_dSpace1{0.320000}\m_dSpace2{0.640000}\m_dSpace3{0.960000}\m_dSpace4{1.280000}\m_dBar1{0.320000}\m_dBar2{0.640000}\m_dBar3{0.960000}\m_dBar4{1.280000}\m_szFontName{COURBD.TTF}\m_nFontSize{12}\End{4W}]]></BarcodeString>
+      <BODY><div><![CDATA[]]><VARIABLE > BRC13 </VARIABLE><![CDATA[]]></div></BODY>
+    </LEXBARCODEOBJ>
+    <LEXBARCODEOBJ>
+      <xPosFrom00>419.76</xPosFrom00>
+      <yPosFrom00>293.25</yPosFrom00>
+      <ObjWidth>111.6</ObjWidth>
+      <ObjHeight>72.72</ObjHeight>
+      <Angle><![CDATA[0]]></Angle>
+      <IsStatic><![CDATA[0]]></IsStatic>
+      <BarcodeString><![CDATA[\Begin{4W}\m_nBarCodeID{119}\m_nBarCodeType{1}\m_szText{}\m_nTextLength{8}\m_cPromptChar{120}\m_bCheckSum{1}\m_nPrinterResolution{600}\m_nDisplayingStyle{3}\m_nJustifyStyle{2}\m_dHeight{21.460000}\m_dSpace1{0.320000}\m_dSpace2{0.640000}\m_dSpace3{0.960000}\m_dSpace4{1.280000}\m_dBar1{0.320000}\m_dBar2{0.640000}\m_dBar3{0.960000}\m_dBar4{1.280000}\m_szFontName{COURBD.TTF}\m_nFontSize{12}\End{4W}]]></BarcodeString>
+      <BODY><div><![CDATA[]]><VARIABLE > BRC15 </VARIABLE><![CDATA[]]></div></BODY>
+    </LEXBARCODEOBJ>
+    <LEXBARCODEOBJ>
+      <xPosFrom00>239.04</xPosFrom00>
+      <yPosFrom00>293.25</yPosFrom00>
+      <ObjWidth>111.6</ObjWidth>
+      <ObjHeight>72.72</ObjHeight>
+      <Angle><![CDATA[0]]></Angle>
+      <IsStatic><![CDATA[0]]></IsStatic>
+      <BarcodeString><![CDATA[\Begin{4W}\m_nBarCodeID{119}\m_nBarCodeType{1}\m_szText{}\m_nTextLength{8}\m_cPromptChar{120}\m_bCheckSum{1}\m_nPrinterResolution{600}\m_nDisplayingStyle{3}\m_nJustifyStyle{2}\m_dHeight{21.460000}\m_dSpace1{0.320000}\m_dSpace2{0.640000}\m_dSpace3{0.960000}\m_dSpace4{1.280000}\m_dBar1{0.320000}\m_dBar2{0.640000}\m_dBar3{0.960000}\m_dBar4{1.280000}\m_szFontName{COURBD.TTF}\m_nFontSize{12}\End{4W}]]></BarcodeString>
+      <BODY><div><![CDATA[]]><VARIABLE > BRC14 </VARIABLE><![CDATA[]]></div></BODY>
+    </LEXBARCODEOBJ>
+    <LEXBARCODEOBJ>
+      <xPosFrom00>58.32</xPosFrom00>
+      <yPosFrom00>165.81</yPosFrom00>
+      <ObjWidth>112.32</ObjWidth>
+      <ObjHeight>72.72</ObjHeight>
+      <Angle><![CDATA[0]]></Angle>
+      <IsStatic><![CDATA[0]]></IsStatic>
+      <BarcodeString><![CDATA[\Begin{4W}\m_nBarCodeID{119}\m_nBarCodeType{1}\m_szText{}\m_nTextLength{8}\m_cPromptChar{120}\m_bCheckSum{1}\m_nPrinterResolution{600}\m_nDisplayingStyle{3}\m_nJustifyStyle{2}\m_dHeight{21.460000}\m_dSpace1{0.320000}\m_dSpace2{0.640000}\m_dSpace3{0.960000}\m_dSpace4{1.280000}\m_dBar1{0.320000}\m_dBar2{0.640000}\m_dBar3{0.960000}\m_dBar4{1.280000}\m_szFontName{COURBD.TTF}\m_nFontSize{12}\End{4W}]]></BarcodeString>
+      <BODY><div><![CDATA[]]><VARIABLE > BRC16 </VARIABLE><![CDATA[]]></div></BODY>
+    </LEXBARCODEOBJ>
+    <LEXBARCODEOBJ>
+      <xPosFrom00>419.76</xPosFrom00>
+      <yPosFrom00>165.81</yPosFrom00>
+      <ObjWidth>111.6</ObjWidth>
+      <ObjHeight>72.72</ObjHeight>
+      <Angle><![CDATA[0]]></Angle>
+      <IsStatic><![CDATA[0]]></IsStatic>
+      <BarcodeString><![CDATA[\Begin{4W}\m_nBarCodeID{119}\m_nBarCodeType{1}\m_szText{}\m_nTextLength{8}\m_cPromptChar{120}\m_bCheckSum{1}\m_nPrinterResolution{600}\m_nDisplayingStyle{3}\m_nJustifyStyle{2}\m_dHeight{21.460000}\m_dSpace1{0.320000}\m_dSpace2{0.640000}\m_dSpace3{0.960000}\m_dSpace4{1.280000}\m_dBar1{0.320000}\m_dBar2{0.640000}\m_dBar3{0.960000}\m_dBar4{1.280000}\m_szFontName{COURBD.TTF}\m_nFontSize{12}\End{4W}]]></BarcodeString>
+      <BODY><div><![CDATA[]]><VARIABLE > BRC18 </VARIABLE><![CDATA[]]></div></BODY>
+    </LEXBARCODEOBJ>
+    <LEXBARCODEOBJ>
+      <xPosFrom00>239.04</xPosFrom00>
+      <yPosFrom00>165.81</yPosFrom00>
+      <ObjWidth>111.6</ObjWidth>
+      <ObjHeight>72.72</ObjHeight>
+      <Angle><![CDATA[0]]></Angle>
+      <IsStatic><![CDATA[0]]></IsStatic>
+      <BarcodeString><![CDATA[\Begin{4W}\m_nBarCodeID{119}\m_nBarCodeType{1}\m_szText{}\m_nTextLength{8}\m_cPromptChar{120}\m_bCheckSum{1}\m_nPrinterResolution{600}\m_nDisplayingStyle{3}\m_nJustifyStyle{2}\m_dHeight{21.460000}\m_dSpace1{0.320000}\m_dSpace2{0.640000}\m_dSpace3{0.960000}\m_dSpace4{1.280000}\m_dBar1{0.320000}\m_dBar2{0.640000}\m_dBar3{0.960000}\m_dBar4{1.280000}\m_szFontName{COURBD.TTF}\m_nFontSize{12}\End{4W}]]></BarcodeString>
+      <BODY><div><![CDATA[]]><VARIABLE > BRC17 </VARIABLE><![CDATA[]]></div></BODY>
+    </LEXBARCODEOBJ>
+  </Page>
+</FormInformation>

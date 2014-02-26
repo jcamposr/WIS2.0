@@ -1,0 +1,2223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--5/11/2013 2:20:28 PM-->
+<FormInformation>
+  <PDFProperties>
+    <PDFKeywords><![CDATA[]]></PDFKeywords>
+    <PDFSubject><![CDATA[]]></PDFSubject>
+    <PDFTitle><![CDATA[]]></PDFTitle>
+    <PDFAuthor><![CDATA[]]></PDFAuthor>
+    <PDFVersion><![CDATA[1.6]]></PDFVersion>
+    <UseEmbedded><![CDATA[False]]></UseEmbedded>
+    <PDFFonts>
+    </PDFFonts>
+  </PDFProperties>
+  <ADDITIONAL_FILES>
+  </ADDITIONAL_FILES>
+  <Page num="1" setting="UserDefined" orientation="Portrait" width="815.76" height="571.68">
+    <LEXTEXTOBJ>
+      <xPosFrom00>404.64</xPosFrom00>
+      <yPosFrom00>532.08</yPosFrom00>
+      <ObjWidth>378.72</ObjWidth>
+      <ObjHeight>30.96</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[8421504]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[15921906]]></BrushColor>
+      <BrushStyle><![CDATA[0]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" PTSIZE="14"  COLOR="0" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="LEFT" >
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" >
+            <b>
+            <![CDATA[  To:]]>
+            </b>
+          </FONT>
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" >
+            <![CDATA[                                                                     ]]>
+          </FONT>
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" >
+            <VARIABLE >TO_REF</VARIABLE>
+          </FONT>
+          <FONT >
+            <![CDATA[]]>
+          </FONT>
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" >
+            <![CDATA[]]>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>26.64</xPosFrom00>
+      <yPosFrom00>532.08</yPosFrom00>
+      <ObjWidth>378.72</ObjWidth>
+      <ObjHeight>30.96</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[8421504]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[15921906]]></BrushColor>
+      <BrushStyle><![CDATA[0]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" PTSIZE="14"  COLOR="0" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="LEFT" >
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" >
+            <b>
+            <![CDATA[   From:]]>
+            </b>
+          </FONT>
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" >
+            <![CDATA[                                                           ]]>
+          </FONT>
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" >
+            <VARIABLE >FROM_REF</VARIABLE>
+          </FONT>
+          <FONT >
+            <![CDATA[]]>
+          </FONT>
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" >
+            <![CDATA[]]>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXGRAPHICOBJ>
+      <Type><![CDATA[wpfRectangle]]></Type>
+      <xPosFrom00>26.64</xPosFrom00>
+      <yPosFrom00>532.08</yPosFrom00>
+      <ObjWidth>756.72</ObjWidth>
+      <ObjHeight>108</ObjHeight>
+      <LineWidth><![CDATA[1]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <BottomxPosFrom00>26.64</BottomxPosFrom00>
+      <BottomyPosFrom00>424.08</BottomyPosFrom00>
+    </LEXGRAPHICOBJ>
+    <LEXGRAPHICOBJ>
+      <Type><![CDATA[wpfLine]]></Type>
+      <xPosFrom00>26.64</xPosFrom00>
+      <yPosFrom00>522</yPosFrom00>
+      <ObjWidth>756.72</ObjWidth>
+      <ObjHeight>36</ObjHeight>
+      <LineWidth><![CDATA[1]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <BottomxPosFrom00>26.64</BottomxPosFrom00>
+      <BottomyPosFrom00>486</BottomyPosFrom00>
+      <x1>0</x1>
+      <y1>18</y1>
+      <x2>756.72</x2>
+      <y2>18</y2>
+    </LEXGRAPHICOBJ>
+    <LEXGRAPHICOBJ>
+      <Type><![CDATA[wpfGrid]]></Type>
+      <xPosFrom00>26.64</xPosFrom00>
+      <yPosFrom00>115.2</yPosFrom00>
+      <ObjWidth>756.72</ObjWidth>
+      <ObjHeight>56.16</ObjHeight>
+      <LineWidth><![CDATA[1]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <BottomxPosFrom00>26.64</BottomxPosFrom00>
+      <BottomyPosFrom00>59.04</BottomyPosFrom00>
+      <RowCount><![CDATA[1]]></RowCount>
+      <ColCount><![CDATA[4]]></ColCount>
+      <ColWidth col="1"><![CDATA[178.56]]></ColWidth>
+      <ColWidth col="2"><![CDATA[182.88]]></ColWidth>
+      <ColWidth col="3"><![CDATA[182.16]]></ColWidth>
+      <ColWidth col="4"><![CDATA[213.12]]></ColWidth>
+    </LEXGRAPHICOBJ>
+    <LEXGRAPHICOBJ>
+      <Type><![CDATA[wpfGrid]]></Type>
+      <xPosFrom00>26.64</xPosFrom00>
+      <yPosFrom00>403.92</yPosFrom00>
+      <ObjWidth>756.72</ObjWidth>
+      <ObjHeight>18.72</ObjHeight>
+      <LineWidth><![CDATA[1]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <BottomxPosFrom00>26.64</BottomxPosFrom00>
+      <BottomyPosFrom00>385.2</BottomyPosFrom00>
+      <RowCount><![CDATA[1]]></RowCount>
+      <ColCount><![CDATA[3]]></ColCount>
+      <ColWidth col="1"><![CDATA[257.76]]></ColWidth>
+      <ColWidth col="2"><![CDATA[115.92]]></ColWidth>
+      <ColWidth col="3"><![CDATA[36]]></ColWidth>
+    </LEXGRAPHICOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>403.92</xPosFrom00>
+      <yPosFrom00>403.2</yPosFrom00>
+      <ObjWidth>372.24</ObjWidth>
+      <ObjHeight>20.16</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" PTSIZE="14"  COLOR="2368547" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="LEFT" >
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" >
+            <![CDATA[ ]]>
+          </FONT>
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" PTSIZE="13" >
+            <b>
+            <![CDATA[Order Reference ]]>
+            </b>
+          </FONT>
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" PTSIZE="13" >
+            <b>
+            <VARIABLE >ORDER_REF</VARIABLE>
+            </b>
+          </FONT>
+          <FONT PTSIZE="13" >
+            <b>
+            <![CDATA[]]>
+            </b>
+          </FONT>
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" PTSIZE="13" >
+            <b>
+            <![CDATA[]]>
+            </b>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXGRAPHICOBJ>
+      <Type><![CDATA[wpfRectangle]]></Type>
+      <xPosFrom00>20.16</xPosFrom00>
+      <yPosFrom00>285.84</yPosFrom00>
+      <ObjWidth>743.76</ObjWidth>
+      <ObjHeight>135.36</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <BottomxPosFrom00>20.16</BottomxPosFrom00>
+      <BottomyPosFrom00>150.48</BottomyPosFrom00>
+    </LEXGRAPHICOBJ>
+    <LEXGRAPHICOBJ>
+      <Type><![CDATA[wpfGrid]]></Type>
+      <xPosFrom00>26.64</xPosFrom00>
+      <yPosFrom00>285.84</yPosFrom00>
+      <ObjWidth>756.72</ObjWidth>
+      <ObjHeight>132.48</ObjHeight>
+      <LineWidth><![CDATA[1]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <BottomxPosFrom00>26.64</BottomxPosFrom00>
+      <BottomyPosFrom00>153.36</BottomyPosFrom00>
+      <RowCount><![CDATA[4]]></RowCount>
+      <ColCount><![CDATA[10]]></ColCount>
+      <ColWidth col="1"><![CDATA[111.6]]></ColWidth>
+      <ColWidth col="2"><![CDATA[141.12]]></ColWidth>
+      <ColWidth col="3"><![CDATA[33.84]]></ColWidth>
+      <ColWidth col="4"><![CDATA[38.16]]></ColWidth>
+      <ColWidth col="5"><![CDATA[62.64]]></ColWidth>
+      <ColWidth col="6"><![CDATA[41.04]]></ColWidth>
+      <ColWidth col="7"><![CDATA[51.12]]></ColWidth>
+      <ColWidth col="8"><![CDATA[56.88]]></ColWidth>
+      <ColWidth col="9"><![CDATA[79.92]]></ColWidth>
+      <ColWidth col="10"><![CDATA[131.76]]></ColWidth>
+    </LEXGRAPHICOBJ>
+    <LEXGRAPHICOBJ>
+      <Type><![CDATA[wpfRectangle]]></Type>
+      <xPosFrom00>498.96</xPosFrom00>
+      <yPosFrom00>285.84</yPosFrom00>
+      <ObjWidth>58.32</ObjWidth>
+      <ObjHeight>135.36</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <BottomxPosFrom00>498.96</BottomxPosFrom00>
+      <BottomyPosFrom00>150.48</BottomyPosFrom00>
+    </LEXGRAPHICOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>509.76</xPosFrom00>
+      <yPosFrom00>280.08</yPosFrom00>
+      <ObjWidth>54</ObjWidth>
+      <ObjHeight>17.28</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" PTSIZE="9"  COLOR="0" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="CENTER" >
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" >
+            <VARIABLE >PACKTYPE</VARIABLE>
+          </FONT>
+          <FONT >
+            <![CDATA[]]>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>459.36</xPosFrom00>
+      <yPosFrom00>279.36</yPosFrom00>
+      <ObjWidth>47.52</ObjWidth>
+      <ObjHeight>16.56</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" PTSIZE="9"  COLOR="0" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="CENTER" >
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" >
+            <VARIABLE >NOP</VARIABLE>
+          </FONT>
+          <FONT >
+            <![CDATA[]]>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>414.72</xPosFrom00>
+      <yPosFrom00>279.36</yPosFrom00>
+      <ObjWidth>42.48</ObjWidth>
+      <ObjHeight>21.6</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" PTSIZE="9"  COLOR="0" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="CENTER" >
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" >
+            <VARIABLE >UN_NO</VARIABLE>
+          </FONT>
+          <FONT >
+            <![CDATA[]]>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXGRAPHICOBJ>
+      <Type><![CDATA[wpfRectangle]]></Type>
+      <xPosFrom00>344.16</xPosFrom00>
+      <yPosFrom00>285.84</yPosFrom00>
+      <ObjWidth>64.08</ObjWidth>
+      <ObjHeight>134.64</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <BottomxPosFrom00>344.16</BottomxPosFrom00>
+      <BottomyPosFrom00>151.2</BottomyPosFrom00>
+    </LEXGRAPHICOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>353.52</xPosFrom00>
+      <yPosFrom00>279.36</yPosFrom00>
+      <ObjWidth>62.64</ObjWidth>
+      <ObjHeight>21.6</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" PTSIZE="9"  COLOR="0" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="CENTER" >
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" >
+            <VARIABLE >PACK_GRP</VARIABLE>
+          </FONT>
+          <FONT >
+            <![CDATA[]]>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXGRAPHICOBJ>
+      <Type><![CDATA[wpfRectangle]]></Type>
+      <xPosFrom00>308.88</xPosFrom00>
+      <yPosFrom00>286.56</yPosFrom00>
+      <ObjWidth>36</ObjWidth>
+      <ObjHeight>136.8</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <BottomxPosFrom00>308.88</BottomxPosFrom00>
+      <BottomyPosFrom00>149.76</BottomyPosFrom00>
+    </LEXGRAPHICOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>316.8</xPosFrom00>
+      <yPosFrom00>243.36</yPosFrom00>
+      <ObjWidth>35.28</ObjWidth>
+      <ObjHeight>19.44</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" PTSIZE="9"  COLOR="0" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="CENTER" >
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" >
+            <VARIABLE >C4R2</VARIABLE>
+          </FONT>
+          <FONT >
+            <![CDATA[]]>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>282.24</xPosFrom00>
+      <yPosFrom00>279.36</yPosFrom00>
+      <ObjWidth>31.68</ObjWidth>
+      <ObjHeight>22.32</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" PTSIZE="9"  COLOR="0" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="CENTER" >
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" >
+            <VARIABLE >CLASS</VARIABLE>
+          </FONT>
+          <FONT >
+            <![CDATA[]]>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>139.68</xPosFrom00>
+      <yPosFrom00>279.36</yPosFrom00>
+      <ObjWidth>140.4</ObjWidth>
+      <ObjHeight>25.2</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" PTSIZE="9"  COLOR="0" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="CENTER" >
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" >
+            <VARIABLE >COMMON_NAME</VARIABLE>
+          </FONT>
+          <FONT >
+            <![CDATA[]]>
+          </FONT>
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" >
+            <![CDATA[]]>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>566.64</xPosFrom00>
+      <yPosFrom00>279.36</yPosFrom00>
+      <ObjWidth>79.92</ObjWidth>
+      <ObjHeight>18.72</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" PTSIZE="9"  COLOR="0" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="CENTER" >
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" >
+            <VARIABLE >QTY</VARIABLE>
+          </FONT>
+          <FONT >
+            <![CDATA[]]>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>650.16</xPosFrom00>
+      <yPosFrom00>279.36</yPosFrom00>
+      <ObjWidth>130.32</ObjWidth>
+      <ObjHeight>16.56</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" PTSIZE="9"  COLOR="0" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="CENTER" >
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" >
+            <VARIABLE >PART_NO</VARIABLE>
+          </FONT>
+          <FONT >
+            <![CDATA[]]>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>26.64</xPosFrom00>
+      <yPosFrom00>279.36</yPosFrom00>
+      <ObjWidth>112.32</ObjWidth>
+      <ObjHeight>23.76</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" PTSIZE="9"  COLOR="0" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="CENTER" >
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" >
+            <VARIABLE >PROPER_SHIP_NAME</VARIABLE>
+          </FONT>
+          <FONT >
+            <![CDATA[]]>
+          </FONT>
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" >
+            <![CDATA[]]>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>2.88</xPosFrom00>
+      <yPosFrom00>571.68</yPosFrom00>
+      <ObjWidth>148.32</ObjWidth>
+      <ObjHeight>27.36</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" PTSIZE="14"  COLOR="0" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="LEFT" >
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" >
+            <b>
+            <VARIABLE >TITLE</VARIABLE>
+            </b>
+          </FONT>
+          <FONT >
+            <b>
+            <![CDATA[]]>
+            </b>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>0</xPosFrom00>
+      <yPosFrom00>556.56</yPosFrom00>
+      <ObjWidth>811.44</ObjWidth>
+      <ObjHeight>30.24</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" PTSIZE="17"  COLOR="2368547" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="CENTER" >
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" >
+            <b>
+            <![CDATA[Dangerous Goods Shipping Declaration]]>
+            </b>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>64.08</xPosFrom00>
+      <yPosFrom00>498.96</yPosFrom00>
+      <ObjWidth>340.56</ObjWidth>
+      <ObjHeight>69.84</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" PTSIZE="12"  COLOR="0" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="LEFT" >
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" >
+            <VARIABLE >FROM_ADD</VARIABLE>
+          </FONT>
+          <FONT >
+            <![CDATA[]]>
+          </FONT>
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" >
+            <![CDATA[]]>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>429.84</xPosFrom00>
+      <yPosFrom00>498.96</yPosFrom00>
+      <ObjWidth>349.92</ObjWidth>
+      <ObjHeight>70.56</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" PTSIZE="12"  COLOR="0" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="LEFT" >
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" >
+            <VARIABLE >TO_ADDR</VARIABLE>
+          </FONT>
+          <FONT >
+            <![CDATA[]]>
+          </FONT>
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" >
+            <![CDATA[]]>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>27.36</xPosFrom00>
+      <yPosFrom00>403.2</yPosFrom00>
+      <ObjWidth>256.32</ObjWidth>
+      <ObjHeight>20.16</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" PTSIZE="12.0"  COLOR="0" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="LEFT" >
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" >
+            <![CDATA[ ]]>
+          </FONT>
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" PTSIZE="13"  COLOR="2368547">
+            <b>
+            <![CDATA[Method   ]]>
+            </b>
+          </FONT>
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" PTSIZE="13"  COLOR="2368547">
+            <b>
+            <VARIABLE >METHOD</VARIABLE>
+            </b>
+          </FONT>
+          <FONT PTSIZE="13"  COLOR="2368547">
+            <b>
+            <![CDATA[]]>
+            </b>
+          </FONT>
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" PTSIZE="13"  COLOR="2368547">
+            <b>
+            <![CDATA[]]>
+            </b>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>284.4</xPosFrom00>
+      <yPosFrom00>403.2</yPosFrom00>
+      <ObjWidth>114.48</ObjWidth>
+      <ObjHeight>20.16</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" PTSIZE="14"  COLOR="2368547" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="LEFT" >
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" >
+            <![CDATA[ ]]>
+          </FONT>
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" PTSIZE="13" >
+            <b>
+            <![CDATA[Run ]]>
+            </b>
+          </FONT>
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" PTSIZE="13" >
+            <b>
+            <VARIABLE >RUN</VARIABLE>
+            </b>
+          </FONT>
+          <FONT PTSIZE="13" >
+            <b>
+            <![CDATA[]]>
+            </b>
+          </FONT>
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" PTSIZE="13" >
+            <b>
+            <![CDATA[]]>
+            </b>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>28.08</xPosFrom00>
+      <yPosFrom00>149.76</yPosFrom00>
+      <ObjWidth>745.2</ObjWidth>
+      <ObjHeight>38.16</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" PTSIZE="12"  COLOR="2368547" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="LEFT" >
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" >
+            <![CDATA[I hereby declare that the ]]>
+          </FONT>
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic"  COLOR="3355442">
+            <![CDATA[contents ]]>
+          </FONT>
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" >
+            <![CDATA[of this ]]>
+          </FONT>
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic"  COLOR="3355442">
+            <![CDATA[consignment ]]>
+          </FONT>
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" >
+            <![CDATA[are fully and ]]>
+          </FONT>
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic"  COLOR="3355442">
+            <![CDATA[accurately ]]>
+          </FONT>
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" >
+            <![CDATA[described ]]>
+          </FONT>
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic"  COLOR="3355442">
+            <![CDATA[above ]]>
+          </FONT>
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" >
+            <![CDATA[by the proper shipping name, ]]>
+          </FONT>
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic"  COLOR="3355442">
+            <![CDATA[and are ]]>
+          </FONT>
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" >
+            <![CDATA[classified,]]>
+          </FONT>
+        </div>
+        <div ALIGN="LEFT" >
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" >
+            <![CDATA[packaged]]>
+          </FONT>
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic"  COLOR="4605508">
+            <![CDATA[, ]]>
+          </FONT>
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" >
+            <![CDATA[marked and labelled]]>
+          </FONT>
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic"  COLOR="4605508">
+            <![CDATA[/]]>
+          </FONT>
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" >
+            <![CDATA[placarded, and are in all respects in proper condition for transport according to government regulations]]>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>35.28</xPosFrom00>
+      <yPosFrom00>56.16</yPosFrom00>
+      <ObjWidth>742.32</ObjWidth>
+      <ObjHeight>17.28</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" PTSIZE="11"  COLOR="2368547" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="CENTER" >
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" >
+            <VARIABLE >MSDS</VARIABLE>
+          </FONT>
+          <FONT >
+            <![CDATA[]]>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXGRAPHICOBJ>
+      <Type><![CDATA[wpfLine]]></Type>
+      <xPosFrom00>26.64</xPosFrom00>
+      <yPosFrom00>55.44</yPosFrom00>
+      <ObjWidth>756.72</ObjWidth>
+      <ObjHeight>36</ObjHeight>
+      <LineWidth><![CDATA[1]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <BottomxPosFrom00>26.64</BottomxPosFrom00>
+      <BottomyPosFrom00>19.44</BottomyPosFrom00>
+      <x1>0</x1>
+      <y1>18</y1>
+      <x2>756.72</x2>
+      <y2>18</y2>
+    </LEXGRAPHICOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>26.64</xPosFrom00>
+      <yPosFrom00>35.28</yPosFrom00>
+      <ObjWidth>463.68</ObjWidth>
+      <ObjHeight>17.28</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" PTSIZE="8.0"  COLOR="0" CHARSET="177" ></BASEFONT>
+      <BODY>
+        <div ALIGN="LEFT" >
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" >
+            <VARIABLE >PRINTBY</VARIABLE>
+          </FONT>
+          <FONT >
+            <![CDATA[]]>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>660.96</xPosFrom00>
+      <yPosFrom00>35.28</yPosFrom00>
+      <ObjWidth>117.36</ObjWidth>
+      <ObjHeight>19.44</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" PTSIZE="8.0"  COLOR="0" CHARSET="177" ></BASEFONT>
+      <BODY>
+        <div ALIGN="LEFT" >
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" >
+            <VARIABLE >PAGE</VARIABLE>
+          </FONT>
+          <FONT >
+            <![CDATA[]]>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>140.4</xPosFrom00>
+      <yPosFrom00>243.36</yPosFrom00>
+      <ObjWidth>139.68</ObjWidth>
+      <ObjHeight>21.6</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" PTSIZE="9"  COLOR="0" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="CENTER" >
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" >
+            <VARIABLE >C2R2</VARIABLE>
+          </FONT>
+          <FONT >
+            <![CDATA[]]>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>140.4</xPosFrom00>
+      <yPosFrom00>214.56</yPosFrom00>
+      <ObjWidth>139.68</ObjWidth>
+      <ObjHeight>23.04</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" PTSIZE="9"  COLOR="0" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="CENTER" >
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" >
+            <VARIABLE >C2R3</VARIABLE>
+          </FONT>
+          <FONT >
+            <![CDATA[]]>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>140.4</xPosFrom00>
+      <yPosFrom00>184.32</yPosFrom00>
+      <ObjWidth>139.68</ObjWidth>
+      <ObjHeight>21.6</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" PTSIZE="9"  COLOR="0" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="CENTER" >
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" >
+            <VARIABLE >C2R4</VARIABLE>
+          </FONT>
+          <FONT >
+            <![CDATA[]]>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>282.24</xPosFrom00>
+      <yPosFrom00>243.36</yPosFrom00>
+      <ObjWidth>33.12</ObjWidth>
+      <ObjHeight>22.32</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" PTSIZE="9"  COLOR="0" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="CENTER" >
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" >
+            <VARIABLE >C3R2</VARIABLE>
+          </FONT>
+          <FONT >
+            <![CDATA[]]>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>282.24</xPosFrom00>
+      <yPosFrom00>214.56</yPosFrom00>
+      <ObjWidth>31.68</ObjWidth>
+      <ObjHeight>20.16</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" PTSIZE="9"  COLOR="0" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="CENTER" >
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" >
+            <VARIABLE >C3R3</VARIABLE>
+          </FONT>
+          <FONT >
+            <![CDATA[]]>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>282.24</xPosFrom00>
+      <yPosFrom00>184.32</yPosFrom00>
+      <ObjWidth>31.68</ObjWidth>
+      <ObjHeight>17.28</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" PTSIZE="9"  COLOR="0" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="CENTER" >
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" >
+            <VARIABLE >C3R4</VARIABLE>
+          </FONT>
+          <FONT >
+            <![CDATA[]]>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>316.8</xPosFrom00>
+      <yPosFrom00>279.36</yPosFrom00>
+      <ObjWidth>35.28</ObjWidth>
+      <ObjHeight>20.16</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" PTSIZE="9"  COLOR="0" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="CENTER" >
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" >
+            <VARIABLE >SUBR</VARIABLE>
+          </FONT>
+          <FONT >
+            <![CDATA[]]>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>317.52</xPosFrom00>
+      <yPosFrom00>214.56</yPosFrom00>
+      <ObjWidth>34.56</ObjWidth>
+      <ObjHeight>17.28</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" PTSIZE="9"  COLOR="0" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="CENTER" >
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" >
+            <VARIABLE >C4R3</VARIABLE>
+          </FONT>
+          <FONT >
+            <![CDATA[]]>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>316.8</xPosFrom00>
+      <yPosFrom00>184.32</yPosFrom00>
+      <ObjWidth>35.28</ObjWidth>
+      <ObjHeight>19.44</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" PTSIZE="9"  COLOR="0" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="CENTER" >
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" >
+            <VARIABLE >C4R4</VARIABLE>
+          </FONT>
+          <FONT >
+            <![CDATA[]]>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>418.32</xPosFrom00>
+      <yPosFrom00>243.36</yPosFrom00>
+      <ObjWidth>39.6</ObjWidth>
+      <ObjHeight>17.28</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" PTSIZE="9"  COLOR="0" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="CENTER" >
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" >
+            <VARIABLE >C5R2</VARIABLE>
+          </FONT>
+          <FONT >
+            <![CDATA[]]>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>419.04</xPosFrom00>
+      <yPosFrom00>214.56</yPosFrom00>
+      <ObjWidth>38.16</ObjWidth>
+      <ObjHeight>20.16</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" PTSIZE="9"  COLOR="0" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="CENTER" >
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" >
+            <VARIABLE >C5R3</VARIABLE>
+          </FONT>
+          <FONT >
+            <![CDATA[]]>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>418.32</xPosFrom00>
+      <yPosFrom00>184.32</yPosFrom00>
+      <ObjWidth>39.6</ObjWidth>
+      <ObjHeight>21.6</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" PTSIZE="9"  COLOR="0" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="CENTER" >
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" >
+            <VARIABLE >C5R4</VARIABLE>
+          </FONT>
+          <FONT >
+            <![CDATA[]]>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>459.36</xPosFrom00>
+      <yPosFrom00>243.36</yPosFrom00>
+      <ObjWidth>47.52</ObjWidth>
+      <ObjHeight>18.72</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" PTSIZE="9"  COLOR="0" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="CENTER" >
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" >
+            <VARIABLE >C6R2</VARIABLE>
+          </FONT>
+          <FONT >
+            <![CDATA[]]>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>459.36</xPosFrom00>
+      <yPosFrom00>214.56</yPosFrom00>
+      <ObjWidth>47.52</ObjWidth>
+      <ObjHeight>16.56</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" PTSIZE="9"  COLOR="0" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="CENTER" >
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" >
+            <VARIABLE >C6R3</VARIABLE>
+          </FONT>
+          <FONT >
+            <![CDATA[]]>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>459.36</xPosFrom00>
+      <yPosFrom00>184.32</yPosFrom00>
+      <ObjWidth>47.52</ObjWidth>
+      <ObjHeight>17.28</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" PTSIZE="9"  COLOR="0" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="CENTER" >
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" >
+            <VARIABLE >C6R4</VARIABLE>
+          </FONT>
+          <FONT >
+            <![CDATA[]]>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>509.76</xPosFrom00>
+      <yPosFrom00>244.08</yPosFrom00>
+      <ObjWidth>54</ObjWidth>
+      <ObjHeight>17.28</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" PTSIZE="9"  COLOR="0" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="CENTER" >
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" >
+            <VARIABLE >C7R2</VARIABLE>
+          </FONT>
+          <FONT >
+            <![CDATA[]]>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>509.76</xPosFrom00>
+      <yPosFrom00>215.28</yPosFrom00>
+      <ObjWidth>54</ObjWidth>
+      <ObjHeight>17.28</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" PTSIZE="9"  COLOR="0" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="CENTER" >
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" >
+            <VARIABLE >C7R3</VARIABLE>
+          </FONT>
+          <FONT >
+            <![CDATA[]]>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>509.76</xPosFrom00>
+      <yPosFrom00>185.04</yPosFrom00>
+      <ObjWidth>55.44</ObjWidth>
+      <ObjHeight>17.28</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" PTSIZE="9"  COLOR="0" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="CENTER" >
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" >
+            <VARIABLE >C7R4</VARIABLE>
+          </FONT>
+          <FONT >
+            <![CDATA[]]>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>569.52</xPosFrom00>
+      <yPosFrom00>243.36</yPosFrom00>
+      <ObjWidth>75.6</ObjWidth>
+      <ObjHeight>20.16</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" PTSIZE="9"  COLOR="0" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="CENTER" >
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" >
+            <VARIABLE >C8R2</VARIABLE>
+          </FONT>
+          <FONT >
+            <![CDATA[]]>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>569.52</xPosFrom00>
+      <yPosFrom00>214.56</yPosFrom00>
+      <ObjWidth>75.6</ObjWidth>
+      <ObjHeight>17.28</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" PTSIZE="9"  COLOR="0" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="CENTER" >
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" >
+            <VARIABLE >C8R3</VARIABLE>
+          </FONT>
+          <FONT >
+            <![CDATA[]]>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>569.52</xPosFrom00>
+      <yPosFrom00>184.32</yPosFrom00>
+      <ObjWidth>75.6</ObjWidth>
+      <ObjHeight>21.6</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" PTSIZE="9"  COLOR="0" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="CENTER" >
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" >
+            <VARIABLE >C8R4</VARIABLE>
+          </FONT>
+          <FONT >
+            <![CDATA[]]>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>652.32</xPosFrom00>
+      <yPosFrom00>243.36</yPosFrom00>
+      <ObjWidth>126.72</ObjWidth>
+      <ObjHeight>19.44</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" PTSIZE="9"  COLOR="0" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="CENTER" >
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" >
+            <VARIABLE >C9R2</VARIABLE>
+          </FONT>
+          <FONT >
+            <![CDATA[]]>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>652.32</xPosFrom00>
+      <yPosFrom00>214.56</yPosFrom00>
+      <ObjWidth>127.44</ObjWidth>
+      <ObjHeight>17.28</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" PTSIZE="9"  COLOR="0" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="CENTER" >
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" >
+            <VARIABLE >C9R3</VARIABLE>
+          </FONT>
+          <FONT >
+            <![CDATA[]]>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>653.76</xPosFrom00>
+      <yPosFrom00>184.32</yPosFrom00>
+      <ObjWidth>126.72</ObjWidth>
+      <ObjHeight>18.72</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" PTSIZE="9"  COLOR="0" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="CENTER" >
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" >
+            <VARIABLE >C9R4</VARIABLE>
+          </FONT>
+          <FONT >
+            <![CDATA[]]>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>354.24</xPosFrom00>
+      <yPosFrom00>243.36</yPosFrom00>
+      <ObjWidth>61.2</ObjWidth>
+      <ObjHeight>19.44</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" PTSIZE="9"  COLOR="0" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="CENTER" >
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" >
+            <VARIABLE >C10R2</VARIABLE>
+          </FONT>
+          <FONT >
+            <![CDATA[]]>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>353.52</xPosFrom00>
+      <yPosFrom00>214.56</yPosFrom00>
+      <ObjWidth>62.64</ObjWidth>
+      <ObjHeight>19.44</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" PTSIZE="9"  COLOR="0" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="CENTER" >
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" >
+            <VARIABLE >C10R3</VARIABLE>
+          </FONT>
+          <FONT >
+            <![CDATA[]]>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>354.24</xPosFrom00>
+      <yPosFrom00>184.32</yPosFrom00>
+      <ObjWidth>61.2</ObjWidth>
+      <ObjHeight>17.28</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" PTSIZE="9"  COLOR="0" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="CENTER" >
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" >
+            <VARIABLE >C10R4</VARIABLE>
+          </FONT>
+          <FONT >
+            <![CDATA[]]>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>26.64</xPosFrom00>
+      <yPosFrom00>247.68</yPosFrom00>
+      <ObjWidth>112.32</ObjWidth>
+      <ObjHeight>23.76</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" PTSIZE="9"  COLOR="0" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="CENTER" >
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" >
+            <VARIABLE >C1R2</VARIABLE>
+          </FONT>
+          <FONT >
+            <![CDATA[]]>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>26.64</xPosFrom00>
+      <yPosFrom00>214.56</yPosFrom00>
+      <ObjWidth>112.32</ObjWidth>
+      <ObjHeight>23.76</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" PTSIZE="9"  COLOR="0" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="CENTER" >
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" >
+            <VARIABLE >C1R3</VARIABLE>
+          </FONT>
+          <FONT >
+            <![CDATA[]]>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>26.64</xPosFrom00>
+      <yPosFrom00>184.32</yPosFrom00>
+      <ObjWidth>112.32</ObjWidth>
+      <ObjHeight>23.76</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" PTSIZE="9"  COLOR="0" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="CENTER" >
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" >
+            <VARIABLE >C1R4</VARIABLE>
+          </FONT>
+          <FONT >
+            <![CDATA[]]>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXGRAPHICOBJ>
+      <Type><![CDATA[wpfGrid]]></Type>
+      <xPosFrom00>26.64</xPosFrom00>
+      <yPosFrom00>312.48</yPosFrom00>
+      <ObjWidth>756.72</ObjWidth>
+      <ObjHeight>26.64</ObjHeight>
+      <LineWidth><![CDATA[1]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[15921906]]></BrushColor>
+      <BrushStyle><![CDATA[0]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <BottomxPosFrom00>26.64</BottomxPosFrom00>
+      <BottomyPosFrom00>285.84</BottomyPosFrom00>
+      <RowCount><![CDATA[1]]></RowCount>
+      <ColCount><![CDATA[10]]></ColCount>
+      <ColWidth col="1"><![CDATA[111.6]]></ColWidth>
+      <ColWidth col="2"><![CDATA[141.12]]></ColWidth>
+      <ColWidth col="3"><![CDATA[33.84]]></ColWidth>
+      <ColWidth col="4"><![CDATA[38.16]]></ColWidth>
+      <ColWidth col="5"><![CDATA[62.64]]></ColWidth>
+      <ColWidth col="6"><![CDATA[41.04]]></ColWidth>
+      <ColWidth col="7"><![CDATA[51.12]]></ColWidth>
+      <ColWidth col="8"><![CDATA[56.88]]></ColWidth>
+      <ColWidth col="9"><![CDATA[79.92]]></ColWidth>
+      <ColWidth col="10"><![CDATA[131.76]]></ColWidth>
+    </LEXGRAPHICOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>30.24</xPosFrom00>
+      <yPosFrom00>309.6</yPosFrom00>
+      <ObjWidth>108</ObjWidth>
+      <ObjHeight>23.76</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" PTSIZE="10"  COLOR="0" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="LEFT" >
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" >
+            <b>
+            <![CDATA[Proper Shipping Name]]>
+            </b>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>138.96</xPosFrom00>
+      <yPosFrom00>309.6</yPosFrom00>
+      <ObjWidth>142.56</ObjWidth>
+      <ObjHeight>23.76</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" PTSIZE="10"  COLOR="0" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="CENTER" >
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" >
+            <b>
+            <![CDATA[Common Name]]>
+            </b>
+          </FONT>
+        </div>
+        <div ALIGN="LEFT" >
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" >
+            <b>
+            <![CDATA[]]>
+            </b>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>282.96</xPosFrom00>
+      <yPosFrom00>309.6</yPosFrom00>
+      <ObjWidth>33.12</ObjWidth>
+      <ObjHeight>23.76</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" PTSIZE="10"  COLOR="0" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="CENTER" >
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" >
+            <b>
+            <![CDATA[Class]]>
+            </b>
+          </FONT>
+        </div>
+        <div ALIGN="LEFT" >
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" >
+            <b>
+            <![CDATA[]]>
+            </b>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>323.28</xPosFrom00>
+      <yPosFrom00>309.6</yPosFrom00>
+      <ObjWidth>25.92</ObjWidth>
+      <ObjHeight>23.76</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" PTSIZE="10"  COLOR="0" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="CENTER" >
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" >
+            <b>
+            <![CDATA[Sub Risk]]>
+            </b>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>421.2</xPosFrom00>
+      <yPosFrom00>309.6</yPosFrom00>
+      <ObjWidth>33.12</ObjWidth>
+      <ObjHeight>15.84</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" PTSIZE="10"  COLOR="0" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="CENTER" >
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" >
+            <b>
+            <![CDATA[Un No]]>
+            </b>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>460.08</xPosFrom00>
+      <yPosFrom00>309.6</yPosFrom00>
+      <ObjWidth>47.52</ObjWidth>
+      <ObjHeight>23.04</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" PTSIZE="10"  COLOR="0" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="CENTER" >
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" >
+            <b>
+            <![CDATA[No of Packages]]>
+            </b>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>516.24</xPosFrom00>
+      <yPosFrom00>309.6</yPosFrom00>
+      <ObjWidth>45.36</ObjWidth>
+      <ObjHeight>23.76</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" PTSIZE="10"  COLOR="0" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="CENTER" >
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" >
+            <b>
+            <![CDATA[Package Type]]>
+            </b>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>362.88</xPosFrom00>
+      <yPosFrom00>309.6</yPosFrom00>
+      <ObjWidth>44.64</ObjWidth>
+      <ObjHeight>20.16</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" PTSIZE="10"  COLOR="0" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="CENTER" >
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" >
+            <b>
+            <![CDATA[Packing Group]]>
+            </b>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>574.56</xPosFrom00>
+      <yPosFrom00>309.6</yPosFrom00>
+      <ObjWidth>62.64</ObjWidth>
+      <ObjHeight>23.76</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" PTSIZE="10"  COLOR="0" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="CENTER" >
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" >
+            <b>
+            <![CDATA[Quantity]]>
+            </b>
+          </FONT>
+        </div>
+        <div ALIGN="CENTER" >
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" >
+            <b>
+            <![CDATA[(Kg or Ltr)]]>
+            </b>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>647.28</xPosFrom00>
+      <yPosFrom00>309.6</yPosFrom00>
+      <ObjWidth>133.92</ObjWidth>
+      <ObjHeight>18.72</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" PTSIZE="10"  COLOR="0" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="CENTER" >
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" >
+            <b>
+            <![CDATA[Part No.]]>
+            </b>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>30.24</xPosFrom00>
+      <yPosFrom00>113.76</yPosFrom00>
+      <ObjWidth>183.6</ObjWidth>
+      <ObjHeight>56.16</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" PTSIZE="16"  COLOR="0" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="LEFT" >
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" >
+            <![CDATA[ ]]>
+          </FONT>
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" >
+            <u>
+            <![CDATA[Pickup Driver]]>
+            </u>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>211.68</xPosFrom00>
+      <yPosFrom00>113.76</yPosFrom00>
+      <ObjWidth>181.44</ObjWidth>
+      <ObjHeight>57.6</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" PTSIZE="16"  COLOR="0" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="LEFT" >
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" >
+            <![CDATA[ ]]>
+          </FONT>
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" >
+            <u>
+            <![CDATA[Signature]]>
+            </u>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>392.4</xPosFrom00>
+      <yPosFrom00>113.76</yPosFrom00>
+      <ObjWidth>183.6</ObjWidth>
+      <ObjHeight>58.32</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" PTSIZE="14"  COLOR="0" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="LEFT" >
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" >
+            <![CDATA[ ]]>
+          </FONT>
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" >
+            <u>
+            <![CDATA[Transport Company]]>
+            </u>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>573.84</xPosFrom00>
+      <yPosFrom00>113.76</yPosFrom00>
+      <ObjWidth>205.2</ObjWidth>
+      <ObjHeight>58.32</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" PTSIZE="16"  COLOR="0" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="LEFT" >
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" >
+            <![CDATA[ ]]>
+          </FONT>
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" >
+            <u>
+            <![CDATA[Date]]>
+            </u>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>740.88</xPosFrom00>
+      <yPosFrom00>15.12</yPosFrom00>
+      <ObjWidth>74.88</ObjWidth>
+      <ObjHeight>15.12</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" PTSIZE="6"  COLOR="0" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="LEFT" >
+          <FONT FACE="Arial" R="Arial" B="Arial Bold" I="Arial Italic" BI="Arial Bold Italic" >
+            <VARIABLE >TRIGGER1</VARIABLE>
+          </FONT>
+          <FONT >
+            <![CDATA[]]>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXGRAPHICOBJ>
+      <Type><![CDATA[wpfLine]]></Type>
+      <xPosFrom00>387.36</xPosFrom00>
+      <yPosFrom00>532.8</yPosFrom00>
+      <ObjWidth>36</ObjWidth>
+      <ObjHeight>109.44</ObjHeight>
+      <LineWidth><![CDATA[1]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <BottomxPosFrom00>387.36</BottomxPosFrom00>
+      <BottomyPosFrom00>423.36</BottomyPosFrom00>
+      <x1>18</x1>
+      <y1>0</y1>
+      <x2>18</x2>
+      <y2>109.44</y2>
+    </LEXGRAPHICOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>26.64</xPosFrom00>
+      <yPosFrom00>372.24</yPosFrom00>
+      <ObjWidth>756.72</ObjWidth>
+      <ObjHeight>48.96</ObjHeight>
+      <LineWidth><![CDATA[1]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" PTSIZE="12"  COLOR="0" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="LEFT" >
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" >
+            <![CDATA[  ]]>
+          </FONT>
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic"  COLOR="2368547">
+            <b>
+            <![CDATA[NOTE:  ]]>
+            </b>
+          </FONT>
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" >
+            <![CDATA[  The Dangerous Goods Shipping Declaration document must travel with the Driver not with the Goods.]]>
+          </FONT>
+        </div>
+        <div ALIGN="LEFT" >
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" >
+            <![CDATA[                  ]]>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+    <LEXTEXTOBJ>
+      <xPosFrom00>83.91</xPosFrom00>
+      <yPosFrom00>354.3</yPosFrom00>
+      <ObjWidth>666.75</ObjWidth>
+      <ObjHeight>26.25</ObjHeight>
+      <LineWidth><![CDATA[0]]></LineWidth>
+      <LineColor><![CDATA[0]]></LineColor>
+      <LineStyle><![CDATA[0]]></LineStyle>
+      <BrushColor><![CDATA[16777215]]></BrushColor>
+      <BrushStyle><![CDATA[10]]></BrushStyle>
+      <Angle><![CDATA[0]]></Angle>
+      <CharSpacing><![CDATA[0]]></CharSpacing>
+      <LineSpacing Type="0"><![CDATA[1000]]></LineSpacing>
+      <VerticalAlignment><![CDATA[TOP]]></VerticalAlignment>
+      <BASEFONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" PTSIZE="12"  COLOR="0" CHARSET="0" ></BASEFONT>
+      <BODY>
+        <div ALIGN="LEFT" >
+          <FONT FACE="Times New Roman" R="Times New Roman" B="Times New Roman Bold" I="Times New Roman Italic" BI="Times New Roman Bold Italic" >
+            <![CDATA[The classes of Dangerous Goods must be segregated as per Chapter 9 of the Australian Code for the Transport of Dangerous Goods by Road and Rail, 7th Edition]]>
+          </FONT>
+        </div>
+      </BODY>
+    </LEXTEXTOBJ>
+  </Page>
+</FormInformation>

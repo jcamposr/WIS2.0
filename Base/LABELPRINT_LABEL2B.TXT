@@ -1,0 +1,23 @@
+#!LABEL2B!#                                                                                               
+00002958TAG DO NOT OPERATE 842377 (PK10)        999BI 000114001004                         CANNING VALE   
+#!LABEL2B!#                                                                                               
+00006417TROUSERS DRILL TRADIES K13230 NA 97R    31617B001201004003                         CANNING VALE   
+#!LABEL2B!#                                                                                               
+00036108GLOVES RUBBER HYCARE KNIT LINED 7393 MED999BI 000999BI 000                         CANNING VALE   
+#!LABEL2B!#                                                                                               
+00038190PART NOT IN TARGET WAREHOUSE            999BI 000                                  CANNING VALE   
+#!LABEL2B!#                                                                                               
+00040264JACKET FLYING CWIN0051DN REF YE/NA 92   32205B002999BI 000                         CANNING VALE   
+#!LABEL2B!#                                                                                               
+00040281JACKET FLYING CWIN0051DN REF YE/NA 97   32205A002120001002                         CANNING VALE   
+#!LABEL2B!#                                                                                               
+00040298JACKET FLYING CWIN0051DN REF YE/NA 102  32236A001120001002                         CANNING VALE   
+#!LABEL2B!#                                                                                               
+00040315JACKET FLYING CWIN0051DN REF YE/NA 107  32205A001120001002                         CANNING VALE   
+#!LABEL2B!#                                                                                               
+00040332JACKET FLYING CWIN0051DN REF YE/NA 112  32228A001120001002                         CANNING VALE   
+#!LABEL2B!#                                                                                               
+00040349JACKET FLYING CWIN0051DN REF YE/NA 117  32213A002120001002                         CANNING VALE   
+#!LABEL2B!#                                                                                               
+00040366JACKET FLYING CWIN0051DN REF YE/NA 122  32231A001120001002                         CANNING VALE   
+#!LABEL2B!#                                                                                               

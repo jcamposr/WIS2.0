@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<!--15/08/2013 11:22:02 a.m.-->
+<FormSet>
+	<FormSetInfo hidden="0" checksum="false">
+		<Name><![CDATA[CREDIT]]></Name>
+		<OriginalName><![CDATA[CREDIT]]></OriginalName>
+		<Comment><![CDATA[ ]]></Comment>
+		<Description><![CDATA[ ]]></Description>
+		<DataType><![CDATA[_TEXT]]></DataType>
+		<Author><![CDATA[ ]]></Author>
+		<CreationDate><![CDATA[1361685683]]></CreationDate>
+		<LastModifiedDate><![CDATA[1376529720]]></LastModifiedDate>
+		<Language><![CDATA[en-US]]></Language>
+	</FormSetInfo>
+	<versioninformation>
+		<createdby name="LFComposer" version="3.4.4.0"></createdby>
+		<forms version="1.1.0.0"></forms>
+	</versioninformation>
+	<SubformLevels><![CDATA[1]]></SubformLevels>
+	<CanMerge><![CDATA[true]]></CanMerge>
+	<PdfProjectFile><![CDATA[CREDIT.PDF]]></PdfProjectFile>
+	<Mode><![CDATA[3]]></Mode>
+	<ACP><![CDATA[1252]]></ACP>
+	<SubformPosition LeftMost="30" TopMost="25" RightMost="1150" BottomMost="806"></SubformPosition>
+	<TotalPages><![CDATA[1]]></TotalPages>
+	<ProjectImages>
+	</ProjectImages>
+	<PDFPAGES>
+		<Page num="1">
+			<File><![CDATA[CREDIT.PDF]]></File>
+			<FilePage><![CDATA[1]]></FilePage>
+		</Page>
+	</PDFPAGES>
+	<PROPERTIES>
+		<PDFKeywords><![CDATA[ ]]></PDFKeywords>
+		<PDFSubject><![CDATA[ ]]></PDFSubject>
+		<PDFTitle><![CDATA[ ]]></PDFTitle>
+		<PDFVersion><![CDATA[1.4]]></PDFVersion>
+		<PDFFontMode><![CDATA[False]]></PDFFontMode>
+		<PDFFonts>
+		</PDFFonts>
+		<Permissions Perm1="False" Perm2="False" Perm3="False" Perm4="False"></Permissions>
+		<UNITS><![CDATA[CM]]></UNITS>
+		<Page>
+			<PageNum><![CDATA[1]]></PageNum>
+			<PageSetting><![CDATA[A4]]></PageSetting>
+			<LMargin><![CDATA[0.200694441795349]]></LMargin>
+			<RMargin><![CDATA[0.200694441795349]]></RMargin>
+			<TMargin><![CDATA[0.200694441795349]]></TMargin>
+			<BMargin><![CDATA[0.200694441795349]]></BMargin>
+			<Landscape><![CDATA[1]]></Landscape>
+			<RFIDMedia RFIDMedia="False"></RFIDMedia>
+		</Page>
+	</PROPERTIES>
+	<ADDITIONAL_FILES>
+	</ADDITIONAL_FILES>
+	<CodePage><![CDATA[1252]]></CodePage>
+	<DataProperties>
+		<LinesPerPage><![CDATA[0]]></LinesPerPage>
+		<PageDelimiter><![CDATA[FF]]></PageDelimiter>
+	</DataProperties>
+	<currentMapFile><![CDATA[credit.fmp]]></currentMapFile>
+	<DataMapFiles>
+		<File><![CDATA[credit.fmp]]></File>
+	</DataMapFiles>
+	<WorkFlowVars>
+		<PrintForm><![CDATA[true]]></PrintForm>
+	</WorkFlowVars>
+	<Files encryptchildren="true">
+		<File name="CREDIT.WPF"/>
+		<File name="CREDIT.LFM"/>
+		<File name="CREDIT.PDF"/>
+	</Files>
+</FormSet>

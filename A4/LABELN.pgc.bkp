@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--8/03/2013 2:21:22 p.m.--><PageConditions DataType="_TEXT" FormSet="LABELN">&#xD;
+  <ConditionSet>&#xD;
+    <FieldMap>labeln.fmp</FieldMap>&#xD;
+    <Condition>&#xD;
+      <FieldName>TRIGGER1</FieldName>&#xD;
+      <Position>&#xD;
+        <Row>1</Row>&#xD;
+        <Column>1</Column>&#xD;
+        <Length>12</Length>&#xD;
+        <Depth>1</Depth>&#xD;
+      </Position>&#xD;
+      <Operation><![CDATA[=]]></Operation>&#xD;
+      <CompareValue><![CDATA[#!LABELN!#]]></CompareValue>&#xD;
+      <CompareType>String</CompareType>&#xD;
+    </Condition>&#xD;
+    <OutputForms>&#xD;
+      <Form>&#xD;
+        <Page>1</Page>&#xD;
+        <PagePrint>LABEL33.ppf</PagePrint>&#xD;
+      </Form>&#xD;
+    </OutputForms>&#xD;
+    <JobProperties>&#xD;
+      <FirstPage>True</FirstPage>&#xD;
+      <LastPage>False</LastPage>&#xD;
+      <ScriptName></ScriptName>&#xD;
+      <JobProfile></JobProfile>&#xD;
+    </JobProperties>&#xD;
+  </ConditionSet>&#xD;
+  <PagePrintProfiles>&#xD;
+    <File>LABEL33.ppf</File>&#xD;
+    <File></File>&#xD;
+  </PagePrintProfiles>&#xD;
+</PageConditions>

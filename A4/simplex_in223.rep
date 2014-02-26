@@ -1,0 +1,242 @@
+#!SIMPLEX!#                                                                                                                         
+                                                   J. BLACKWOOD & SON PTY LIMITED - KUNUNURRA                              IN223    
+
+DATE OF RUN 15/05/13 02:31:42  USER= OPS                   LOAD LIST                                                      PAGE   1  
+
+RUN NO= 00 CALLING COUNTER                                                                                                          
+
+DROP        NAME                            DEBTOR INVOICE   REFERENCE    SUPP INVOICE     PACKING      CUSTOMER                    
+ NO.                                          NO.    NO.         NO.       W/H  VALUE      DETAILS      ORDER NO.                   
+
+   0 ARGYLE ENGINEERING                     011531 KMAL8374 30510-13382-01 01     49.42               5303                          
+                                                                                                                                    
+        INVOICES:   1      0 PACKAGES     TYPES=                                                                                    
+
+   0 KUNUNURRA COMMERCIAL BODY WORKS        013807 KMAL8357 30514-13482-01 01     34.29               20                    * MSDS *
+                                                                                                                                    
+        INVOICES:   1      0 PACKAGES     TYPES=                                                                                    
+
+   0 KUNUNURRA MAINTENANCE SERVICE          016132 KMAL8347 30514-13473-01 01    153.08               P01579                        
+
+   0 KUNUNURRA MAINTENANCE SERVICE          016132 KMAL8380 30514-13503-01 01    124.10               0106                          
+                                                                                                                                    
+        INVOICES:   2      0 PACKAGES     TYPES=                                                                                    
+
+   0 FAMIGETA PTY LTD                       026183 KMAL8346 30514-13472-01 01     56.50               TANGLES                       
+                                                                                                                                    
+        INVOICES:   1      0 PACKAGES     TYPES=                                                                                    
+
+   0 ROBIN JOHNSON ENGINEERING PTY LTD      074753 KMAL8345 30514-13470-01 01    374.09               1681-034-0011         * MSDS *
+                                                                                                                                    
+        INVOICES:   1      0 PACKAGES     TYPES=                                                                                    
+
+   0 MOONAMANG JOINT VENTURE                074917 KMAL8385 30429-12895-05 01    301.51               10024909                      
+                                                                                                                                    
+        INVOICES:   1      0 PACKAGES     TYPES=                                                                                    
+
+   0 ARGYLE DIAMOND MINES PTY LTD           075533 KMAL8386 30426-12877-04 01    558.80               3003838687                    
+
+   0 ARGYLE DIAMOND MINES PTY LTD           075533 KMAL8375 30429-12949-03 01   1148.40               3003843383                    
+
+   0 ARGYLE DIAMOND MINES PTY LTD           075533 KMAL8378 30429-12949-04 01    404.18               3003843383                    
+
+   0 ARGYLE DIAMOND MINES PTY LTD           075533 KMAL8358 30501-13045-05 01    514.01               3003848622                    
+
+   0 ARGYLE DIAMOND MINES PTY LTD           075533 KMAL8356 30506-13164-01 01    211.20               3003857232                    
+
+   0 ARGYLE DIAMOND MINES PTY LTD           075533 KMAL8381 30506-13191-02 01    473.59               3003858316                    
+
+   0 ARGYLE DIAMOND MINES PTY LTD           075533 KMAL8352 30513-13461-01 01      1.91               3003874444                    
+
+   0 ARGYLE DIAMOND MINES PTY LTD           075533 KMAL8342 30513-13467-01 01   1979.51               3003874973                    
+
+   0 ARGYLE DIAMOND MINES PTY LTD           075533 KMAL8366 30514-13493-01 01     65.79               3003876790                    
+                                                                                                                                    
+        INVOICES:   9      0 PACKAGES     TYPES=                                                                                    
+
+   0 BF CONSTRUCTIONS                       075764 KMAL8382 30514-13504-01 01     28.29               BARRY                         
+                                                                                                                                    
+        INVOICES:   1      0 PACKAGES     TYPES=                                                                                    
+                                                   J. BLACKWOOD & SON PTY LIMITED - KUNUNURRA                              IN223    
+
+DATE OF RUN 15/05/13 02:31:42  USER= OPS                   LOAD LIST                                                      PAGE   2  
+
+RUN NO= 00 CALLING COUNTER                                                                                                          
+
+DROP        NAME                            DEBTOR INVOICE   REFERENCE    SUPP INVOICE     PACKING      CUSTOMER                    
+ NO.                                          NO.    NO.         NO.       W/H  VALUE      DETAILS      ORDER NO.                   
+
+   0 FLICK REFRIGERATION                    078836 KMAL8354 30514-13480-01 01    401.22               KM140513103901                
+                                                                                                                                    
+        INVOICES:   1      0 PACKAGES     TYPES=                                                                                    
+
+   0 DMW CAMS PTY LTD                       080389 KMAL8389 30514-13510-01 01    760.67               ROSALIND MCCOY                
+                                                                                                                                    
+        INVOICES:   1      0 PACKAGES     TYPES=                                                                                    
+
+   0 JASPER ORD                             082417 KMAL8360 30514-13484-01 01     48.49               2262                          
+
+   0 JASPER ORD                             082417 KMAL8400 30514-13485-01 01    244.78               2262                          
+                                                                                                                                    
+        INVOICES:   2      0 PACKAGES     TYPES=                                                                                    
+
+   0 LEIGHTON CONTRACTORS PTY LTD           083216 KMAL8387 30514-13507-01 01    138.12               E6006382                      
+                                                                                                                                    
+        INVOICES:   1      0 PACKAGES     TYPES=                                                                                    
+
+   0 SEARLES MECHANICAL REPAIRS             083449 KMAL8362 30514-13488-01 01    166.52               TROY                          
+
+   0 SEARLES MECHANICAL REPAIRS             083449 KMAL8377 30514-13502-01 01    163.94               RALPH                         
+                                                                                                                                    
+        INVOICES:   2      0 PACKAGES     TYPES=                                                                                    
+
+   0 DEPARTMENT OF ENVIRONMENT & CONSERVATI 085703 KMAL8367 30514-13494-01 01    133.19               KM140513123947                
+                                                                                                                                    
+        INVOICES:   1      0 PACKAGES     TYPES=                                                                                    
+
+   0 WATER CORP - CR CARD A/C               085827 KMAL8383 30514-13505-01 01     49.67               KM140513141805                
+
+   0 WATER CORP - CR CARD A/C               085827 KMAL8384 30514-13506-01 01    303.60               KM140513141951                
+                                                                                                                                    
+        INVOICES:   2      0 PACKAGES     TYPES=                                                                                    
+
+   0 COOMALIE AIR MAINTENANCE PL            087457 KMAL8344 30514-13469-01 01     19.31               BRAD                          
+                                                                                                                                    
+        INVOICES:   1      0 PACKAGES     TYPES=                                                                                    
+
+   0 NORTHERN METALWORK                     087689 KMAL8365 30514-13492-01 01    227.97               .                             
+                                                                                                                                    
+        INVOICES:   1      0 PACKAGES     TYPES=                                                                                    
+
+   0 SHOAL AIR PTY LTD                      101305 KMAL8368 30514-13495-01 01    147.64               LO                            
+                                                                                                                                    
+        INVOICES:   1      0 PACKAGES     TYPES=                                                                                    
+
+   0 TROPICAL FORESTRY SERVICES LTD         171881 KMAL8372 30514-13500-01 01    234.17               A18639                * MSDS *
+                                                                                                                                    
+        INVOICES:   1      0 PACKAGES     TYPES=                                                                                    
+                                                   J. BLACKWOOD & SON PTY LIMITED - KUNUNURRA                              IN223    
+
+DATE OF RUN 15/05/13 02:31:42  USER= OPS                   LOAD LIST                                                      PAGE   3  
+
+RUN NO= 00 CALLING COUNTER                                                                                                          
+
+DROP        NAME                            DEBTOR INVOICE   REFERENCE    SUPP INVOICE     PACKING      CUSTOMER                    
+ NO.                                          NO.    NO.         NO.       W/H  VALUE      DETAILS      ORDER NO.                   
+
+   0 BERM BACKHOE HIRE                      255053 KMAL8369 30514-13496-01 01     16.82               .                             
+                                                                                                                                    
+        INVOICES:   1      0 PACKAGES     TYPES=                                                                                    
+
+   0 HORIZON POWER - IP                     266753 KMAL8370 30514-13498-01 01    474.87               STEWY                 * MSDS *
+                                                                                                                                    
+        INVOICES:   1      0 PACKAGES     TYPES=                                                                                    
+
+   0 KUNUNURRA LAKESIDE RESORT              268015 KMAL8361 30514-13486-01 01      4.35               LAURIE                        
+                                                                                                                                    
+        INVOICES:   1      0 PACKAGES     TYPES=                                                                                    
+
+   0 ARGYLE DIAMOND MINES PTY LTD           271956 KMAL8390 30514-13508-01 01  15276.31               U/GROUND140513                
+
+   0 ARGYLE DIAMOND MINES PTY LTD           271956 KMAL8391 30514-13508-02 01    171.60               U/GROUND140513        * MSDS *
+
+   0 ARGYLE DIAMOND MINES PTY LTD           271956 KMAL8392 30514-13511-01 01    647.61               HILL140513                    
+
+   0 ARGYLE DIAMOND MINES PTY LTD           271956 KMAL8393 30514-13512-01 01   3117.85               BELT140513                    
+
+   0 ARGYLE DIAMOND MINES PTY LTD           271956 KMAL8394 30514-13512-02 01    321.68               BELT140513            * MSDS *
+
+   0 ARGYLE DIAMOND MINES PTY LTD           271956 KMAL8399 30514-13518-01 01    194.21               BELTSHOP140513                
+                                                                                                                                    
+        INVOICES:   6      0 PACKAGES     TYPES=                                                                                    
+
+   0 GAMLEC ELECTRICAL                      278658 KMAL8398 30514-13516-01 01    101.52               GITTA                         
+                                                                                                                                    
+        INVOICES:   1      0 PACKAGES     TYPES=                                                                                    
+
+   0 U E A CIVIL AND MINING PTY LTD         280193 KMAL8348 30514-13474-01 01    491.82               111867                        
+                                                                                                                                    
+        INVOICES:   1      0 PACKAGES     TYPES=                                                                                    
+
+   0 PLANT HIRE SERVICES PTY LTD            280339 KMAL8350 30514-13476-01 01    104.71               JED                           
+                                                                                                                                    
+        INVOICES:   1      0 PACKAGES     TYPES=                                                                                    
+
+   0 KUNUNURRA JBS CASH SALE ACCOUNT        900225 KMAL8376 30430-12961-02 01    527.00               KM300413095042                
+
+   0 KUNUNURRA JBS CASH SALE ACCOUNT        900225 KMAL8379 30430-12995-02 01     91.39               KM300413163621                
+
+   0 KUNUNURRA JBS CASH SALE ACCOUNT        900225 KMAL8351 30514-13477-01 01     23.39               KM140513094223                
+
+   0 KUNUNURRA JBS CASH SALE ACCOUNT        900225 KMAL8353 30514-13479-01 01     12.90               KM140513102918                
+
+   0 KUNUNURRA JBS CASH SALE ACCOUNT        900225 KMAL8355 30514-13481-01 01    299.66               KM140513104833                
+
+   0 KUNUNURRA JBS CASH SALE ACCOUNT        900225 KMAL8359 30514-13483-01 01    284.37               KM140513114939                
+                                                   J. BLACKWOOD & SON PTY LIMITED - KUNUNURRA                              IN223    
+
+DATE OF RUN 15/05/13 02:31:42  USER= OPS                   LOAD LIST                                                      PAGE   4  
+
+RUN NO= 00 CALLING COUNTER                                                                                                          
+
+DROP        NAME                            DEBTOR INVOICE   REFERENCE    SUPP INVOICE     PACKING      CUSTOMER                    
+ NO.                                          NO.    NO.         NO.       W/H  VALUE      DETAILS      ORDER NO.                   
+
+   0 KUNUNURRA JBS CASH SALE ACCOUNT        900225 KMAL8371 30514-13499-01 01      8.10               KM140513132128                
+
+   0 KUNUNURRA JBS CASH SALE ACCOUNT        900225 KMAL8373 30514-13501-01 01     32.21               KM140513132558                
+
+   0 KUNUNURRA JBS CASH SALE ACCOUNT        900225 KMAL8388 30514-13509-01 01    341.20               KM140513150647                
+
+   0 KUNUNURRA JBS CASH SALE ACCOUNT        900225 KMAL8396 30514-13514-01 01      8.15               KM140513155325                
+                                                                                                                                    
+        INVOICES:  10      0 PACKAGES     TYPES=                                                                                    
+
+   0 GIFTS                                  IT0009 KMAL8395 30514-13513-01 01    995.00               JBD                           
+                                                                                                                                    
+        INVOICES:   1      0 PACKAGES     TYPES=                                                                                    
+                                                                                                                                    
+RUN TOTALS         NUMBER OF CUSTOMERS:   28               TOTAL PACKAGING:                                                         
+==========              TOTAL INVOICES:   54               ---------------                                                          
+                                                                                                                                    
+               TOTAL VALUE OF INVOICES:    33064.68                                                                                 
+                                                   J. BLACKWOOD & SON PTY LIMITED - KUNUNURRA                              IN223    
+
+DATE OF RUN 15/05/13 02:31:42  USER= OPS                   LOAD LIST                                                      PAGE   5  
+
+RUN NO= 09 ** RUN NO. NOT IN CODM                                                                                                   
+
+DROP        NAME                            DEBTOR INVOICE   REFERENCE    SUPP INVOICE     PACKING      CUSTOMER                    
+ NO.                                          NO.    NO.         NO.       W/H  VALUE      DETAILS      ORDER NO.                   
+
+   0 BLACKWOODS - CANNINGVALE               BT4009 KMAL8349 30514-13475-01 01     28.52               PE471858MP                    
+
+   0 BLACKWOODS - CANNINGVALE               BT4009 KMAL8363 30514-13490-01 01     14.26               PE471927MP                    
+
+   0 BLACKWOODS - CANNINGVALE               BT4009 KMAL8364 30514-13491-01 01     14.26               PE471929MP                    
+                                                                                                                                    
+        INVOICES:   3      0 PACKAGES     TYPES=                                                                                    
+                                                                                                                                    
+RUN TOTALS         NUMBER OF CUSTOMERS:    1               TOTAL PACKAGING:                                                         
+==========              TOTAL INVOICES:    3               ---------------                                                          
+                                                                                                                                    
+               TOTAL VALUE OF INVOICES:       57.04                                                                                 
+                                                   J. BLACKWOOD & SON PTY LIMITED - KUNUNURRA                              IN223    
+
+DATE OF RUN 15/05/13 02:31:42  USER= OPS                   LOAD LIST                                                      PAGE   6  
+
+RUN NO= 99 OTHER                                                                                                                    
+
+DROP        NAME                            DEBTOR INVOICE   REFERENCE    SUPP INVOICE     PACKING      CUSTOMER                    
+ NO.                                          NO.    NO.         NO.       W/H  VALUE      DETAILS      ORDER NO.                   
+
+   0 HORIZON POWER - IP                     266753 KMAL8397 30514-13515-00 01    757.57               ACCOUNT PAYMENT               
+                                                                                                                                    
+        INVOICES:   1      0 PACKAGES     TYPES=                                                                                    
+                                                                                                                                    
+RUN TOTALS         NUMBER OF CUSTOMERS:    1               TOTAL PACKAGING:                                                         
+==========              TOTAL INVOICES:    1               ---------------                                                          
+                                                                                                                                    
+               TOTAL VALUE OF INVOICES:      757.57                                                                                 
+
+                                                           ****** END OF REPORT ******                                              

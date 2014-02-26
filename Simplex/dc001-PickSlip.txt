@@ -1,0 +1,30 @@
+
+===================================================================================================================================================
+REPRINT PICKING SLIP : 306253907000                       Picker:U                  u          Despatch Date: Tuesday   25/06/13     Printed Date: 25/06/13
+===================================================================================================================================================
+CUST # : 015657         Batch :    Line ID : PRIC   Carrier : LOCAL      Zone : 03         Labels : 1    Shippers    2
+STEWART BAKER                                                                                  Preallocate : YES 25/06/13 05:18:13
+UNIT 10                                           
+106 OLD PITWATER RD                               
+BROOKVALE                                                                                                                                    PAGE 1
+                                                    2100      
+---------------------------------------------------------------------------------------------------------------------------------------------------
+Line         | Loc Digit | Product No.   | Product Description                      | Location  | Stock ID |     Ordered | UOM          | Picked   
+---------------------------------------------------------------------------------------------------------------------------------------------------
+             |           |               |                                          |           |          |             |              |          
+004          | U         u | 01275330      | DISC GRINDING E125 7A 30 MPSF INOX       | 08145201  | A4666737 |          10 | EA           |        10
+             |           |               |                                          |           |          |             |              |          
+001          | U         u | 04216308      | BRUSH BOILER TUBE SIT 25MM X 1/2" BSW    | 11143302  | A4689765 |           6 | EA           | U         u
+             |           |               |                                          |           |          |             |              |          
+002          | U         u | 04332950      | GLOVES LEATHER RIGGERS ECONOMY LRG BGE   | 37260501  | A4659560 |          20 | PR           |        20
+             |           |               |                                          |           |          |             |              |          
+003          | U         u | 06311529      | WIRE MIG JBS ER70S-6 0.9MM 15KG          | CLWH2     | A4706500 |           2 | RL           | U         u
+             |           |               | W                                        |           |          |             |              |          
+             |           | Instruction : | 4XMKEX0100000099                         |           |          |             |              |          
+                                                                                                             ===========                           
+                                                                                                                      38                              
+
+TOTAL ITEMS : 4                                                    Despatch Location: DESPATCH            
+
+
+                                                  PACKED BY U                u DATE U         u TIME U       u

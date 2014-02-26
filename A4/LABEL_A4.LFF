@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<!--2/13/2014 2:04:31 PM-->
+<FormSet>
+	<FormSetInfo hidden="0" checksum="false">
+		<Name><![CDATA[LABEL_A4]]></Name>
+		<OriginalName><![CDATA[LABEL_A4]]></OriginalName>
+		<Comment><![CDATA[ ]]></Comment>
+		<Description><![CDATA[ ]]></Description>
+		<DataType><![CDATA[_TEXT]]></DataType>
+		<Author><![CDATA[ ]]></Author>
+		<CreationDate><![CDATA[1392260670]]></CreationDate>
+		<LastModifiedDate><![CDATA[1392260670]]></LastModifiedDate>
+		<Language><![CDATA[en-US]]></Language>
+	</FormSetInfo>
+	<versioninformation>
+		<createdby name="LFComposer" version="3.4.4.0"></createdby>
+		<forms version="1.1.0.0"></forms>
+	</versioninformation>
+	<CanMerge><![CDATA[true]]></CanMerge>
+	<PdfProjectFile><![CDATA[LABEL_A4.PDF]]></PdfProjectFile>
+	<Mode><![CDATA[0]]></Mode>
+	<ACP><![CDATA[1252]]></ACP>
+	<TotalPages><![CDATA[2]]></TotalPages>
+	<ProjectImages>
+		<Image Page="1" File="LABEL_A41.jpg"></Image>
+		<Image Page="2" File="LABEL_A42.jpg"></Image>
+	</ProjectImages>
+	<PDFPAGES>
+		<Page num="1">
+			<File><![CDATA[LABEL_A4.PDF]]></File>
+			<FilePage><![CDATA[1]]></FilePage>
+		</Page>
+		<Page num="2">
+			<File><![CDATA[LABEL_A4.PDF]]></File>
+			<FilePage><![CDATA[2]]></FilePage>
+		</Page>
+	</PDFPAGES>
+	<PROPERTIES>
+		<PDFKeywords><![CDATA[ ]]></PDFKeywords>
+		<PDFSubject><![CDATA[ ]]></PDFSubject>
+		<PDFTitle><![CDATA[ ]]></PDFTitle>
+		<PDFVersion><![CDATA[1.7]]></PDFVersion>
+		<PDFFontMode><![CDATA[False]]></PDFFontMode>
+		<PDFFonts>
+		</PDFFonts>
+		<Permissions Perm1="False" Perm2="False" Perm3="False" Perm4="False"></Permissions>
+		<UNITS><![CDATA[CM]]></UNITS>
+		<Page>
+			<PageNum><![CDATA[1]]></PageNum>
+			<PageSetting><![CDATA[A4]]></PageSetting>
+			<LMargin><![CDATA[0.200694441795349]]></LMargin>
+			<RMargin><![CDATA[0.200694441795349]]></RMargin>
+			<TMargin><![CDATA[0.200694441795349]]></TMargin>
+			<BMargin><![CDATA[0.200694441795349]]></BMargin>
+			<Landscape><![CDATA[0]]></Landscape>
+			<RFIDMedia RFIDMedia="False"></RFIDMedia>
+		</Page>
+		<Page>
+			<PageNum><![CDATA[2]]></PageNum>
+			<PageSetting><![CDATA[A4]]></PageSetting>
+			<LMargin><![CDATA[0.200694441795349]]></LMargin>
+			<RMargin><![CDATA[0.200694441795349]]></RMargin>
+			<TMargin><![CDATA[0.200694441795349]]></TMargin>
+			<BMargin><![CDATA[0.200694441795349]]></BMargin>
+			<Landscape><![CDATA[0]]></Landscape>
+			<RFIDMedia RFIDMedia="False"></RFIDMedia>
+		</Page>
+	</PROPERTIES>
+	<ADDITIONAL_FILES>
+	</ADDITIONAL_FILES>
+	<CodePage><![CDATA[1252]]></CodePage>
+	<DataProperties>
+		<LinesPerPage><![CDATA[0]]></LinesPerPage>
+		<PageDelimiter><![CDATA[FF]]></PageDelimiter>
+	</DataProperties>
+	<currentMapFile><![CDATA[label.fmp]]></currentMapFile>
+	<DataMapFiles>
+		<File><![CDATA[label.fmp]]></File>
+		<File><![CDATA[label_dockio.fmp]]></File>
+		<File><![CDATA[label_wg.fmp]]></File>
+		<File><![CDATA[label_zone.fmp]]></File>
+	</DataMapFiles>
+	<WorkFlowVars>
+		<PrintForm><![CDATA[true]]></PrintForm>
+	</WorkFlowVars>
+	<DataFile><![CDATA[pal_mel1_jobno_sample1.txt]]></DataFile>
+	<Files encryptchildren="true">
+		<File name="LABEL_A4.WPF"/>
+		<File name="LABEL_A4.LFM"/>
+		<File name="LABEL_A4.pjc"/>
+		<File name="LABEL_A4.pgc"/>
+		<File name="LABEL_A41.jpg"/>
+		<File name="LABEL_A42.jpg"/>
+		<File name="LABEL_A4.PDF"/>
+		<File name="label.fmp"/>
+		<File name="label_dockio.fmp"/>
+		<File name="label_wg.fmp"/>
+		<File name="label_zone.fmp"/>
+		<File name="pal_mel1_jobno_sample1.txt"/>
+		<File name="label.ppf"/>
+	</Files>
+</FormSet>

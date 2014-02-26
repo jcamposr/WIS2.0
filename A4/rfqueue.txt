@@ -1,0 +1,377 @@
+
+RF QUEUE REPORT   WEDNESDAY, DECEMBER 4, 2013 08:21          PAGE   1
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+PICK  | PICK | STOCK ID | REFERENCE      | QUANTITY   | UOM | FROM       | ASSIGN TO | ACTIONED | ACTIONED | CREATED  | CUSTOMER     | CUSTOMER                            | 
+GROUP | LINE |          | NUMBER         |            |     | LOCATION   | EMPLOYEE  | DATE     | TIME     | EMPLOYEE | CODE         | NAME                                | 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+GS2A  | 86A  | A4813268 | 312045002201   |      6.000 | BX  | 86190101   |           |   /  /   |          | CONCURRE | 095693       | SUBAKETTE PTY LTD                   | 
+GS2B  | 84B  | A4782810 | 312045005201   |     10.000 | EA  | 84230101   |           |   /  /   |          | CONCURRE | 007078       | GE ENERGY SERVICES                  | 
+GS1C  | 79C  | A4815762 | 310282667104   |     17.000 | EA  | 79210601   |           |   /  /   |          | CONCURRE | BT5536       | J. BLACKWOOD & SON PTY LIMITED      | 
+WHSE  | 03   | A4765406 | 312024902301   |      2.000 | RL  | 52010201   |           | 03/12/13 | 20:03:14 | CONCURRE | BT4019       | J. BLACKWOOD & SON PTY LIMITED      | 
+WHSE  | 01   | A4826077 | 310041424803   |      1.000 | EA  | 33650101   |           | 04/12/13 | 05:15:53 | CONCURRE | BT4015       | BLACKWOODS MACKAY QLD               | 
+GS3   | 92   | A4824560 | 310312942908   |      5.000 | EA  | 92040301   |           | 04/12/13 | 05:15:53 | CONCURRE | BT4018       | J. BLACKWOOD & SON LIMITED          | 
+15    | 15   | A4825464 | 311013100008   |      4.000 | EA  | 15113401   |           | 04/12/13 | 05:15:53 | CONCURRE | BT4009       | J. BLACKWOOD & SON PTY LIMITED      | 
+WHSE  | 01   | A4826031 | 311063301403   |      1.000 | EA  | 33650101   |           | 04/12/13 | 05:15:53 | CONCURRE | BT4001       | BLACKWOODS MELBOURNE VIC            | 
+WHSE  | 02   | A4740666 | 311264489105   |      2.000 | EA  | 23110401   |           | 04/12/13 | 05:15:53 | CONCURRE | BT4017       | J. BLACKWOOD & SON PTY LIMITED      | 
+WHSE  | 01A  | A4817554 | 311264489407   |      2.000 | EA  | 46040105   |           | 04/12/13 | 05:15:53 | CONCURRE | BT4015       | BLACKWOODS MACKAY QLD               | 
+GS2A  | 96A  | A4753181 | 311264531707   |      2.000 | EA  | 96200101   |           | 04/12/13 | 05:15:53 | CONCURRE | BT6011       | J. BLACKWOOD & SON PTY LIMITED      | 
+GS1A  | 78A  | A4820056 | 311264544206   |      0.200 | PH  | 78210503   |           | 04/12/13 | 05:15:53 | CONCURRE | BT6011       | J. BLACKWOOD & SON PTY LIMITED      | 
+GS3A  | 92A  | A4789971 | 311264544906   |      1.000 | EA  | 92070203   |           | 04/12/13 | 05:15:53 | CONCURRE | BT4005       | J. BLACKWOOD & SON PTY LIMITED      | 
+WHSE  | 02   | A4661136 | 311274574309   |      1.000 | EA  | 23060101   |           | 04/12/13 | 05:15:53 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+07    | 07   | A4802494 | 311294778704   |      5.000 | EA  | 07094201   |           | 04/12/13 | 05:15:53 | CONCURRE | BT4018       | J. BLACKWOOD & SON LIMITED          | 
+WHSE  | 01A  | A4817554 | 311294779106   |      2.000 | EA  | 46040105   |           | 04/12/13 | 05:15:53 | CONCURRE | BT4018       | J. BLACKWOOD & SON LIMITED          | 
+WHSE  | 01A  | A4817554 | 311294802504   |      2.000 | EA  | 46040105   |           | 04/12/13 | 05:15:53 | CONCURRE | BT4015       | BLACKWOODS MACKAY QLD               | 
+GS2C  | 93C  | A4824491 | 311294802504   |     20.000 | EA  | 93240303   |           | 04/12/13 | 05:15:53 | CONCURRE | BT4015       | BLACKWOODS MACKAY QLD               | 
+GS2C  | 93C  | A4824492 | 311294802504   |     20.000 | EA  | 93230303   |           | 04/12/13 | 05:15:53 | CONCURRE | BT4015       | BLACKWOODS MACKAY QLD               | 
+GS2B  | 83B  | A4815916 | 312024829004   |     50.000 | EA  | 83270101   |           | 04/12/13 | 05:15:53 | CONCURRE | BT4019       | J. BLACKWOOD & SON PTY LIMITED      | 
+13    | 13   | A4679642 | 312024835505   |      1.000 | EA  | 13122103   |           | 04/12/13 | 05:15:53 | CONCURRE | BT4018       | J. BLACKWOOD & SON LIMITED          | 
+WHSE  | 01   | A4781595 | 312024835505   |      6.000 | EA  | 36030109   |           | 04/12/13 | 05:15:53 | CONCURRE | BT4018       | J. BLACKWOOD & SON LIMITED          | 
+15    | 15   | A4739415 | 312024836107   |      1.000 | EA  | 15636201   |           | 04/12/13 | 05:15:53 | CONCURRE | BT4018       | J. BLACKWOOD & SON LIMITED          | 
+WHSE  | 03   | A4765406 | 312024842404   |      2.000 | RL  | 52010201   |           | 04/12/13 | 05:15:53 | CONCURRE | BT4019       | J. BLACKWOOD & SON PTY LIMITED      | 
+GS3   | 92   | A4817743 | 312024873206   |      1.000 | EA  | 92040602   |           | 04/12/13 | 05:15:53 | CONCURRE | BT4017       | J. BLACKWOOD & SON PTY LIMITED      | 
+WHSE  | 34A  | A4825088 | 312024883306   |     84.000 | EA  | 71640101   |           | 04/12/13 | 05:15:53 | CONCURRE | BT4017       | J. BLACKWOOD & SON PTY LIMITED      | 
+WHSE  | 04A  | A4825248 | 312024889203   |     24.000 | MR  | 22630201   |           | 04/12/13 | 05:15:53 | CONCURRE | BT4009       | J. BLACKWOOD & SON PTY LIMITED      | 
+GS1D  | 78D  | A4824584 | 312034916106   |     30.000 | PH  | 78281102   |           | 04/12/13 | 05:15:53 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+14    | 14   | A4826217 | 310232449908   |      1.000 | EA  | 14014303   |           | 04/12/13 | 05:15:53 | CONCURRE | BT4008       | J. BLACKWOOD & SON PTY LIMITED      | 
+16    | 16   | A4783561 | 312034974701   |      6.000 | EA  | 16082501   |           | 04/12/13 | 05:15:53 | CONCURRE | BT5517       | BLACKWOODS SOUTHPORT QLD            | 
+GS2B  | 82B  | A4748018 | 312034976701   |     20.000 | EA  | 82370201   |           | 04/12/13 | 05:15:53 | CONCURRE | BT5516       | BLACKWOODS LISMORE NSW              | 
+13    | 13   | A4781866 | 312034976701   |      2.000 | EA  | 13626301   |           | 04/12/13 | 05:15:53 | CONCURRE | BT5516       | BLACKWOODS LISMORE NSW              | 
+GS2B  | 97B  | A4770598 | 312034976701   |     20.000 | EA  | 97300101   |           | 04/12/13 | 05:15:53 | CONCURRE | BT5516       | BLACKWOODS LISMORE NSW              | 
+GS3   | 88   | A4813099 | 312034976701   |      1.000 | EA  | 88080401   |           | 04/12/13 | 05:15:53 | CONCURRE | BT5516       | BLACKWOODS LISMORE NSW              | 
+12    | 12   | A4786691 | 312034976701   |     10.000 | EA  | 12586101   |           | 04/12/13 | 05:15:53 | CONCURRE | BT5516       | BLACKWOODS LISMORE NSW              | 
+GS1   | 75   | A4824624 | 312034976701   |      5.000 | CA  | 75060501   |           | 04/12/13 | 05:15:53 | CONCURRE | BT5516       | BLACKWOODS LISMORE NSW              | 
+15    | 15   | A4769408 | 312034977001   |      1.000 | EA  | 15731101   |           | 04/12/13 | 05:15:53 | CONCURRE | BT5541       | J. BLACKWOOD & SON PTY LIMITED      | 
+13    | 13   | A4706117 | 312034977301   |      3.000 | EA  | 13145402   |           | 04/12/13 | 05:15:53 | CONCURRE | BT5556       | BLACKWOODS LTD                      | 
+09    | 09   | A4781885 | 312034977301   |      1.000 | EA  | 09191401   |           | 04/12/13 | 05:15:53 | CONCURRE | BT5556       | BLACKWOODS LTD                      | 
+18    | 18   | A4379398 | 312034977501   |     24.000 | EA  | 18194601   |           | 04/12/13 | 05:15:53 | CONCURRE | BT4020       | J. BLACKWOOD & SON PTY LIMITED      | 
+18    | 18   | A4821801 | 312034978101   |      6.000 | EA  | 18051601   |           | 04/12/13 | 05:15:53 | CONCURRE | BT6011       | J. BLACKWOOD & SON PTY LIMITED      | 
+GS2   | 85   | A4777025 | 312034978301   |      2.000 | EA  | 85170301   |           | 04/12/13 | 05:15:53 | CONCURRE | BT4017       | J. BLACKWOOD & SON PTY LIMITED      | 
+GS2C  | 82C  | A4821679 | 312034978401   |      2.000 | EA  | 82360601   |           | 04/12/13 | 05:15:53 | CONCURRE | BT5516       | BLACKWOODS LISMORE NSW              | 
+19    | 19   | A4588222 | 312034978701   |      4.000 | EA  | 19151401   |           | 04/12/13 | 05:15:53 | CONCURRE | BT4017       | J. BLACKWOOD & SON PTY LIMITED      | 
+GS3   | 89   | A4678974 | 312034979401   |      8.000 | EA  | 89050601   |           | 04/12/13 | 05:15:53 | CONCURRE | BT4009       | BW PORT HEDLAND                     | 
+18    | 18   | A4824129 | 312034979901   |     10.000 | EA  | 18223002   |           | 04/12/13 | 05:15:53 | CONCURRE | BT4001       | BLACKWOODS MELBOURNE VIC            | 
+WHSE  | 34   | A4759727 | 312034980001   |     36.000 | EA  | 70180102   |           | 04/12/13 | 05:15:53 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+GS3A  | 87A  | A4725380 | 312034980701   |     10.000 | RL  | 87200202   |           | 04/12/13 | 05:15:53 | CONCURRE | 883089       | COFFS HARBOUR EDUCATION CAMPUS      | 
+GS1   | 80   | A4725379 | 312034980701   |      4.000 | RL  | 80100301   |           | 04/12/13 | 05:15:53 | CONCURRE | 883089       | COFFS HARBOUR EDUCATION CAMPUS      | 
+DEST  | 07A  | A4724810 | 312034981201   |      2.000 | EA  | 27010501   |           | 04/12/13 | 05:15:53 | CONCURRE | BT4017       | J. BLACKWOOD & SON PTY LIMITED      | 
+WHSE  | 34A  | A4732097 | 312034981202   |    120.000 | EA  | 71090201   |           | 04/12/13 | 05:15:53 | CONCURRE | BT4017       | J. BLACKWOOD & SON PTY LIMITED      | 
+13    | 13   | A4799784 | 312034981701   |    280.000 | EA  | 13732104   |           | 04/12/13 | 05:15:53 | CONCURRE | BT5507       | BLACKWOODS GLADSTONE QLD            | 
+15    | 15   | A4734015 | 312034982201   |     15.000 | EA  | 15610101   |           | 04/12/13 | 05:15:53 | CONCURRE | BT4005       | J. BLACKWOOD & SON PTY LIMITED      | 
+RF QUEUE REPORT   WEDNESDAY, DECEMBER 4, 2013 08:21          PAGE   2
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+PICK  | PICK | STOCK ID | REFERENCE      | QUANTITY   | UOM | FROM       | ASSIGN TO | ACTIONED | ACTIONED | CREATED  | CUSTOMER     | CUSTOMER                            | 
+GROUP | LINE |          | NUMBER         |            |     | LOCATION   | EMPLOYEE  | DATE     | TIME     | EMPLOYEE | CODE         | NAME                                | 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+GS3A  | 87A  | A4726927 | 312034982301   |     19.000 | EA  | 87050102   |           | 04/12/13 | 05:15:53 | CONCURRE | BT6011       | J. BLACKWOOD & SON PTY LIMITED      | 
+WHSE  | 04A  | A4818170 | 312034982302   |    120.000 | EA  | 33670601   |           | 04/12/13 | 05:15:53 | CONCURRE | BT6011       | J. BLACKWOOD & SON PTY LIMITED      | 
+WHSE  | 04A  | A4759787 | 312034982302   |     84.000 | EA  | 34681001   |           | 04/12/13 | 05:15:53 | CONCURRE | BT6011       | J. BLACKWOOD & SON PTY LIMITED      | 
+GS1A  | 77A  | A4677658 | 312034983301   |      3.000 | EA  | 77100101   |           | 04/12/13 | 05:15:53 | CONCURRE | BT4006       | SKF AUSTRALIA PTY LTD               | 
+WHSE  | 04A  | A4764877 | 312034983401   |     12.000 | EA  | 33670601   |           | 04/12/13 | 05:15:53 | CONCURRE | BT4005       | J. BLACKWOOD & SON PTY LIMITED      | 
+WHSE  | 04A  | A4786703 | 312034983401   |     24.000 | EA  | 34130601   |           | 04/12/13 | 05:15:53 | CONCURRE | BT4005       | J. BLACKWOOD & SON PTY LIMITED      | 
+GS3A  | 87A  | A4793060 | 312034983501   |      2.000 | EA  | 87080302   |           | 04/12/13 | 05:15:53 | CONCURRE | BT4017       | J. BLACKWOOD & SON PTY LIMITED      | 
+GS3A  | 88A  | A4820895 | 312034983501   |      1.000 | EA  | 88170201   |           | 04/12/13 | 05:15:53 | CONCURRE | BT4017       | J. BLACKWOOD & SON PTY LIMITED      | 
+08    | 08   | A4697777 | 312034983501   |      1.000 | PH  | 08022502   |           | 04/12/13 | 05:15:53 | CONCURRE | BT4017       | J. BLACKWOOD & SON PTY LIMITED      | 
+GS2   | 95   | A4713956 | 312034984901   |     12.000 | EA  | 95080401   |           | 04/12/13 | 05:15:53 | CONCURRE | BT4017       | J. BLACKWOOD & SON PTY LIMITED      | 
+09    | 09   | A4759758 | 312034984901   |     10.000 | EA  | 09635702   |           | 04/12/13 | 05:15:53 | CONCURRE | BT4017       | J. BLACKWOOD & SON PTY LIMITED      | 
+WHSE  | 34   | A4770718 | 312034984902   |     12.000 | EA  | 70140102   |           | 04/12/13 | 05:15:53 | CONCURRE | BT4017       | J. BLACKWOOD & SON PTY LIMITED      | 
+07    | 07   | A4811745 | 312034986901   |      2.000 | EA  | 07011304   |           | 04/12/13 | 05:15:53 | CONCURRE | BT4006       | BLACKWOODS CAROLE PARK QLD          | 
+17    | 17   | A3883240 | 312034987001   |     10.000 | EA  | 17183201   |           | 04/12/13 | 05:15:53 | CONCURRE | BT5518       | BLACKWOODS TOOWOOMBA QLD            | 
+WHSE  | 04   | A4759410 | 312034987001   |      3.000 | MR  | 49080201   |           | 04/12/13 | 05:15:53 | CONCURRE | BT5518       | BLACKWOODS TOOWOOMBA QLD            | 
+WHSE  | 04A  | A4659222 | 312034987001   |      2.000 | MR  | 49090201   |           | 04/12/13 | 05:15:53 | CONCURRE | BT5518       | BLACKWOODS TOOWOOMBA QLD            | 
+20    | 20   | A4821614 | 312034987001   |      2.000 | EA  | 20063205   |           | 04/12/13 | 05:15:53 | CONCURRE | BT5518       | BLACKWOODS TOOWOOMBA QLD            | 
+07    | 07   | A4821615 | 312034987001   |      2.000 | EA  | 07082606   |           | 04/12/13 | 05:15:53 | CONCURRE | BT5518       | BLACKWOODS TOOWOOMBA QLD            | 
+07    | 07   | A4801957 | 312034987201   |      1.000 | EA  | 07042402   |           | 04/12/13 | 05:15:53 | CONCURRE | BT4019       | J. BLACKWOOD & SON PTY LIMITED      | 
+WHSE  | 01   | A4750689 | 312034987301   |      1.000 | EA  | 34150303   |           | 04/12/13 | 05:15:53 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+WHSE  | 34   | A4818395 | 312034987301   |      1.000 | EA  | 70250201   |           | 04/12/13 | 05:15:53 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+WHSE  | 01A  | A4789085 | 312034987401   |      3.000 | EA  | 47310401   |           | 04/12/13 | 05:15:53 | CONCURRE | BT4019       | J. BLACKWOOD & SON PTY LIMITED      | 
+GS1   | 83   | A4808811 | 312034987401   |      2.000 | EA  | 83210601   |           | 04/12/13 | 05:15:53 | CONCURRE | BT4019       | J. BLACKWOOD & SON PTY LIMITED      | 
+WHSE  | 01   | A4683254 | 312034988401   |      3.000 | EA  | 34690201   |           | 04/12/13 | 05:15:53 | CONCURRE | BT4018       | J. BLACKWOOD & SON LIMITED          | 
+09    | 09   | A4669067 | 312034989001   |     20.000 | EA  | 09634306   |           | 04/12/13 | 05:15:53 | CONCURRE | BT4017       | J. BLACKWOOD & SON PTY LIMITED      | 
+10    | 10   | A4801475 | 312034989301   |      1.000 | EA  | 10105901   |           | 04/12/13 | 05:15:53 | CONCURRE | BT4005       | J. BLACKWOOD & SON PTY LIMITED      | 
+GS2C  | 82C  | A4794723 | 312034990001   |      2.000 | EA  | 82400401   |           | 04/12/13 | 05:15:53 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+07    | 07   | A4819939 | 312034990601   |      1.000 | EA  | 07202301   |           | 04/12/13 | 05:15:53 | CONCURRE | BT3064       | BRIGHTWATER CARE GROUP (INC)        | 
+GS2A  | 86A  | A4759012 | 312034990701   |     36.000 | PR  | 86050201   |           | 04/12/13 | 05:15:53 | CONCURRE | BT4019       | J. BLACKWOOD & SON PTY LIMITED      | 
+09    | 09   | A4714036 | 312034992101   |      1.000 | EA  | 09104201   |           | 04/12/13 | 05:15:53 | CONCURRE | BT4019       | J. BLACKWOOD & SON PTY LIMITED      | 
+12    | 12   | A4700971 | 312034992101   |      1.000 | EA  | 12043903   |           | 04/12/13 | 05:15:53 | CONCURRE | BT4019       | J. BLACKWOOD & SON PTY LIMITED      | 
+12    | 12   | A4810047 | 312034992101   |      1.000 | EA  | 12044001   |           | 04/12/13 | 05:15:53 | CONCURRE | BT4019       | J. BLACKWOOD & SON PTY LIMITED      | 
+GS1A  | 84A  | A4816915 | 312034992401   |    360.000 | PR  | 84070101   |           | 04/12/13 | 05:15:53 | CONCURRE | BT3528       | PROTECTOR ALSAFE GEEBUNG            | 
+19    | 19   | A4800934 | 312034992601   |      4.000 | EA  | 19065103   |           | 04/12/13 | 05:15:53 | CONCURRE | BT4019       | J. BLACKWOOD & SON PTY LIMITED      | 
+16    | 16   | A2990226 | 312034993201   |    300.000 | EA  | 16543801   |           | 04/12/13 | 05:15:53 | CONCURRE | BT6020       | TOTAL FASTENERS MACKAY QLD          | 
+17    | 17   | A4822379 | 312034993301   |      4.000 | EA  | 17162903   |           | 04/12/13 | 05:15:53 | CONCURRE | BT5517       | BLACKWOODS SOUTHPORT QLD            | 
+07    | 07   | A4824130 | 312034993701   |     12.000 | EA  | 07070601   |           | 04/12/13 | 05:15:53 | CONCURRE | 000969       | ADVANCE ENGINEERING & PRODUCTION    | 
+09    | 09   | A4701810 | 312034994001   |  2,000.000 | EA  | 09591602   |           | 04/12/13 | 05:15:53 | CONCURRE | 019804       | MURRUMBIDGEE IRRIGATION (GTH)       | 
+GS1   | 83   | A4786534 | 312034994201   |    180.000 | PR  | 83060301   |           | 04/12/13 | 05:15:53 | CONCURRE | BT3528       | PROTECTOR ALSAFE GEEBUNG            | 
+GS2B  | 82B  | A4808413 | 312034998701   |      2.000 | EA  | 82420202   |           | 04/12/13 | 05:15:53 | CONCURRE | BT4001       | METROPOLITAN FIRE BRIGADES BOARD    | 
+GS1   | 80   | A4779016 | 312034999601   |     14.000 | EA  | 80150301   |           | 04/12/13 | 05:15:53 | CONCURRE | BT4013       | WALCHA SHIRE COUNCIL                | 
+15    | 15   | A4822353 | 312034999801   |     75.000 | EA  | 15510501   |           | 04/12/13 | 05:15:53 | CONCURRE | BT4019       | J. BLACKWOOD & SON PTY LIMITED      | 
+GS3   | 89   | A4812976 | 312034999801   |      2.000 | EA  | 89031001   |           | 04/12/13 | 05:15:53 | CONCURRE | BT4019       | J. BLACKWOOD & SON PTY LIMITED      | 
+GS1   | 83   | A4824055 | 312034999801   |      8.000 | EA  | 83180601   |           | 04/12/13 | 05:15:53 | CONCURRE | BT4019       | J. BLACKWOOD & SON PTY LIMITED      | 
+GS2B  | 82B  | A4803257 | 312034999801   |      3.000 | EA  | 82290101   |           | 04/12/13 | 05:15:53 | CONCURRE | BT4019       | J. BLACKWOOD & SON PTY LIMITED      | 
+18    | 18   | A4818957 | 312034999801   |     10.000 | EA  | 18041803   |           | 04/12/13 | 05:15:53 | CONCURRE | BT4019       | J. BLACKWOOD & SON PTY LIMITED      | 
+WHSE  | 04   | A4698504 | 312034999801   |      1.000 | EA  | 43990117   |           | 04/12/13 | 05:15:53 | CONCURRE | BT4019       | J. BLACKWOOD & SON PTY LIMITED      | 
+WHSE  | 04   | A4779565 | 312034999801   |      1.000 | EA  | 36150301   |           | 04/12/13 | 05:15:53 | CONCURRE | BT4019       | J. BLACKWOOD & SON PTY LIMITED      | 
+GS2B  | 85B  | A4802676 | 312034999801   |     10.000 | PH  | 85390201   |           | 04/12/13 | 05:15:53 | CONCURRE | BT4019       | J. BLACKWOOD & SON PTY LIMITED      | 
+11    | 11   | A4822241 | 312034999801   |    400.000 | EA  | 11523802   |           | 04/12/13 | 05:15:53 | CONCURRE | BT4019       | J. BLACKWOOD & SON PTY LIMITED      | 
+WHSE  | 04   | A4757203 | 312034999801   |      4.000 | LN  | 05670905   |           | 04/12/13 | 05:15:53 | CONCURRE | BT4019       | J. BLACKWOOD & SON PTY LIMITED      | 
+12    | 12   | A4768845 | 312034999801   |      2.000 | EA  | 12014102   |           | 04/12/13 | 05:15:53 | CONCURRE | BT4019       | J. BLACKWOOD & SON PTY LIMITED      | 
+18    | 18   | A4594145 | 312034999801   |      6.000 | EA  | 18064301   |           | 04/12/13 | 05:15:53 | CONCURRE | BT4019       | J. BLACKWOOD & SON PTY LIMITED      | 
+RF QUEUE REPORT   WEDNESDAY, DECEMBER 4, 2013 08:21          PAGE   3
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+PICK  | PICK | STOCK ID | REFERENCE      | QUANTITY   | UOM | FROM       | ASSIGN TO | ACTIONED | ACTIONED | CREATED  | CUSTOMER     | CUSTOMER                            | 
+GROUP | LINE |          | NUMBER         |            |     | LOCATION   | EMPLOYEE  | DATE     | TIME     | EMPLOYEE | CODE         | NAME                                | 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+GS2C  | 83C  | A4813884 | 312034999801   |      6.000 | RL  | 83370501   |           | 04/12/13 | 05:15:53 | CONCURRE | BT4019       | J. BLACKWOOD & SON PTY LIMITED      | 
+16    | 16   | A4717369 | 312034999801   |     10.000 | EA  | 16092901   |           | 04/12/13 | 05:15:53 | CONCURRE | BT4019       | J. BLACKWOOD & SON PTY LIMITED      | 
+WHSE  | 34   | A4821700 | 312034999802   |      5.000 | EA  | 70700102   |           | 04/12/13 | 05:15:53 | CONCURRE | BT4019       | J. BLACKWOOD & SON PTY LIMITED      | 
+WHSE  | 34   | A4808228 | 312034999802   |      4.000 | EA  | 70650401   |           | 04/12/13 | 05:15:53 | CONCURRE | BT4019       | J. BLACKWOOD & SON PTY LIMITED      | 
+GS2   | 95   | A4812861 | 312034999901   |      2.000 | EA  | 95170501   |           | 04/12/13 | 05:15:53 | CONCURRE | BT4019       | J. BLACKWOOD & SON PTY LIMITED      | 
+GS2C  | 82C  | A4809507 | 312034999901   |      2.000 | BX  | 82410301   |           | 04/12/13 | 05:15:53 | CONCURRE | BT4019       | J. BLACKWOOD & SON PTY LIMITED      | 
+08    | 08   | A4698961 | 312034999901   |      2.000 | EA  | 08543201   |           | 04/12/13 | 05:15:53 | CONCURRE | BT4019       | J. BLACKWOOD & SON PTY LIMITED      | 
+07    | 07   | A4774124 | 312034999901   |      1.000 | EA  | 07013301   |           | 04/12/13 | 05:15:53 | CONCURRE | BT4019       | J. BLACKWOOD & SON PTY LIMITED      | 
+19    | 19   | A4817080 | 312034999901   |      6.000 | EA  | 19511203   |           | 04/12/13 | 05:15:53 | CONCURRE | BT4019       | J. BLACKWOOD & SON PTY LIMITED      | 
+12    | 12   | A4819535 | 312034999901   |      2.000 | EA  | 12093602   |           | 04/12/13 | 05:15:53 | CONCURRE | BT4019       | J. BLACKWOOD & SON PTY LIMITED      | 
+GS3   | 88   | A4756723 | 312034999901   |      2.000 | EA  | 88070605   |           | 04/12/13 | 05:15:53 | CONCURRE | BT4019       | J. BLACKWOOD & SON PTY LIMITED      | 
+15    | 15   | A4796889 | 312034999901   |      3.000 | EA  | 15731401   |           | 04/12/13 | 05:15:53 | CONCURRE | BT4019       | J. BLACKWOOD & SON PTY LIMITED      | 
+GS2C  | 95C  | A4746799 | 312034999901   |      2.000 | PH  | 95230401   |           | 04/12/13 | 05:15:53 | CONCURRE | BT4019       | J. BLACKWOOD & SON PTY LIMITED      | 
+GS1   | 75   | A4813429 | 312034999901   |      6.000 | EA  | 75010301   |           | 04/12/13 | 05:15:53 | CONCURRE | BT4019       | J. BLACKWOOD & SON PTY LIMITED      | 
+GS3   | 90   | A4761163 | 312034999901   |      1.000 | EA  | 90090404   |           | 04/12/13 | 05:15:53 | CONCURRE | BT4019       | J. BLACKWOOD & SON PTY LIMITED      | 
+GS1A  | 75A  | A4824610 | 312034999901   |     30.000 | RL  | 75130101   |           | 04/12/13 | 05:15:53 | CONCURRE | BT4019       | J. BLACKWOOD & SON PTY LIMITED      | 
+08    | 08   | A4697777 | 312034999901   |      2.000 | PH  | 08022502   |           | 04/12/13 | 05:15:53 | CONCURRE | BT4019       | J. BLACKWOOD & SON PTY LIMITED      | 
+GS1   | 79   | A4812809 | 311063318806   |     12.000 | EA  | 79200401   |           | 04/12/13 | 05:15:53 | CONCURRE | 116107       | TRANSPORT CLEANING SERVICES         | 
+GS3   | 90   | A4812809 | 311063318806   |      8.000 | EA  | 90060604   |           | 04/12/13 | 05:15:53 | CONCURRE | 116107       | TRANSPORT CLEANING SERVICES         | 
+12    | 12   | A4248083 | 311133800004   |      2.000 | EA  | 12034401   |           | 04/12/13 | 05:26:26 | CONCURRE | 260770       | MILLER CAMERA SUPPORT EQUIPMENT     | 
+GS3   | 91   | A4821991 | 311184037305   |      0.200 | PH  | 91050301   |           | 04/12/13 | 05:26:26 | CONCURRE | 002294       | SHANGRI-LA HOTEL                    | 
+07    | 07   | A4824996 | 311184050204   |      2.000 | EA  | 07635602   |           | 04/12/13 | 05:26:26 | CONCURRE | 022775       | CONSEP PTY LIMITED                  | 
+WHSE  | 34   | A4824903 | 311194124305   |     13.000 | EA  | 70010201   |           | 04/12/13 | 05:26:26 | CONCURRE | 116090       | SYDNEY TRAINS                       | 
+15    | 15   | A4825150 | 311224333204   |      3.000 | EA  | 15673502   |           | 04/12/13 | 05:26:26 | CONCURRE | 050999       | AMCOR BOTANY                        | 
+08    | 08   | A4825151 | 311224333204   |      1.000 | EA  | 08225803   |           | 04/12/13 | 05:26:26 | CONCURRE | 050999       | AMCOR BOTANY                        | 
+09    | 09   | A4825152 | 311224333204   |      6.000 | EA  | 09692306   |           | 04/12/13 | 05:26:26 | CONCURRE | 050999       | AMCOR BOTANY                        | 
+16    | 16   | A4823251 | 311234394404   |     29.000 | EA  | 16053502   |           | 04/12/13 | 05:26:26 | CONCURRE | 124959       | WESTERN SYDNEY CONCRETE TESTING PTY | 
+20    | 20   | A4812406 | 311254411403   |      2.000 | EA  | 20150701   |           | 04/12/13 | 05:26:26 | CONCURRE | BT6023       | J. BLACKWOOD & SON                  | 
+GS3   | 88   | A4825439 | 311254424205   |    652.000 | EA  | 88041003   |           | 04/12/13 | 05:26:26 | CONCURRE | 278138       | AUSGRID - FASTENERS CONTRACT        | 
+14    | 14   | A4825063 | 311254437509   |    150.000 | EA  | 14031505   |           | 04/12/13 | 05:26:26 | CONCURRE | 116090       | SYDNEY TRAINS                       | 
+09    | 09   | A4825066 | 311254437509   |    400.000 | EA  | 09660805   |           | 04/12/13 | 05:26:26 | CONCURRE | 116090       | SYDNEY TRAINS                       | 
+11    | 11   | A4821011 | 311254439505   |     59.000 | EA  | 11011601   |           | 04/12/13 | 05:26:26 | CONCURRE | 117143       | QUICKSTEP TECHNOLOGIES PTY LTD      | 
+13    | 13   | A4825281 | 311254439505   |     99.000 | EA  | 13134403   |           | 04/12/13 | 05:26:26 | CONCURRE | 117143       | QUICKSTEP TECHNOLOGIES PTY LTD      | 
+GS2B  | 83B  | A4815916 | 311254448601   |     10.000 | EA  | 83270101   |           | 04/12/13 | 05:26:26 | CONCURRE | 881272       | STATE TRANSIT AUTHORITY - BUS       | 
+18    | 18   | A4712093 | 310292837901   |      4.000 | EA  | 18706202   |           | 04/12/13 | 05:26:26 | CONCURRE | 021020       | HALLIDAY ENGINEERING PTY LTD        | 
+GS2B  | 82B  | A4800398 | 310302929601   |      6.000 | EA  | 82270101   |           | 04/12/13 | 05:26:26 | CONCURRE | 021020       | HALLIDAY ENGINEERING PTY LTD        | 
+GS2A  | 96A  | A4753181 | 311264500604   |      1.000 | EA  | 96200101   |           | 04/12/13 | 05:26:26 | CONCURRE | 880242       | DEPARTMENT OF SERVICES, TECH & ADMI | 
+GS2A  | 96A  | A4753181 | 311264509301   |      1.000 | EA  | 96200101   |           | 04/12/13 | 05:26:26 | CONCURRE | 116090       | SYDNEY TRAINS                       | 
+WHSE  | 04   | A4746761 | 311264512804   |      1.000 | EA  | 36040304   |           | 04/12/13 | 05:26:26 | CONCURRE | 007561       | AMCOR BEVERAGE CANS                 | 
+GS1A  | 75A  | A4825724 | 311274596705   |      7.000 | EA  | 75210101   |           | 04/12/13 | 05:26:26 | CONCURRE | 087494       | VITERRA LTD (SOUTH EAST AREA)       | 
+07    | 07   | A4825376 | 311274620105   |     23.000 | EA  | 07181401   |           | 04/12/13 | 05:26:26 | CONCURRE | 029196       | QANTAS AIRWAYS LTD                  | 
+10    | 10   | A4677004 | 311274634010   |      4.000 | EA  | 10022801   |           | 04/12/13 | 05:26:26 | CONCURRE | 055107       | DEFENCE MARITIME ORGANISATION       | 
+16    | 16   | A4824375 | 311274635305   |      1.000 | PR  | 16176201   |           | 04/12/13 | 05:26:26 | CONCURRE | BT5536       | J. BLACKWOOD & SON PTY LIMITED      | 
+GS3   | 87   | A4825499 | 311274644704   |      2.000 | EA  | 87150702   |           | 04/12/13 | 05:26:26 | CONCURRE | 099287       | JAC0N TECHNOLOGIES PTY LTD          | 
+16    | 16   | A4825375 | 311274645406   |      4.000 | EA  | 16575601   |           | 04/12/13 | 05:26:26 | CONCURRE | 555555       | WEIR MINERALS LTD                   | 
+17    | 17   | A4825728 | 311284696504   |     10.000 | EA  | 17704902   |           | 04/12/13 | 05:26:26 | CONCURRE | 280359       | DOWNER EDI RAIL PTY LTD             | 
+WHSE  | 04   | A4746761 | 311284703403   |      4.000 | EA  | 36040304   |           | 04/12/13 | 05:26:26 | CONCURRE | 007561       | AMCOR BEVERAGE CANS                 | 
+WHSE  | 04A  | A4743013 | 311284732803   |      1.000 | EA  | 33600501   |           | 04/12/13 | 05:26:26 | CONCURRE | 067378       | NATIONWIDE OIL PTY LTD              | 
+19    | 19   | A4738167 | 311284749306   |      1.000 | EA  | 19055305   |           | 04/12/13 | 05:26:26 | CONCURRE | 054279       | ROCHE PRODUCTS                      | 
+17    | 17   | A4823652 | 311284749403   |      3.000 | EA  | 17675201   |           | 04/12/13 | 05:26:26 | CONCURRE | 038107       | COTS - HMAS BALLARAT                | 
+GS1A  | 83A  | A4788136 | 311294775603   |      6.000 | BX  | 83160101   |           | 04/12/13 | 05:26:26 | CONCURRE | 003246       | NU-CON AUST PTY LTD                 | 
+GS2C  | 93C  | A4824491 | 311294793703   |     12.000 | EA  | 93240303   |           | 04/12/13 | 05:26:26 | CONCURRE | 880311       | PADSTOW TAFE                        | 
+GS3A  | 92A  | A4783110 | 311294819204   |      1.000 | EA  | 92090202   |           | 04/12/13 | 05:26:26 | CONCURRE | 279001       | PERTEN INSTRUMENTS OF AUSTRALIA PTY | 
+RF QUEUE REPORT   WEDNESDAY, DECEMBER 4, 2013 08:21          PAGE   4
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+PICK  | PICK | STOCK ID | REFERENCE      | QUANTITY   | UOM | FROM       | ASSIGN TO | ACTIONED | ACTIONED | CREATED  | CUSTOMER     | CUSTOMER                            | 
+GROUP | LINE |          | NUMBER         |            |     | LOCATION   | EMPLOYEE  | DATE     | TIME     | EMPLOYEE | CODE         | NAME                                | 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+GS3A  | 92A  | A4765879 | 311304827703   |      6.000 | EA  | 92080102   |           | 04/12/13 | 05:26:26 | CONCURRE | 021322       | HYCAST METALS PTY LTD               | 
+GS2   | 85   | A4791435 | 312024831403   |     10.000 | BX  | 85160301   |           | 04/12/13 | 05:26:26 | CONCURRE | 070158       | WOOLWORTHS                          | 
+GS2A  | 86A  | A4800893 | 312024834503   |     30.000 | PR  | 86090101   |           | 04/12/13 | 05:26:26 | CONCURRE | 680004       | PROCESS ENGINEERING TECHNOLOGIES    | 
+GS1A  | 84A  | A4749555 | 312024838605   |    815.000 | PR  | 84030101   |           | 04/12/13 | 05:26:26 | CONCURRE | 260863       | INDUSTRIAL&SAFETY WAREHOUSE PTY LTD | 
+GS1   | 83   | A4749555 | 312024838605   |    265.000 | PR  | 83030301   |           | 04/12/13 | 05:26:26 | CONCURRE | 260863       | INDUSTRIAL&SAFETY WAREHOUSE PTY LTD | 
+19    | 19   | A4825725 | 312024862503   |      1.000 | PH  | 19175201   |           | 04/12/13 | 05:26:26 | CONCURRE | 263118       | Natalie Al-Aaraj EP01 MAIN STORE ER | 
+WHSE  | 26   | A4824830 | 312024886403   |      1.000 | EA  | BULKREC    |           | 04/12/13 | 05:26:26 | CONCURRE | 123268       | FLEXONICS - FLEXIBLE PIPING SYSTEMS | 
+15    | 15   | A4772598 | 312034999501   |     12.000 | EA  | 15090801   |           | 04/12/13 | 05:26:26 | CONCURRE | 259777       | CSR BUILDING MATERIALS CEMINTEL     | 
+15    | 15   | A4768331 | 312034999501   |     10.000 | EA  | 15160801   |           | 04/12/13 | 05:26:26 | CONCURRE | 259777       | CSR BUILDING MATERIALS CEMINTEL     | 
+10    | 10   | A4656752 | 312035000301   |      3.000 | EA  | 10514004   |           | 04/12/13 | 05:26:26 | CONCURRE | 880012       | ANSTO                               | 
+10    | 10   | A3966331 | 312035000301   |     20.000 | EA  | 10514603   |           | 04/12/13 | 05:26:26 | CONCURRE | 880012       | ANSTO                               | 
+10    | 10   | A4825687 | 312035000301   |      8.000 | EA  | 10513906   |           | 04/12/13 | 05:26:26 | CONCURRE | 880012       | ANSTO                               | 
+10    | 10   | A4734772 | 312035000301   |     20.000 | EA  | 10514203   |           | 04/12/13 | 05:26:26 | CONCURRE | 880012       | ANSTO                               | 
+08    | 08   | A4407907 | 312035000401   |     12.000 | EA  | 08143101   |           | 04/12/13 | 05:26:26 | CONCURRE | 116090       | SYDNEY TRAINS                       | 
+08    | 08   | A4524223 | 312035000401   |      1.000 | EA  | 08643001   |           | 04/12/13 | 05:26:26 | CONCURRE | 116090       | SYDNEY TRAINS                       | 
+GS2B  | 84B  | A4685780 | 312035000501   |      1.000 | EA  | 84320101   |           | 04/12/13 | 05:26:26 | CONCURRE | 885276       | HMAS PENGUIN                        | 
+GS2B  | 97B  | A4774981 | 312035000501   |     10.000 | EA  | 97240201   |           | 04/12/13 | 05:26:26 | CONCURRE | 885276       | HMAS PENGUIN                        | 
+20    | 20   | A4356749 | 312035000501   |      1.000 | EA  | 20611001   |           | 04/12/13 | 05:26:26 | CONCURRE | 885276       | HMAS PENGUIN                        | 
+18    | 18   | A4690180 | 312035000501   |      2.000 | EA  | 18203301   |           | 04/12/13 | 05:26:26 | CONCURRE | 885276       | HMAS PENGUIN                        | 
+GS3   | 87   | A4724295 | 312045001001   |      1.000 | PH  | 87080904   |           | 04/12/13 | 05:26:26 | CONCURRE | BT4012       | BLACKWOODS COFFS HARBOUR            | 
+GS3   | 91   | A4804476 | 312045001001   |      5.000 | EA  | 91091104   |           | 04/12/13 | 05:26:26 | CONCURRE | BT4012       | BLACKWOODS COFFS HARBOUR            | 
+13    | 13   | A4769729 | 312045001001   |     19.000 | EA  | 13063602   |           | 04/12/13 | 05:26:26 | CONCURRE | BT4012       | BLACKWOODS COFFS HARBOUR            | 
+GS2B  | 93B  | A4801217 | 312045001001   |      2.000 | EA  | 93240202   |           | 04/12/13 | 05:26:26 | CONCURRE | BT4012       | BLACKWOODS COFFS HARBOUR            | 
+10    | 10   | A4825780 | 312045001001   |     20.000 | PH  | 10024401   |           | 04/12/13 | 05:26:26 | CONCURRE | BT4012       | BLACKWOODS COFFS HARBOUR            | 
+GS3   | 89   | A4751575 | 312045001101   |      2.000 | EA  | 89030405   |           | 04/12/13 | 05:26:26 | CONCURRE | BT4012       | BLACKWOODS COFFS HARBOUR            | 
+13    | 13   | A4624132 | 312045001101   |    248.000 | EA  | 13702701   |           | 04/12/13 | 05:26:26 | CONCURRE | BT4012       | BLACKWOODS COFFS HARBOUR            | 
+GS2A  | 86A  | A4819398 | 312045001101   |     80.000 | PR  | 86160201   |           | 04/12/13 | 05:26:26 | CONCURRE | BT4012       | BLACKWOODS COFFS HARBOUR            | 
+GS3A  | 89A  | A4819439 | 312045001101   |    144.000 | PR  | 89060304   |           | 04/12/13 | 05:26:26 | CONCURRE | BT4012       | BLACKWOODS COFFS HARBOUR            | 
+GS2B  | 86B  | A4788536 | 312045001101   |     72.000 | PR  | 86310101   |           | 04/12/13 | 05:26:26 | CONCURRE | BT4012       | BLACKWOODS COFFS HARBOUR            | 
+GS1   | 79   | A4814134 | 312045001201   |    122.000 | PR  | 79180501   |           | 04/12/13 | 05:26:26 | CONCURRE | BT4012       | BLACKWOODS COFFS HARBOUR            | 
+07    | 07   | A4671560 | 312045001301   |      5.000 | EA  | 07131001   |           | 04/12/13 | 05:26:26 | CONCURRE | BT4012       | J.BLACKWOOD & SON LIMITED           | 
+WHSE  | 01A  | A4789096 | 312045001301   |      4.000 | EA  | 46010106   |           | 04/12/13 | 05:26:26 | CONCURRE | BT4012       | J.BLACKWOOD & SON LIMITED           | 
+GS2   | 86   | A4711952 | 312045001301   |      1.000 | EA  | 86130301   |           | 04/12/13 | 05:26:26 | CONCURRE | BT4012       | J.BLACKWOOD & SON LIMITED           | 
+GS1D  | 80D  | A4823216 | 312045001301   |     69.000 | EA  | 80310901   |           | 04/12/13 | 05:26:26 | CONCURRE | BT4012       | J.BLACKWOOD & SON LIMITED           | 
+GS1A  | 80A  | A4738771 | 312045001301   |      5.000 | EA  | 80040101   |           | 04/12/13 | 05:26:26 | CONCURRE | BT4012       | J.BLACKWOOD & SON LIMITED           | 
+GS2   | 85   | A4783996 | 312045001401   |     16.000 | RL  | 85060501   |           | 04/12/13 | 05:26:26 | CONCURRE | BT4012       | J.BLACKWOOD & SON LIMITED           | 
+GS1A  | 78A  | A4820677 | 312045001401   |      2.000 | EA  | 78220501   |           | 04/12/13 | 05:26:26 | CONCURRE | BT4012       | J.BLACKWOOD & SON LIMITED           | 
+GS2   | 86   | A4810156 | 312045001501   |      1.000 | PR  | 86020501   |           | 04/12/13 | 05:26:26 | CONCURRE | BT4012       | J. BLACKWOOD & SON LIMITED          | 
+20    | 20   | A4820637 | 312045001501   |      2.000 | EA  | 20531901   |           | 04/12/13 | 05:26:26 | CONCURRE | BT4012       | J. BLACKWOOD & SON LIMITED          | 
+GS1   | 82   | A4714322 | 312045001501   |      1.000 | EA  | 82190301   |           | 04/12/13 | 05:26:26 | CONCURRE | BT4012       | J. BLACKWOOD & SON LIMITED          | 
+WHSE  | 04A  | A4764877 | 312045001502   |      4.000 | EA  | 33670601   |           | 04/12/13 | 05:26:26 | CONCURRE | BT4012       | J. BLACKWOOD & SON LIMITED          | 
+WHSE  | 04A  | A4815427 | 312045001502   |      6.000 | EA  | 34140601   |           | 04/12/13 | 05:26:26 | CONCURRE | BT4012       | J. BLACKWOOD & SON LIMITED          | 
+WHSE  | 34   | A4758732 | 312035000502   |      1.000 | EA  | 70230201   |           | 04/12/13 | 05:26:26 | CONCURRE | 885276       | HMAS PENGUIN                        | 
+08    | 08   | A4825151 | 312045001601   |      1.000 | EA  | 08225803   |           | 04/12/13 | 06:44:01 | CONCURRE | 116090       | SYDNEY TRAINS                       | 
+19    | 19   | A4807458 | 312045001601   |      1.000 | EA  | 19022104   |           | 04/12/13 | 06:44:01 | CONCURRE | 116090       | SYDNEY TRAINS                       | 
+18    | 18   | A4705988 | 312045001601   |      1.000 | EA  | 18171002   |           | 04/12/13 | 06:44:01 | CONCURRE | 116090       | SYDNEY TRAINS                       | 
+08    | 08   | A4825953 | 311294778805   |    200.000 | PR  | 08662402   |           | 04/12/13 | 06:50:45 | CONCURRE | BT4018       | J. BLACKWOOD & SON LIMITED          | 
+08    | 08   | A4826275 | 311133721207   |      1.000 | EA  | 08202501   |           | 04/12/13 | 07:00:42 | CONCURRE | 172115       | HOLCIM (AUSTRALIA) PTY LTD          | 
+09    | 09   | A4825934 | 311264527804   |     16.000 | EA  | 09210301   |           | 04/12/13 | 07:16:25 | CONCURRE | 008652       | N SEVEN HILLS ASP MAINT             | 
+WHSE  | 34A  | A4792712 | 312045002002   |     10.000 | EA  | 71130201   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+WHSE  | 34A  | A4823494 | 312045002002   |      5.000 | EA  | 71120201   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+WHSE  | 34   | A4757944 | 312045002002   |     12.000 | EA  | 70170402   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+GS2C  | 83C  | A4793220 | 312045002001   |      6.000 | EA  | 83240601   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+RF QUEUE REPORT   WEDNESDAY, DECEMBER 4, 2013 08:21          PAGE   5
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+PICK  | PICK | STOCK ID | REFERENCE      | QUANTITY   | UOM | FROM       | ASSIGN TO | ACTIONED | ACTIONED | CREATED  | CUSTOMER     | CUSTOMER                            | 
+GROUP | LINE |          | NUMBER         |            |     | LOCATION   | EMPLOYEE  | DATE     | TIME     | EMPLOYEE | CODE         | NAME                                | 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+GS2A  | 97A  | A4751275 | 312045002001   |      9.000 | RL  | 97090101   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+14    | 14   | A4797901 | 312045002001   |      3.000 | EA  | 14695401   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+GS3   | 89   | A4752186 | 312045002001   |      3.000 | EA  | 89070802   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+GS2   | 94   | A4805073 | 312045002001   |      1.000 | EA  | 94080903   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+GS1A  | 84A  | A4823069 | 312045002001   |      6.000 | BX  | 84190201   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+20    | 20   | A4795872 | 312045002001   |      1.000 | EA  | 20184201   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+GS3   | 88   | A4822213 | 312045002001   |     10.000 | PR  | 88131005   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+18    | 18   | A4820976 | 312045002001   |      6.000 | EA  | 18064002   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+16    | 16   | A4666908 | 312045002001   |      2.000 | EA  | 16123401   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+18    | 18   | A4783307 | 312045002001   |      6.000 | EA  | 18195602   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+07    | 07   | A4756538 | 312045002001   |      6.000 | EA  | 07053605   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+WHSE  | 03   | A4654811 | 312045002001   |    250.000 | MR  | 22720101   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+08    | 08   | A4668012 | 312045002001   |      9.000 | EA  | 08734801   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+GS3A  | 90A  | A4811986 | 312045002001   |      4.000 | EA  | 90120201   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+GS2B  | 96B  | A4777508 | 312045002001   |     12.000 | EA  | 96230201   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+GS2B  | 86B  | A4824517 | 312045002001   |     38.000 | PH  | 86240202   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+15    | 15   | A4613047 | 312045002001   |      6.000 | EA  | 15013701   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+11    | 11   | A4718560 | 312045002001   |    103.000 | EA  | 11512101   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+GS2C  | 96C  | A4794740 | 312045002001   |      6.000 | EA  | 96260601   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+07    | 07   | A4812239 | 312045002001   |      3.000 | CA  | 07623601   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+08    | 08   | A4749406 | 312045002001   |      4.000 | EA  | 08033901   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+GS1   | 78   | A4775161 | 312045002001   |      9.000 | EA  | 78070301   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+WHSE  | 04B  | A4738609 | 312045002001   |      4.000 | EA  | 22010201   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+GS2A  | 96A  | A4793641 | 312045002001   |     11.000 | EA  | 96030202   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+13    | 13   | A4780524 | 312045002001   |      7.000 | EA  | 13032703   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+15    | 15   | A4813418 | 312045002001   |      3.000 | PR  | 15566201   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+GS3   | 93   | A4745040 | 312045002001   |    100.000 | EA  | 93090902   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+GS2C  | 84C  | A4751584 | 312045002001   |      4.000 | CA  | 84230601   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+GS3A  | 89A  | A4824488 | 312045002001   |     28.000 | RL  | 89160103   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+GS2   | 86   | A4800070 | 312045002001   |      2.000 | EA  | 86040401   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+20    | 20   | A4803483 | 312045002001   |      1.000 | EA  | 20535602   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+GS2   | 97   | A4812563 | 312045002001   |      1.000 | EA  | 97150401   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+GS1D  | 80D  | A4779095 | 312045002001   |      6.000 | EA  | 80291002   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+GS2B  | 83B  | A4791913 | 312045002001   |      2.000 | EA  | 83320202   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+GS2B  | 84B  | A4782810 | 312045002001   |     18.000 | EA  | 84230101   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+GS2B  | 96B  | A4814827 | 312045002001   |      4.000 | EA  | 96290202   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+GS3   | 87   | A4713986 | 312045002001   |      1.000 | EA  | 87110802   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+GS2C  | 97C  | A4804635 | 312045002001   |      4.000 | EA  | 97340401   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+GS2C  | 86C  | A4694993 | 312045002001   |     44.000 | EA  | 86290301   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+GS2B  | 92B  | A4736833 | 312045002001   |      1.000 | EA  | 92090204   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+14    | 14   | A4788887 | 312045002101   |      4.000 | EA  | 14151001   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+13    | 13   | A4680181 | 312045002101   |      2.000 | EA  | 13192001   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+16    | 16   | A4777249 | 312045002101   |      1.000 | EA  | 16551701   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+09    | 09   | A4418568 | 312045002101   |      1.000 | EA  | 09695801   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+12    | 12   | A4794240 | 312045002101   |      4.000 | EA  | 12151002   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+GS1A  | 79A  | A4727683 | 312045002101   |      5.000 | EA  | 79180101   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+09    | 09   | A4678063 | 312045002101   |      3.000 | EA  | 09524202   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+15    | 15   | A4766542 | 312045002101   |      4.000 | EA  | 15525701   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+WHSE  | 27   | A4157996 | 312045002101   |    939.000 | MR  | 48520301   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+GS1A  | 81A  | A4807321 | 312045002101   |      4.000 | CA  | 81090101   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+GS2C  | 85C  | A4695894 | 312045002101   |      2.000 | EA  | 85230301   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+GS1   | 84   | A4782228 | 312045002101   |      2.000 | EA  | 84210301   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+GS2A  | 86A  | A4814118 | 312045002101   |     24.000 | PR  | 86020201   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+RF QUEUE REPORT   WEDNESDAY, DECEMBER 4, 2013 08:21          PAGE   6
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+PICK  | PICK | STOCK ID | REFERENCE      | QUANTITY   | UOM | FROM       | ASSIGN TO | ACTIONED | ACTIONED | CREATED  | CUSTOMER     | CUSTOMER                            | 
+GROUP | LINE |          | NUMBER         |            |     | LOCATION   | EMPLOYEE  | DATE     | TIME     | EMPLOYEE | CODE         | NAME                                | 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+11    | 11   | A4762788 | 312045002101   |    106.000 | EA  | 11665802   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+15    | 15   | A4649470 | 312045002101   |      5.000 | EA  | 15655201   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+08    | 08   | A4749813 | 312045002101   |      4.000 | EA  | 08522701   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+19    | 19   | A4810371 | 312045002101   |      4.000 | EA  | 19522001   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+19    | 19   | A4705978 | 312045002101   |      2.000 | EA  | 19521002   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+16    | 16   | A4824587 | 312045002101   |      7.000 | EA  | 16040101   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+GS3   | 88   | A4785588 | 312045002101   |      1.000 | EA  | 88070805   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+GS2B  | 84B  | A4784685 | 312045002101   |      3.000 | ST  | 84260101   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+12    | 12   | A4784465 | 312045002101   |      1.000 | EA  | 12031001   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+11    | 11   | A4739109 | 312045002101   |      1.000 | EA  | 11045401   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+GS3   | 88   | A4713214 | 312045002101   |      5.000 | EA  | 88100602   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+13    | 13   | A4744130 | 312045002101   |      1.000 | EA  | 13165201   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+08    | 08   | A4766731 | 312045002101   |      6.000 | EA  | 08014303   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+GS2B  | 82B  | A4759395 | 312045002101   |      5.000 | EA  | 82310202   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+GS2   | 94   | A4778235 | 312045002101   |      1.000 | EA  | 94050505   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+WHSE  | 01A  | A4750627 | 312045002101   |      2.000 | EA  | 46030109   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+GS3   | 93   | A4812571 | 312045002101   |      6.000 | EA  | 93110602   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+14    | 14   | A4740790 | 312045002101   |      2.000 | EA  | 14121601   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+14    | 14   | A4790800 | 312045002101   |      6.000 | EA  | 14122801   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+14    | 14   | A4733864 | 312045002101   |      3.000 | EA  | 14122802   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+GS3   | 88   | A4733864 | 312045002101   |      3.000 | EA  | 88091001   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+14    | 14   | A4744135 | 312045002101   |      6.000 | EA  | 14132802   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+14    | 14   | A4816724 | 312045002101   |      5.000 | EA  | 14132701   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+GS2   | 95   | A4799878 | 312045002101   |    129.000 | EA  | 95130401   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+11    | 11   | A4778831 | 312045002101   |      1.000 | EA  | 11683401   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+GS3A  | 93A  | A4815426 | 312045002101   |     49.000 | EA  | 93040103   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+GS3A  | 93A  | A4795447 | 312045002101   |     57.000 | EA  | 93030305   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+09    | 09   | A4756917 | 312045002101   |      4.000 | EA  | 09530101   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+WHSE  | 01   | A4263215 | 312045002101   |      4.000 | EA  | 35040403   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+WHSE  | 04A  | A4263217 | 312045002101   |      1.000 | EA  | 63050301   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+15    | 15   | A4779645 | 312045002101   |      1.000 | EA  | 15094802   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+GS2A  | 97A  | A4780279 | 312045002401   |  2,430.000 | EA  | 97170101   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4018       | J. BLACKWOOD & SON LIMITED          | 
+GS1   | 80   | A4780280 | 312045002401   |     70.000 | EA  | 80030301   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4018       | J. BLACKWOOD & SON LIMITED          | 
+GS3   | 92   | A4823214 | 312045002501   |     40.000 | EA  | 92050101   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4017       | J. BLACKWOOD & SON PTY LIMITED      | 
+GS3   | 87   | A4822463 | 312045002601   |      1.000 | PR  | 87060902   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4017       | J. BLACKWOOD & SON PTY LIMITED      | 
+GS3   | 89   | A4752186 | 312045002701   |      6.000 | EA  | 89070802   |           | 04/12/13 | 07:36:20 | CONCURRE | BT5544       | BLACKWOODS SHEPPARTON VIC           | 
+GS1D  | 78D  | A4813428 | 312045002701   |      4.000 | EA  | 78310902   |           | 04/12/13 | 07:36:20 | CONCURRE | BT5544       | BLACKWOODS SHEPPARTON VIC           | 
+WHSE  | 27   | A4674077 | 312045002701   |      6.000 | MR  | 48030202   |           | 04/12/13 | 07:36:20 | CONCURRE | BT5544       | BLACKWOODS SHEPPARTON VIC           | 
+10    | 10   | A4790672 | 312045002701   |      1.000 | PR  | 10522302   |           | 04/12/13 | 07:36:20 | CONCURRE | BT5544       | BLACKWOODS SHEPPARTON VIC           | 
+WHSE  | 04   | A4770485 | 312045003301   |      2.000 | EA  | 36050103   |           | 04/12/13 | 07:36:20 | CONCURRE | BT5020       | BLACKWOODS ROCKHAMPTON QLD          | 
+07    | 07   | A4804144 | 312045003301   |      1.000 | EA  | 07083801   |           | 04/12/13 | 07:36:20 | CONCURRE | BT5020       | BLACKWOODS ROCKHAMPTON QLD          | 
+13    | 13   | A4824817 | 312045003301   |      1.000 | BX  | 13016401   |           | 04/12/13 | 07:36:20 | CONCURRE | BT5020       | BLACKWOODS ROCKHAMPTON QLD          | 
+17    | 17   | A4774103 | 312045003301   |    100.000 | EA  | 17070901   |           | 04/12/13 | 07:36:20 | CONCURRE | BT5020       | BLACKWOODS ROCKHAMPTON QLD          | 
+GS2B  | 97B  | A4786979 | 312045003301   |      1.000 | B6  | 97290202   |           | 04/12/13 | 07:36:20 | CONCURRE | BT5020       | BLACKWOODS ROCKHAMPTON QLD          | 
+12    | 12   | A4674887 | 312045003301   |      4.000 | EA  | 12523602   |           | 04/12/13 | 07:36:20 | CONCURRE | BT5020       | BLACKWOODS ROCKHAMPTON QLD          | 
+GS2B  | 85B  | A4786273 | 312045003301   |     12.000 | EA  | 85340202   |           | 04/12/13 | 07:36:20 | CONCURRE | BT5020       | BLACKWOODS ROCKHAMPTON QLD          | 
+GS3   | 87   | A4774167 | 312045003401   |      1.000 | CA  | 87050803   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4019       | J. BLACKWOOD & SON PTY LIMITED      | 
+13    | 13   | A4826120 | 311294762003   |      2.000 | EA  | 13616301   |           | 04/12/13 | 07:36:20 | CONCURRE | BT5512       | BLACKWOODS MARYBOROUGH QLD          | 
+13    | 13   | A4826120 | 312034919402   |      4.000 | EA  | 13616301   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4018       | J. BLACKWOOD & SON LIMITED          | 
+13    | 13   | A4826261 | 311264477110   |      1.000 | EA  | 13155703   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4013       | J. BLACKWOOD & SON PTY LIMITED      | 
+GS3   | 91   | A4823565 | 312045003601   |    144.000 | EA  | 91090204   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4017       | J. BLACKWOOD & SON PTY LIMITED      | 
+07    | 07   | A4730885 | 312045003701   |      5.000 | PR  | 07613001   |           | 04/12/13 | 07:36:20 | CONCURRE | BT6011       | J. BLACKWOOD & SON PTY LIMITED      | 
+14    | 14   | A4664927 | 312045004101   |    100.000 | EA  | 14635702   |           | 04/12/13 | 07:36:20 | CONCURRE | BT6001       | BLACKWOODS MOUNT GAMBIER            | 
+RF QUEUE REPORT   WEDNESDAY, DECEMBER 4, 2013 08:21          PAGE   7
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+PICK  | PICK | STOCK ID | REFERENCE      | QUANTITY   | UOM | FROM       | ASSIGN TO | ACTIONED | ACTIONED | CREATED  | CUSTOMER     | CUSTOMER                            | 
+GROUP | LINE |          | NUMBER         |            |     | LOCATION   | EMPLOYEE  | DATE     | TIME     | EMPLOYEE | CODE         | NAME                                | 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+GS1D  | 79D  | A4823182 | 312045004201   |     25.000 | EA  | 79281102   |           | 04/12/13 | 07:36:20 | CONCURRE | BT6011       | J. BLACKWOOD & SON PTY LIMITED      | 
+20    | 20   | A4819252 | 312045004401   |      1.000 | EA  | 20671801   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4005       | J. BLACKWOOD & SON PTY LIMITED      | 
+10    | 10   | A4557650 | 312045004501   |      2.000 | EA  | 10094102   |           | 04/12/13 | 07:36:20 | CONCURRE | BT4018       | J. BLACKWOOD & SON LIMITED          | 
+WHSE  | 01A  | A4332372 | 312045001801   |      7.000 | EA  | 46020104   |           | 04/12/13 | 07:43:14 | CONCURRE | 052195       | DOWNER EDI ENGINEERING - TULLAMARIN | 
+GS1   | 75   | A4821681 | 312045001901   |      3.000 | EA  | 75070501   |           | 04/12/13 | 07:43:14 | CONCURRE | 117026       | PHOENIX ENGINEERING GROUP PTY LTD   | 
+WHSE  | 34   | A4824901 | 312045002901   |     12.000 | EA  | 70580101   |           | 04/12/13 | 07:43:14 | CONCURRE | 116090       | SYDNEY TRAINS                       | 
+19    | 19   | A4756370 | 312045003101   |      4.000 | EA  | 19075001   |           | 04/12/13 | 07:43:14 | CONCURRE | 259547       | QDS VILLAWOOD                       | 
+12    | 12   | A4825984 | 311264503805   |     52.000 | EA  | 12701601   |           | 04/12/13 | 08:03:35 | CONCURRE | 022177       | CORRECTIVE SERVICES NSW (NON EDI)   | 
+12    | 12   | A4826263 | 311264477306   |    200.000 | EA  | 12065902   |           | 04/12/13 | 08:03:35 | CONCURRE | 880230       | PITTWATER COUNCIL                   | 
+12    | 12   | A4825984 | 311274604703   |      1.000 | EA  | 12701601   |           | 04/12/13 | 08:03:35 | CONCURRE | 030298       | KELAIR PUMPS                        | 
+10    | 10   | A4824341 | 312045004301   |      1.000 | EA  | 10711701   |           | 04/12/13 | 08:03:35 | CONCURRE | BT4004       | BAKERS CONSTRUCTION+INDUSTRIAL      | 
+GS2   | 95   | A4759017 | 312045004601   |     12.000 | EA  | 95170301   |           | 04/12/13 | 08:03:35 | CONCURRE | 021968       | HUME DOORS AUST P/L                 | 
+GS2B  | 83B  | A4758001 | 312045004601   |      6.000 | EA  | 83240101   |           | 04/12/13 | 08:03:35 | CONCURRE | 021968       | HUME DOORS AUST P/L                 | 
+WHSE  | 01A  | A4684929 | 312045004601   |     18.000 | EA  | 46030111   |           | 04/12/13 | 08:03:35 | CONCURRE | 021968       | HUME DOORS AUST P/L                 | 
+GS2A  | 86A  | A4772723 | 312045004801   |     40.000 | PR  | 86110201   |           | 04/12/13 | 08:03:35 | CONCURRE | 048237       | DAVID POWER PTY LTD                 | 
+16    | 16   | A4826287 | 311274591404   |      4.000 | EA  | 16605701   |           | 04/12/13 | 08:09:25 | CONCURRE | BT5516       | BLACKWOODS LISMORE NSW              | 
+GS1D  | 80D  | A4823570 | 312045005501   |      4.000 | PH  | 80241002   |           | 04/12/13 | 08:09:25 | CONCURRE | BT6024       | J. BLACKWOOD & SON PTY LIMITED      | 
+GS1   | 76   | A4821687 | 312045005801   |      4.000 | EA  | 76030501   |           | 04/12/13 | 08:09:25 | CONCURRE | BT5537       | BLACKWOODS-ALBURY                   | 
+16    | 16   | A4622238 | 312045005801   |     15.000 | EA  | 16184501   |           | 04/12/13 | 08:09:25 | CONCURRE | BT5537       | BLACKWOODS-ALBURY                   | 
+GS1   | 75   | A4769551 | 312045005801   |      8.000 | EA  | 75030301   |           | 04/12/13 | 08:09:25 | CONCURRE | BT5537       | BLACKWOODS-ALBURY                   | 
+GS3   | 89   | A4752612 | 312045005301   |      2.000 | PH  | 89030401   |           | 04/12/13 | 08:22:30 | CONCURRE | 012599       | EMJAY PROCESS SYSTEMS PTY LTD       | 
+
+TOTAL RECORDS    339

@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<!--2/13/2014 2:50:30 PM-->
+<FormSet>
+	<FormSetInfo hidden="0" checksum="false">
+		<Name><![CDATA[LABELN_A4]]></Name>
+		<OriginalName><![CDATA[LABELN_A4]]></OriginalName>
+		<Comment><![CDATA[ ]]></Comment>
+		<Description><![CDATA[ ]]></Description>
+		<DataType><![CDATA[_TEXT]]></DataType>
+		<Author><![CDATA[ ]]></Author>
+		<CreationDate><![CDATA[1392180342]]></CreationDate>
+		<LastModifiedDate><![CDATA[1392263428]]></LastModifiedDate>
+		<Language><![CDATA[en-US]]></Language>
+	</FormSetInfo>
+	<versioninformation>
+		<createdby name="LFComposer" version="3.4.4.0"></createdby>
+		<forms version="1.1.0.0"></forms>
+	</versioninformation>
+	<CanMerge><![CDATA[true]]></CanMerge>
+	<PdfProjectFile><![CDATA[LABELN_A4.PDF]]></PdfProjectFile>
+	<Mode><![CDATA[0]]></Mode>
+	<ACP><![CDATA[1252]]></ACP>
+	<TotalPages><![CDATA[1]]></TotalPages>
+	<ProjectImages>
+		<Image Page="1" File="LABELN_A41.jpg"></Image>
+	</ProjectImages>
+	<PDFPAGES>
+		<Page num="1">
+			<File><![CDATA[LABELN_A4.PDF]]></File>
+			<FilePage><![CDATA[1]]></FilePage>
+		</Page>
+	</PDFPAGES>
+	<PROPERTIES>
+		<PDFKeywords><![CDATA[ ]]></PDFKeywords>
+		<PDFSubject><![CDATA[ ]]></PDFSubject>
+		<PDFTitle><![CDATA[ ]]></PDFTitle>
+		<PDFVersion><![CDATA[1.7]]></PDFVersion>
+		<PDFFontMode><![CDATA[False]]></PDFFontMode>
+		<PDFFonts>
+		</PDFFonts>
+		<Permissions Perm1="False" Perm2="False" Perm3="False" Perm4="False"></Permissions>
+		<UNITS><![CDATA[CM]]></UNITS>
+		<Page>
+			<PageNum><![CDATA[1]]></PageNum>
+			<PageSetting><![CDATA[A4]]></PageSetting>
+			<LMargin><![CDATA[0.0590277761220932]]></LMargin>
+			<RMargin><![CDATA[0.0986111089587212]]></RMargin>
+			<TMargin><![CDATA[0.472222208976746]]></TMargin>
+			<BMargin><![CDATA[0.787500023841858]]></BMargin>
+			<Landscape><![CDATA[0]]></Landscape>
+			<RFIDMedia RFIDMedia="False"></RFIDMedia>
+		</Page>
+	</PROPERTIES>
+	<ADDITIONAL_FILES>
+	</ADDITIONAL_FILES>
+	<CodePage><![CDATA[1252]]></CodePage>
+	<DataProperties>
+		<LinesPerPage><![CDATA[34]]></LinesPerPage>
+	</DataProperties>
+	<currentMapFile><![CDATA[labeln.fmp]]></currentMapFile>
+	<DataMapFiles>
+		<File><![CDATA[label33.fmp]]></File>
+		<File><![CDATA[labeln.fmp]]></File>
+	</DataMapFiles>
+	<WorkFlowVars>
+		<PrintForm><![CDATA[true]]></PrintForm>
+	</WorkFlowVars>
+	<DataFile><![CDATA[spl_131218093635_out.txt]]></DataFile>
+	<Files encryptchildren="true">
+		<File name="LABELN_A4.WPF"/>
+		<File name="LABELN_A4.LFM"/>
+		<File name="LABELN_A4.pjc"/>
+		<File name="LABELN_A4.pgc"/>
+		<File name="LABELN_A41.jpg"/>
+		<File name="LABELN_A4.PDF"/>
+		<File name="label33.fmp"/>
+		<File name="labeln.fmp"/>
+		<File name="spl_131218093635_out.txt"/>
+	</Files>
+</FormSet>

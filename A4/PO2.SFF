@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<!--29/05/2013 11:51:38 p.m.-->
+<FormSet>
+	<FormSetInfo hidden="0" checksum="false">
+		<Name><![CDATA[PO2]]></Name>
+		<OriginalName><![CDATA[PO2]]></OriginalName>
+		<Comment><![CDATA[ ]]></Comment>
+		<Description><![CDATA[ ]]></Description>
+		<DataType><![CDATA[_TEXT]]></DataType>
+		<Author><![CDATA[ ]]></Author>
+		<CreationDate><![CDATA[1361880308]]></CreationDate>
+		<LastModifiedDate><![CDATA[1369835497]]></LastModifiedDate>
+		<Language><![CDATA[en-US]]></Language>
+	</FormSetInfo>
+	<versioninformation>
+		<createdby name="LFComposer" version="3.4.4.0"></createdby>
+		<forms version="1.1.0.0"></forms>
+	</versioninformation>
+	<SubformLevels><![CDATA[1]]></SubformLevels>
+	<CanMerge><![CDATA[true]]></CanMerge>
+	<PdfProjectFile><![CDATA[PO2.PDF]]></PdfProjectFile>
+	<Mode><![CDATA[3]]></Mode>
+	<ACP><![CDATA[1252]]></ACP>
+	<SubformPosition LeftMost="37" TopMost="37" RightMost="1153" BottomMost="810"></SubformPosition>
+	<TotalPages><![CDATA[1]]></TotalPages>
+	<ProjectImages>
+	</ProjectImages>
+	<PDFPAGES>
+		<Page num="1">
+			<File><![CDATA[PO2.PDF]]></File>
+			<FilePage><![CDATA[1]]></FilePage>
+		</Page>
+	</PDFPAGES>
+	<PROPERTIES>
+		<PDFKeywords><![CDATA[ ]]></PDFKeywords>
+		<PDFSubject><![CDATA[ ]]></PDFSubject>
+		<PDFTitle><![CDATA[ ]]></PDFTitle>
+		<PDFVersion><![CDATA[1.6]]></PDFVersion>
+		<PDFFontMode><![CDATA[False]]></PDFFontMode>
+		<PDFFonts>
+		</PDFFonts>
+		<Permissions Perm1="False" Perm2="False" Perm3="False" Perm4="False"></Permissions>
+		<UNITS><![CDATA[CM]]></UNITS>
+		<Page>
+			<PageNum><![CDATA[1]]></PageNum>
+			<PageSetting><![CDATA[A4]]></PageSetting>
+			<LMargin><![CDATA[0.196527779102325]]></LMargin>
+			<RMargin><![CDATA[0.196527779102325]]></RMargin>
+			<TMargin><![CDATA[0.196527779102325]]></TMargin>
+			<BMargin><![CDATA[0.196527779102325]]></BMargin>
+			<Landscape><![CDATA[1]]></Landscape>
+			<RFIDMedia RFIDMedia="False"></RFIDMedia>
+		</Page>
+	</PROPERTIES>
+	<ADDITIONAL_FILES>
+	</ADDITIONAL_FILES>
+	<CodePage><![CDATA[1252]]></CodePage>
+	<DataProperties>
+		<LinesPerPage><![CDATA[52]]></LinesPerPage>
+	</DataProperties>
+	<currentMapFile><![CDATA[po-shift.fmp]]></currentMapFile>
+	<DataMapFiles>
+		<File><![CDATA[po2.fmp]]></File>
+		<File><![CDATA[po.fmp]]></File>
+		<File><![CDATA[po-shift.fmp]]></File>
+	</DataMapFiles>
+	<WorkFlowVars>
+		<PrintForm><![CDATA[true]]></PrintForm>
+	</WorkFlowVars>
+	<DataFile><![CDATA[PST160GPR1130118115249_PO.REP]]></DataFile>
+	<Files encryptchildren="true">
+		<File name="PO2.WPF"/>
+		<File name="PO2.LFM"/>
+		<File name="PO2.PDF"/>
+	</Files>
+</FormSet>
